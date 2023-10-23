@@ -35,8 +35,8 @@ knitr::opts_chunk$set(warning = F, results = "hide", message = F)
 options(scientific=T, digits = 3) 
 # options(scipen=9, digits = 3) 
 ```
-## Loading the data from csv file
-**look at first 6 rows of the data.**
+## Loading the Data from Csv File
+**Look at first 6 rows of the data.**
 ```{r, results='markup', echo=TRUE}
 df <- data.frame(read.csv('final_dataset.csv'))
 head(df)
@@ -60,11 +60,21 @@ head(df)
 ```
 
 **Check for unique values in catgorial columns**
+
+For cab_company, we can see there are 2 unique values.
 ```{r, results='markup', echo=TRUE}
 unique(df$cab_company) #see unique values in company
+```
+
+For cab_type, we can see there are 12 unique values.
+```{r, results='markup', echo=TRUE}
 unique(df$cab_type) #see unique values in cab_type
 ```
 
+## Data Visualization
+**Hour vs Mean_Price**
+
+We want to see the relationship of hours contributed to mean_price.
 ```{r, results='markup', echo=TRUE}
 # Group by 'hour' and calculate the mean of 'price'
 df_hour_price <- aggregate(df$price, by=list(hour=df$hour), FUN=mean)
@@ -73,6 +83,9 @@ plot(df_hour_price$hour, df_hour_price$mean_price, type='l',
      xlab='hour', ylab='mean price', main='hour VS mean price')
 ```
 
+**Company vs price**
+
+We want to see if there is a difference in price in case of uber and lyft.
 ```{r, results='markup', echo=TRUE}
 # Create a figure with two subplots
 par(mfrow=c(1, 2), mar=c(5, 4, 4, 2))  # 1 row, 2 columns
@@ -87,6 +100,9 @@ hist(df$price[df$cab_company == "Uber"], col="blue", xlab="Price", ylab="Frequen
 legend("topright", legend=c("Uber", "Lyft"), fill=c("blue", "orange"))
 ```
 
+**Cab types vs Price**
+
+We want to see if cab types affect prices.
 ```{r, results='markup', echo=TRUE}
 # Create a ggplot object
 p <- ggplot(df, aes(x = cab_type, y = price, fill = cab_type)) +
@@ -102,7 +118,9 @@ p + theme_minimal() +
   theme(plot.margin = unit(c(1, 2, 1, 1), "cm"))
 ```
 
+**Distance vs Price**
 
+Use scatter plot to see the relationship between the distance and price.
 ```{r, results='markup', echo=TRUE}
 # Scatter plot: Examine the relationship between price and distance
 ggplot(df, aes(x = distance, y = price)) +
@@ -114,6 +132,9 @@ ggplot(df, aes(x = distance, y = price)) +
   theme_minimal()                                   # Use a minimalistic theme
 ```
 
+**Surge_multiplier vs Price**
+
+Use boxplot to see the relationship between the surge_multiplier and price.
 ```{r, results='markup', echo=TRUE}
 # Box plot: Examine the distribution of price across different surge multipliers
 ggplot(df, aes(x = factor(surge_multiplier), y = price)) +  # Convert surge_multiplier to factor for a clearer plot
@@ -125,6 +146,10 @@ ggplot(df, aes(x = factor(surge_multiplier), y = price)) +  # Convert surge_mult
   theme_minimal()
 ```
 
+## Description Statistics
+
+**Show standard deviations**
+
 ```{r, results='markup', echo=TRUE}
 # measure of variance
 sd(df$price)
@@ -132,6 +157,9 @@ sd(df$distance)
 sd(df$surge_multiplier)
 ```
 
+**Test normality**
+
+For hour
 ```{r, results='markup', echo=TRUE}
 # Create a histogram
 hist(df$hour)
@@ -144,6 +172,8 @@ qqline(df$hour)
 plot(density(df$hour))
 ```
 
+For price
+
 ```{r, results='markup', echo=TRUE}
 # Create a histogram
 hist(df$price)
@@ -153,6 +183,8 @@ qqnorm(df$price)
 qqline(df$price)
 plot(density(df$price))
 ```
+
+For distance
 
 ```{r, results='markup', echo=TRUE}
 # Create a histogram
@@ -164,6 +196,8 @@ qqline(df$distance)
 plot(density(df$distance))
 ```
 
+For surge_multiplier
+
 ```{r, results='markup', echo=TRUE}
 # Create a histogram
 hist(df$surge_multiplier)
@@ -173,6 +207,8 @@ qqnorm(df$surge_multiplier)
 qqline(df$surge_multiplier)
 plot(density(df$surge_multiplier))
 ```
+
+## Correlation Heatmap for Numeric Colmns
 
 ```{r, results='markup', echo=TRUE}
 #plot a correlation heat map
@@ -191,12 +227,16 @@ heatmap.2(cor_matrix,
 )
 ```
 
+## Chi-Squared Test for Cab_company & Cab_type
+
 ```{r, results='markup', echo=TRUE}
 # Chi-squared test
 chisq_result <- chisq.test(df$cab_company, df$cab_type)
 
 chisq_result
 ```
+
+## Linear Regression Analysis for distance & surge_multiplier & hour
 
 ```{r, results='markup', echo=TRUE}
 #linear regression analysis
