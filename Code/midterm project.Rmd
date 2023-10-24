@@ -151,7 +151,7 @@ ggplot(df, aes(x = factor(surge_multiplier), y = price)) +  # Convert surge_mult
 
 ``````{r, results='markup', echo=TRUE}
 # Create a 3D scatter plot
-plot_ly(data = df, x = ~hour, y = ~distance, z = ~price, type = "scatter3d", mode = "markers", marker = list(size = 3)) %>%
+plot_ly(data = df, x = ~hour, y = ~distance, z = ~price, type = "scatter3d", mode = "markers", marker = list(size = 1)) %>%
   layout(scene = list(xaxis = list(title = "Hour"), yaxis = list(title = "Distance"), zaxis = list(title = "Price")))
 
 ```
