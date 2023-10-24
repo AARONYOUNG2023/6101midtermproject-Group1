@@ -23,6 +23,7 @@ library(ggplot2)
 library(ezids)
 library(gplots)
 library(dplyr)
+library(plotly)
 ```
 
 ```{r setup, include=FALSE}
@@ -146,6 +147,15 @@ ggplot(df, aes(x = factor(surge_multiplier), y = price)) +  # Convert surge_mult
   theme_minimal()
 ```
 
+**Plot a 3D scatter plot with arguements hour, distance, price**
+
+``````{r, results='markup', echo=TRUE}
+# Create a 3D scatter plot
+plot_ly(data = df, x = ~hour, y = ~distance, z = ~price, type = "scatter3d", mode = "markers", marker = list(size = 3)) %>%
+  layout(scene = list(xaxis = list(title = "Hour"), yaxis = list(title = "Distance"), zaxis = list(title = "Price")))
+
+```
+
 ## Description Statistics
 
 **Show standard deviations**
@@ -243,3 +253,8 @@ chisq_result
 linear_model <- lm(price~distance + surge_multiplier + hour,data = df)
 summary(linear_model)
 ```
+
+
+
+
+
