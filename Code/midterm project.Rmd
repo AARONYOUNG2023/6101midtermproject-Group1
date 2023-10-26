@@ -84,6 +84,39 @@ plot(df_hour_price$hour, df_hour_price$mean_price, type='l',
      xlab='hour', ylab='mean price', main='hour VS mean price')
 ```
 
+```{r, results='markup', echo=TRUE}
+
+# Extract relevant columns from 'data' into 'cab_data'
+cab_data <- df[c("hour", "price", "cab_company")]
+
+# Filter the data for each company
+uber_data <- cab_data[cab_data$cab_company == 'Uber',]
+lyft_data <- cab_data[cab_data$cab_company == 'Lyft',]
+
+# Plot for Uber
+ggplot(data = uber_data, aes(x = hour, y = price)) + 
+  geom_line(aes(group = 1), colour = "blue") + 
+  geom_point(aes(color = hour)) +
+  labs(title = "Hourly Uber Prices", x = "Hour", y = "Price") +
+  theme_minimal()
+
+# Plot for Lyft
+ggplot(data = lyft_data, aes(x = hour, y = price)) + 
+  geom_line(aes(group = 1), colour = "red") + 
+  geom_point(aes(color = hour)) +
+  labs(title = "Hourly Lyft Prices", x = "Hour", y = "Price") +
+  theme_minimal()
+
+# Combined plot 
+ggplot(data = cab_data, aes(x = hour, y = price, color = cab_company, group = cab_company)) + 
+  geom_line() + 
+  geom_point(aes(shape = cab_company)) +
+  labs(title = "Hourly Uber vs Lyft Prices", x = "Hour", y = "Price") +
+  scale_color_manual(values = c("blue", "red")) +
+  theme_minimal()
+
+```
+
 **Company vs price**
 
 We want to see if there is a difference in price in case of uber and lyft.
@@ -92,10 +125,10 @@ We want to see if there is a difference in price in case of uber and lyft.
 par(mfrow=c(1, 2), mar=c(5, 4, 4, 2))  # 1 row, 2 columns
 
 # Plot histograms by cab_type for Lyft
-hist(df$price[df$cab_company == "Lyft"], col="orange", xlab="Price", ylab="Frequency", main="Histogram of Prices by Cab Type (Lyft)")
+hist(df$price[df$cab_company == "Lyft"], col="orange", xlab="Price", ylab="Frequency", main="Histogram of Prices by Cab Company (Lyft)")
 
 # Plot histograms by cab_type for Uber
-hist(df$price[df$cab_company == "Uber"], col="blue", xlab="Price", ylab="Frequency", main="Histogram of Prices by Cab Type (Uber)")
+hist(df$price[df$cab_company == "Uber"], col="blue", xlab="Price", ylab="Frequency", main="Histogram of Prices by Cab Company (Uber)")
 
 # Add legend to the figure
 legend("topright", legend=c("Uber", "Lyft"), fill=c("blue", "orange"))
@@ -250,7 +283,7 @@ chisq_result
 
 ```{r, results='markup', echo=TRUE}
 #linear regression analysis
-linear_model <- lm(price~distance + surge_multiplier + hour,data = df)
+linear_model <- lm(price~distance + surge_multiplier,data = df)
 summary(linear_model)
 ```
 
