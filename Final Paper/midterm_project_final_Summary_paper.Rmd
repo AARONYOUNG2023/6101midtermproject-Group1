@@ -344,7 +344,7 @@ plot(density(df$surge_multiplier))
 ## Correlation Heatmap for Numeric Colmns
 
 We will next use Correlation Heatmap to explore the relationship between the four key numerical variables of price, surge_multiplier, distance and time hours. These variables play an important role in the field of shared mobility services, and the relationship between them is crucial for understanding price fluctuations and pricing strategies.
-By using a heat map, we will visually demonstrate the correlation between these four variables. We will examine the following question: Is there a correlation between price and surge_multiplier? Is ride distance significantly related to price? Are hours related to price or other factors? Are these relationships positive or negative? .
+By using a heat map, we will visually demonstrate the correlation between these four variables. We will examine the following question: Is there a correlation between price and surge_multiplier? Is ride distance significantly related to price? Are hours related to price or other factors? Are these relationships positive or negative? 
 This research will reveal the relationships between data through heat maps, providing a basis for further data analysis and decision-making.
 
 ```{r, results='markup', echo=TRUE}
