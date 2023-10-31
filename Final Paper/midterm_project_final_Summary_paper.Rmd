@@ -258,7 +258,7 @@ The range of prices (difference between the first and third quartile) seems to b
 
 In data visualization, 3D scatter plot is a powerful tool for showing the relationship between three variables at the same time. For better observation and confirmation, we will create a 3D scatter plot to study the relationship between the three variables "hour" , "distance"  and "price".
 Time, distance and price are key factors in shared mobility services, and they are intertwined to affect the ride experience and cost. With a 3D scatter plot, we will be able to show the relationship between these variables in a three-dimensional way.
-``````{r, results='markup', echo=TRUE}
+```{r, results='markup', echo=TRUE}
 # Create a 3D scatter plot
 plot_ly(data = df, x = ~hour, y = ~distance, z = ~price, type = "scatter3d", mode = "markers", marker = list(size = 1)) %>%
   layout(scene = list(xaxis = list(title = "Hour"), yaxis = list(title = "Distance"), zaxis = list(title = "Price")))
