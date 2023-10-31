@@ -273,6 +273,14 @@ Density: The concentration of data points in the middle area indicates that most
 
 ## Description Statistics
 
+When conducting data analysis and statistical research, measuring the standard deviations of the data and whether the distribution of the data satisfies the normal distribution Test normality is usually a key link. Both factors play an important role in determining the appropriateness of statistical analyses, selecting appropriate statistical methods, and interpreting study results. In the following sections, we explore the role of standard deviation and normality tests in data analysis.
+
+First, we will use standard deviation to evaluate the dispersion of price data to understand how volatile prices are under different conditions. The analysis of standard deviation will help us determine the stability and reliability of the data and provide a basis for further statistical analysis.
+
+Second, the normality test is used to determine whether the data conform to the assumption of normal distribution. Normal distribution is of great significance in statistical analysis. By performing a normality test, we can understand whether the data distribution is close to a normal distribution, or whether there is an obvious deviation, to ensure that we choose appropriate statistical methods and correctly interpret the research results.
+
+Through the analysis of standard deviations and normality tests, we will better understand the nature of the data and the appropriateness of statistical analysis. This will help ensure the reliability of our research methods and results.
+
 **Show standard deviations**
 
 ```{r, results='markup', echo=TRUE}
@@ -335,6 +343,10 @@ plot(density(df$surge_multiplier))
 
 ## Correlation Heatmap for Numeric Colmns
 
+We will next use Correlation Heatmap to explore the relationship between the four key numerical variables of price, surge_multiplier, distance and time hours. These variables play an important role in the field of shared mobility services, and the relationship between them is crucial for understanding price fluctuations and pricing strategies.
+By using a heat map, we will visually demonstrate the correlation between these four variables. We will examine the following question: Is there a correlation between price and surge_multiplier? Is ride distance significantly related to price? Are hours related to price or other factors? Are these relationships positive or negative? .
+This research will reveal the relationships between data through heat maps, providing a basis for further data analysis and decision-making.
+
 ```{r, results='markup', echo=TRUE}
 #plot a correlation heat map
 df_numeric <- df[,1:4] #only numeric cols
@@ -354,6 +366,10 @@ heatmap.2(cor_matrix,
 
 ## Chi-Squared Test for Cab_company & Cab_type
 
+Chi-Squared Test is a powerful tool for studying relationships between categorical data. In this study, we will use the chi-square test to explore the relationship between Cab_company and Cab_type.
+
+Cab_company and Cab_type are two important classification variables in the field of shared travel services. Taxi companies may offer different services, and the type of taxi usually reflects the comfort of the vehicle, pricing strategy, and ride experience. Using the chi-square test, we will explore the following question: Is there an association between taxi companies and taxi types? Is the relationship between these two categorical variables significant? The chi-square test will help us determine the degree of correlation between taxi companies and taxi types and prices, and whether they influence each other.
+
 ```{r, results='markup', echo=TRUE}
 # Chi-squared test
 chisq_result <- chisq.test(df$cab_company, df$cab_type)
@@ -362,6 +378,10 @@ chisq_result
 ```
 
 ## Linear Regression Analysis for distance & surge_multiplier & hour
+
+Finally, we chose linear regression analysis to explore the relationship between the three independent variables distance, surge_multiplier and hour and price.
+We will explore whether distance, surge_multiplier and time have a linear relationship with price, and how these independent variables explain price changes.
+Linear regression analysis will help us quantify the extent to which these factors affect prices.
 
 ```{r, results='markup', echo=TRUE}
 #linear regression analysis
