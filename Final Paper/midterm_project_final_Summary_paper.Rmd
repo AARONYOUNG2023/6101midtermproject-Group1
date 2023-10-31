@@ -378,3 +378,10 @@ In contrast, the time factor (hours) does not have a strong explanatory power on
 Furthermore, we observe a linear relationship between distance, doubling of peak-hour passenger numbers, and price, meaning that changes in price can be explained by a linear combination of these factors.
 In our research, we also found a strong correlation between "cab_company" and "cab_type". This may be because Uber and Lyft's pricing strategies relate to different taxi companies and car models. Especially "cab_type" as a string type variable, we did not study it in depth, but we think that in future research, it may become an important factor, because different types of cars may have a significant impact on the price.
 Overall, our study provides useful insights into the factors that drive Uber and Lyft prices, highlights the importance of distance and peak-hour ridership doubling, and points to some potential research directions such as different taxis The impact of company and model on price. These results contribute to a better understanding of price-setting strategies for shared mobility services, providing more information and insights to passengers and drivers.
+
+
+# Reference Page
+
+1.Brllrb. (2019). Uber and Lyft Dataset: Boston, MA. Kaggle. https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma/data
+
+2.Peng, R. D., & Matsui, E. (2016). Art of Data Science.
