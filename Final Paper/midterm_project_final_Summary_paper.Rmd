@@ -211,7 +211,7 @@ From the chart, we tried to analyze cab_type and price in Lyft:
 Lux has the lowest median price in the luxury category, with some outliers at the high end.
 Lux Black and Lux Black XL have higher median prices, suggesting they offer better service. Lyft and Lyft XL have lower median prices than luxury cars, making them more affordable for average users. Lyft XL's price range is slightly higher than standard Lyft, likely due to its larger vehicle capacity. As expected, shared rides have the lowest median prices because riders share the cost with others.
 
-And taxi types and prices in Uber:
+And Cab_types and prices in Uber:
 Black and black SUVs have higher median prices, reflecting their premium nature.
 UberPool has a tight price distribution, with the lowest median price, which is expected since it is a shared service. UberX has a slightly higher median price than UberPool, but is more affordable than luxury cars. UberXL has a higher median price than UberX due to its larger vehicle capacity. WAV has a narrow price distribution, but its median price is relatively high.
 
@@ -381,7 +381,7 @@ Therefore, the hour variable has the lowest relationship with price. In the late
 
 Chi-Squared Test is a powerful tool for studying relationships between categorical data. In this study, we will use the chi-square test to explore the relationship between Cab_company and Cab_type.
 
-Cab_company and Cab_type are two important classification variables in the field of shared travel services. Taxi companies may offer different services, and the type of taxi usually reflects the comfort of the vehicle, pricing strategy, and ride experience. Using the chi-square test, we will explore the following question: Is there an association between taxi companies and taxi types? Is the relationship between these two categorical variables significant? The chi-square test will help us determine the degree of correlation between taxi companies and taxi types and prices, and whether they influence each other.
+Cab_company and Cab_type are two important classification variables in the field of shared travel services. Taxi companies may offer different services, and the type of online car hailing usually reflects the comfort of the vehicle, pricing strategy, and ride experience. Using the chi-square test, we will explore the following question: Is there an association between Cab_companies and Cab_types? Is the relationship between these two categorical variables significant? The chi-square test will help us determine the degree of correlation between Cab_companies and Cab_types and prices, and whether they influence each other.
 
 ```{r, results='markup', echo=TRUE}
 # Chi-squared test
@@ -392,11 +392,11 @@ chisq_result
 
 Chi-Squared Value: Chi-Squared (X-squared) value is 6000. This value represents a statistic calculated by the chi-square test that measures the deviation between observed and expected data. Large Chi-Squared values usually indicate significant differences between observed and expected values.
 Degrees of Freedom (df) is 11. In the Chi-Squared test, the degrees of freedom represent the amount of independent information used to calculate the chi-square value. In this case, there are 11 degrees of freedom, which are related to the relationship between different companies and car types.
-p-Value: p-Value is less than 2e-16, which is close to zero. p-Value measures whether the difference between observed and expected data is significant. Here, a p-Value close to zero indicates that the observed differences are significant, i.e., the relationship between taxi company and taxi type is unlikely to arise by chance.
+p-Value: p-Value is less than 2e-16, which is close to zero. p-Value measures whether the difference between observed and expected data is significant. Here, a p-Value close to zero indicates that the observed differences are significant, i.e., the relationship between Cab_company and Cab_type is unlikely to arise by chance.
 Based on the results of this Chi-Squared Test, we can draw the following conclusions:
 There is a significant correlation between Cab_company and Cab_type. A p-Value close to zero indicates that the relationship between the two categorical variables is unlikely to occur by chance but is caused by some systematic association.
-A Chi-Squared value of 6000 indicates that the observed and expected data deviate significantly. This means that the distribution varies significantly between taxi companies and taxi types.
-Taken together, the results of this Chi-Squared Test indicate that the relationship between taxi companies and taxi types is significant and deserves further research and analysis.
+A Chi-Squared value of 6000 indicates that the observed and expected data deviate significantly. This means that the distribution varies significantly between cap_companies and cap_types.
+Taken together, the results of this Chi-Squared Test indicate that the relationship between Cab_companies and Cab_types is significant and deserves further research and analysis.
 
 
 
@@ -433,12 +433,12 @@ A positive coefficient for doubling the number of passengers during peak hours i
 The overall model is statistically significant, indicating that the independent variables explain the price significantly.
 
 
-# Summary
+# Summary 
 In our data analysis, we looked at the relationship between Uber and Lyft prices and different factors. Our results show that there is a strong correlation between distance and the surge_multiplier in the number of passengers during peak hours and price. In particular, distance and the doubling of passenger numbers during peak hours can largely explain changes in prices. This means that longer distances and doubling the number of passengers during peak times tend to lead to higher prices, which are key factors for both passengers and drivers.
 In contrast, the time factor (hours) does not have a strong explanatory power on prices. Our analysis found that the correlation between time and price is relatively weak, and even if we try to exclude the impact of time factors on price, there is no significant change. This may indicate that time is not the main factor in determining price.
 Furthermore, we observe a linear relationship between distance, doubling of peak-hour passenger numbers, and price, meaning that changes in price can be explained by a linear combination of these factors.
-In our research, we also found a strong correlation between "cab_company" and "cab_type". This may be because Uber and Lyft's pricing strategies relate to different taxi companies and car models. Especially "cab_type" as a string type variable, we did not study it in depth, but we think that in future research, it may become an important factor, because different types of cars may have a significant impact on the price.
-Overall, our study provides useful insights into the factors that drive Uber and Lyft prices, highlights the importance of distance and peak-hour ridership doubling, and points to some potential research directions such as different taxis The impact of company and model on price. These results contribute to a better understanding of price-setting strategies for shared mobility services, providing more information and insights to passengers and drivers.
+In our research, we also found a strong correlation between "Cab_company" and "Cab_type". This may be because Uber and Lyft's pricing strategies relate to different Cab_companies and car models. Especially "Cab_type" as a string type variable, we did not study it in depth, but we think that in future research, it may become an important factor, because different types of cars may have a significant impact on the price.
+Overall, our study provides useful insights into the factors that drive Uber and Lyft prices, highlights the importance of distance and peak-hour ridership doubling, and points to some potential research directions such as different cabs The impact of company and model on price. These results contribute to a better understanding of price-setting strategies for shared mobility services, providing more information and insights to passengers and drivers.
 
 
 # Reference Page
