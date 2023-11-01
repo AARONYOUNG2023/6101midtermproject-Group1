@@ -1,0 +1,6001 @@
+hour,price,distance,surge_multiplier,cab_type,name
+6,7.0,4.51,1.0,Lyft,Shared
+0,10.5,2.8,1.0,Uber,WAV
+12,7.0,1.09,1.0,Lyft,Lyft
+3,15.5,0.92,1.0,Uber,Black
+9,16.5,1.12,1.0,Lyft,Lux Black
+10,15.0,5.56,1.0,Uber,WAV
+17,19.5,3.4,1.0,Lyft,Lyft XL
+6,11.0,0.73,1.0,Lyft,Lux
+12,11.0,2.45,1.0,Uber,UberX
+23,28.5,2.8,1.0,Uber,Black SUV
+9,9.5,2.82,1.0,Uber,WAV
+9,16.0,5.7,1.0,Uber,WAV
+0,6.5,1.16,1.0,Uber,UberPool
+19,7.5,1.57,1.0,Uber,UberX
+10,7.0,2.69,1.0,Lyft,Shared
+4,9.5,2.27,1.0,Uber,UberX
+4,26.0,3.44,1.0,Uber,Black
+3,16.5,4.72,1.0,Lyft,Shared
+11,27.5,2.37,1.0,Lyft,Lux Black XL
+2,39.5,3.22,1.0,Uber,Black SUV
+10,16.5,2.4,1.0,Lyft,Lux
+23,8.5,1.79,1.0,Uber,WAV
+13,11.5,3.8,1.0,Uber,UberX
+3,30.0,2.39,1.0,Lyft,Lux Black XL
+2,9.5,2.33,1.0,Uber,UberX
+22,11.0,1.24,1.0,Lyft,Lyft XL
+16,3.5,1.48,1.0,Lyft,Shared
+16,8.5,0.92,1.0,Uber,WAV
+5,19.5,2.83,1.0,Lyft,Lux
+23,16.5,1.15,1.0,Lyft,Lux Black
+18,3.5,1.53,1.0,Lyft,Shared
+20,10.5,2.7,1.0,Uber,UberX
+12,16.0,1.61,1.0,Uber,Black
+16,35.0,3.45,1.0,Uber,Black SUV
+20,26.0,1.45,1.0,Lyft,Lux Black XL
+2,9.0,1.66,1.0,Lyft,Lyft
+23,19.5,1.2,1.0,Lyft,Lux Black
+8,10.5,3.16,1.0,Uber,UberX
+10,22.5,2.72,1.0,Lyft,Lux Black
+10,8.5,2.17,1.0,Uber,WAV
+0,8.0,1.44,1.0,Uber,WAV
+18,8.5,1.57,1.0,Uber,WAV
+3,8.0,2.86,1.0,Uber,UberX
+22,13.5,2.28,1.0,Lyft,Lyft XL
+12,42.5,4.68,1.75,Lyft,Lux
+22,8.5,2.46,1.0,Uber,UberX
+5,15.0,0.39,1.0,Uber,Black
+17,10.5,2.84,1.0,Uber,WAV
+12,27.0,2.27,1.0,Uber,Black SUV
+16,16.5,2.45,1.0,Lyft,Lux
+7,32.5,2.05,1.0,Lyft,Lux Black XL
+9,16.5,2.52,1.0,Lyft,Lux
+17,16.5,2.86,1.0,Lyft,Lyft XL
+14,8.0,1.56,1.0,Uber,UberX
+4,10.5,1.22,1.0,Lyft,Lyft XL
+15,16.5,2.79,1.0,Lyft,Lyft XL
+10,7.0,2.88,1.0,Lyft,Shared
+4,22.5,2.68,1.0,Lyft,Lux Black
+2,27.5,1.72,1.0,Lyft,Lux Black XL
+20,22.5,2.44,1.0,Lyft,Lux Black
+3,34.0,4.61,1.0,Lyft,Lux Black
+20,11.0,2.33,1.0,Lyft,Lyft
+18,30.0,3.41,1.0,Lyft,Lux Black
+8,7.5,2.14,1.0,Uber,UberPool
+17,19.5,2.61,1.0,Lyft,Lyft XL
+10,19.0,4.4,1.0,Uber,UberXL
+16,14.0,4.72,1.0,Uber,UberX
+20,16.5,1.53,1.0,Lyft,Lux Black
+3,13.5,1.44,1.0,Lyft,Lux
+9,26.5,1.44,1.0,Uber,Black SUV
+1,26.0,3.4,1.0,Uber,Black
+9,5.0,1.35,1.0,Lyft,Shared
+7,9.0,2.66,1.0,Uber,WAV
+18,30.0,1.76,1.0,Lyft,Lux Black XL
+11,26.0,3.23,1.0,Lyft,Lux Black
+7,14.0,1.81,1.0,Uber,UberXL
+22,9.0,2.63,1.0,Uber,UberPool
+12,27.0,1.21,1.0,Uber,Black SUV
+4,19.5,1.82,1.0,Lyft,Lux
+17,7.0,1.47,1.0,Lyft,Lyft
+18,16.5,2.77,1.0,Lyft,Lux
+9,26.0,0.39,1.0,Uber,Black SUV
+12,38.5,3.4,1.0,Lyft,Lux Black XL
+16,41.0,4.4,1.0,Uber,Black SUV
+23,8.5,2.46,1.0,Uber,UberX
+3,28.0,2.14,1.0,Uber,Black SUV
+17,7.0,1.16,1.0,Uber,UberX
+13,8.0,2.24,1.0,Uber,UberPool
+8,27.0,0.99,1.0,Uber,Black SUV
+6,26.0,1.21,1.0,Uber,Black SUV
+15,11.0,2.93,1.0,Lyft,Lyft
+1,9.5,2.66,1.0,Uber,UberPool
+17,15.0,1.16,1.0,Uber,Black
+1,5.0,0.57,1.0,Lyft,Shared
+10,26.0,1.68,1.0,Uber,Black SUV
+17,9.0,2.96,1.0,Lyft,Lyft
+23,9.5,2.27,1.0,Uber,WAV
+8,16.5,1.08,1.0,Lyft,Lux Black
+0,32.5,4.69,1.25,Lyft,Lux
+13,29.5,2.48,1.0,Uber,Black SUV
+21,19.5,1.08,1.0,Lyft,Lux Black
+2,10.5,1.46,1.0,Lyft,Lyft XL
+18,9.5,2.86,1.0,Uber,WAV
+2,18.5,3.39,1.0,Uber,UberXL
+20,5.0,1.23,1.0,Lyft,Shared
+13,67.5,2.81,2.0,Lyft,Lux Black XL
+9,9.5,2.66,1.0,Uber,UberX
+17,9.5,0.54,1.0,Uber,UberXL
+12,9.5,0.55,1.0,Uber,UberXL
+22,19.0,3.22,1.0,Uber,UberXL
+17,10.5,2.4,1.0,Lyft,Lyft
+21,7.0,1.5,1.0,Uber,WAV
+13,9.0,2.9,1.0,Lyft,Shared
+21,11.5,3.08,1.0,Uber,UberX
+2,20.5,1.65,1.0,Uber,Black
+16,3.0,0.59,1.0,Lyft,Shared
+9,16.5,1.82,1.0,Lyft,Lux
+21,9.5,2.8,1.0,Uber,UberX
+22,27.5,1.02,1.0,Lyft,Lux Black XL
+23,20.5,2.62,1.0,Uber,UberXL
+20,22.5,2.8,1.0,Lyft,Lux
+13,8.5,2.48,1.0,Uber,WAV
+19,10.5,1.92,1.0,Lyft,Lyft
+4,9.0,3.04,1.0,Uber,UberPool
+17,7.5,1.12,1.0,Uber,UberPool
+18,3.0,0.78,1.0,Lyft,Shared
+23,8.5,0.49,1.0,Uber,WAV
+10,18.0,3.37,1.0,Uber,UberXL
+3,11.0,1.28,1.0,Lyft,Lyft XL
+19,16.5,3.09,1.0,Lyft,Lyft XL
+5,13.5,1.34,1.0,Lyft,Lux
+0,17.0,3.08,1.0,Uber,UberXL
+11,7.5,1.1,1.0,Uber,UberPool
+18,9.0,1.08,1.0,Uber,UberPool
+6,25.0,3.01,1.0,Uber,Black
+13,16.5,2.89,1.0,Lyft,Lyft XL
+22,31.5,4.48,1.0,Uber,Black
+6,3.5,4.45,1.0,Lyft,Shared
+9,11.0,1.36,1.0,Lyft,Lyft XL
+3,30.0,2.3,1.0,Lyft,Lux Black XL
+20,8.5,1.16,1.0,Uber,WAV
+16,18.0,3.2,1.0,Uber,UberXL
+18,7.5,1.06,1.0,Uber,WAV
+3,34.0,3.03,1.0,Lyft,Lux Black XL
+0,7.0,0.73,1.0,Lyft,Lyft
+7,13.0,1.36,1.0,Uber,UberXL
+8,8.0,1.03,1.0,Uber,WAV
+0,37.5,4.4,1.0,Uber,Black SUV
+14,5.0,2.41,1.0,Lyft,Shared
+13,16.5,1.12,1.0,Lyft,Lux Black
+3,11.5,3.22,1.0,Uber,UberX
+4,10.5,0.71,1.0,Lyft,Lux
+17,10.0,3.3,1.0,Uber,UberPool
+12,25.0,3.05,1.0,Uber,Black
+22,7.5,1.49,1.0,Uber,UberPool
+22,13.5,2.19,1.0,Uber,UberXL
+19,10.5,4.55,1.0,Lyft,Shared
+3,16.5,3.08,1.0,Uber,UberX
+6,7.0,2.4,1.0,Lyft,Shared
+6,32.5,3.26,1.5,Lyft,Lux
+10,7.0,1.55,1.0,Lyft,Lyft
+21,16.5,3.09,1.0,Lyft,Lyft XL
+12,19.5,2.79,1.0,Uber,Black
+16,45.5,1.18,1.75,Lyft,Lux Black XL
+23,26.0,0.99,1.0,Uber,Black SUV
+4,10.5,0.42,1.0,Lyft,Lux
+9,16.5,1.27,1.0,Lyft,Lux Black
+13,16.5,2.71,1.0,Lyft,Lyft XL
+23,7.0,1.1,1.0,Uber,UberX
+22,19.5,3.32,1.0,Lyft,Lyft XL
+17,9.0,3.03,1.0,Lyft,Shared
+12,3.0,2.66,1.0,Lyft,Shared
+15,16.5,3.13,1.5,Lyft,Lyft
+8,16.0,1.31,1.0,Uber,Black
+21,7.0,1.25,1.0,Uber,WAV
+16,8.5,2.48,1.0,Uber,UberPool
+16,14.0,3.44,1.0,Uber,UberPool
+11,30.0,2.3,1.0,Lyft,Lux Black XL
+4,21.5,2.57,1.0,Uber,Black
+6,32.0,2.66,1.0,Uber,Black SUV
+7,15.0,2.27,1.0,Uber,UberXL
+19,9.5,1.41,1.0,Uber,UberPool
+13,19.5,2.96,1.0,Lyft,Lux
+23,7.0,2.39,1.0,Lyft,Shared
+16,9.0,2.37,1.0,Lyft,Lyft
+4,13.0,1.88,1.0,Uber,UberXL
+16,17.0,1.23,1.0,Uber,Black
+7,15.0,4.42,1.0,Uber,WAV
+5,14.0,1.51,1.0,Uber,UberXL
+2,26.0,1.16,1.0,Uber,Black SUV
+0,32.0,2.84,1.0,Uber,Black SUV
+3,32.5,2.34,1.0,Lyft,Lux Black XL
+13,3.0,0.43,1.0,Lyft,Shared
+16,10.5,0.91,1.0,Uber,UberXL
+7,27.5,0.49,1.0,Uber,Black SUV
+3,9.0,3.09,1.0,Lyft,Shared
+17,9.0,2.38,1.0,Uber,UberPool
+21,7.5,1.03,1.0,Uber,WAV
+11,19.5,2.79,1.0,Uber,Black
+20,19.0,1.81,1.0,Uber,Black
+16,27.5,3.53,1.0,Uber,Black
+14,26.0,1.23,1.0,Lyft,Lux Black XL
+1,9.5,2.32,1.0,Uber,UberX
+2,16.5,2.65,1.0,Lyft,Lyft XL
+21,38.5,3.39,1.0,Uber,Black SUV
+23,27.5,1.03,1.0,Lyft,Lux Black XL
+16,7.0,2.61,1.0,Lyft,Shared
+16,9.0,0.4,1.0,Lyft,Lyft XL
+14,38.0,3.44,1.0,Lyft,Lux Black XL
+2,7.0,2.89,1.0,Lyft,Shared
+1,42.5,4.65,1.0,Lyft,Lux Black XL
+22,27.5,1.2,1.0,Lyft,Lux Black XL
+18,13.5,1.15,1.0,Lyft,Lux
+7,32.5,4.78,1.0,Lyft,Lux Black
+19,13.5,2.14,1.0,Lyft,Lyft XL
+10,15.5,2.79,1.0,Uber,UberXL
+10,11.5,3.07,1.0,Uber,WAV
+15,9.5,2.3,1.0,Uber,WAV
+23,11.0,0.66,1.0,Lyft,Lux
+15,10.5,1.5,1.0,Lyft,Lyft XL
+5,5.5,0.49,1.0,Uber,UberPool
+14,17.0,2.62,1.0,Uber,UberXL
+20,9.5,2.82,1.0,Uber,UberX
+11,26.5,1.56,1.0,Uber,Black SUV
+12,34.0,3.16,1.0,Lyft,Lux Black XL
+7,9.5,2.33,1.0,Uber,UberX
+18,26.0,0.39,1.0,Uber,Black SUV
+10,31.5,2.58,1.0,Uber,Black SUV
+14,11.0,3.64,1.0,Lyft,Lyft
+16,26.0,2.71,1.0,Lyft,Lux Black
+3,26.0,0.46,1.0,Lyft,Lux Black XL
+0,27.5,3.15,1.0,Lyft,Lux Black
+23,21.5,4.4,1.0,Uber,UberXL
+12,12.0,1.57,1.0,Uber,UberXL
+17,7.0,2.96,1.0,Lyft,Shared
+12,16.5,3.01,1.0,Uber,UberXL
+22,15.0,1.89,1.0,Uber,UberXL
+2,12.0,3.05,1.0,Uber,UberX
+18,10.5,0.64,1.0,Lyft,Lux
+17,8.5,2.19,1.0,Uber,UberX
+11,27.0,1.34,1.0,Uber,Black SUV
+11,26.0,1.46,1.0,Lyft,Lux Black XL
+14,15.0,1.26,1.0,Uber,Black
+6,9.5,2.62,1.0,Uber,UberX
+16,7.0,2.57,1.0,Lyft,Shared
+20,3.0,1.26,1.0,Lyft,Shared
+22,7.5,0.61,1.0,Uber,UberX
+20,5.0,1.18,1.0,Lyft,Shared
+19,24.0,3.04,1.0,Uber,Black
+18,14.5,7.46,1.0,Uber,UberPool
+2,11.0,3.53,1.0,Uber,UberPool
+8,18.5,1.61,1.0,Uber,Black
+6,7.0,3.07,1.0,Lyft,Shared
+16,8.5,1.91,1.0,Uber,WAV
+14,11.5,1.16,1.0,Uber,UberXL
+19,36.5,3.07,1.0,Uber,Black SUV
+14,11.5,3.22,1.0,Uber,UberX
+7,19.5,3.02,1.0,Lyft,Lux
+12,14.0,2.29,1.0,Uber,UberXL
+6,8.0,1.16,1.0,Uber,UberPool
+12,10.5,2.66,1.0,Uber,UberX
+16,31.5,3.04,1.0,Uber,Black SUV
+2,7.5,1.11,1.0,Uber,UberPool
+13,11.0,0.66,1.25,Lyft,Lyft XL
+8,13.0,1.61,1.0,Uber,UberXL
+12,5.0,1.49,1.0,Lyft,Shared
+13,10.5,3.05,1.0,Uber,UberX
+13,9.5,0.72,1.0,Uber,UberX
+13,11.5,0.8,1.0,Uber,UberXL
+5,26.0,2.69,1.75,Lyft,Lyft XL
+12,26.0,0.49,1.0,Uber,Black SUV
+14,7.0,1.47,1.0,Lyft,Lyft
+8,7.0,1.5,1.0,Uber,WAV
+17,7.0,3.16,1.0,Lyft,Shared
+17,28.0,1.57,1.0,Uber,Black SUV
+6,10.5,0.56,1.0,Uber,UberXL
+2,3.5,1.39,1.0,Lyft,Shared
+14,32.5,3.21,1.0,Lyft,Lux Black XL
+10,19.5,1.41,1.0,Uber,Black
+5,27.5,0.54,1.0,Lyft,Lux Black XL
+11,19.5,2.41,1.0,Lyft,Lux
+10,20.5,2.27,1.0,Uber,Black
+1,13.5,2.48,1.25,Lyft,Lyft
+21,7.0,1.03,1.0,Lyft,Lyft
+11,26.5,1.64,1.0,Uber,Black SUV
+13,16.5,2.5,1.0,Lyft,Lux
+6,26.0,1.08,1.0,Uber,Black SUV
+22,11.0,3.4,1.0,Lyft,Lyft
+17,26.0,0.92,1.0,Uber,Black SUV
+14,26.0,3.15,1.0,Lyft,Lux Black
+0,11.0,1.36,1.0,Lyft,Lyft XL
+9,11.0,3.02,1.0,Lyft,Lyft
+18,29.5,1.8,1.0,Uber,Black SUV
+5,11.5,1.34,1.0,Uber,UberXL
+9,13.5,1.99,1.0,Uber,UberXL
+12,11.0,4.72,1.0,Uber,UberPool
+23,7.0,0.91,1.0,Uber,UberPool
+5,32.5,3.01,1.0,Lyft,Lux Black XL
+23,32.5,2.39,1.0,Lyft,Lux Black XL
+6,9.5,2.27,1.0,Uber,UberX
+8,22.5,2.15,1.25,Lyft,Lux
+1,19.5,3.24,1.0,Lyft,Lyft XL
+6,16.5,2.94,1.0,Lyft,Lyft XL
+1,27.5,1.19,1.0,Lyft,Lux Black XL
+10,13.5,2.41,1.0,Lyft,Lyft XL
+19,7.0,1.35,1.0,Lyft,Lyft
+20,27.0,1.49,1.0,Uber,Black SUV
+3,10.5,2.42,1.0,Lyft,Lyft
+23,52.5,4.32,1.5,Lyft,Lux Black
+16,9.0,2.31,1.0,Lyft,Lyft
+14,16.5,0.65,1.0,Lyft,Lux Black
+11,14.0,1.51,1.0,Uber,UberXL
+17,3.0,3.26,1.0,Lyft,Shared
+6,32.5,2.89,1.0,Lyft,Lux Black XL
+18,22.5,4.27,2.0,Lyft,Lyft
+13,13.5,1.72,1.0,Lyft,Lyft XL
+0,5.0,0.71,1.0,Lyft,Shared
+22,26.0,2.86,1.0,Uber,Black
+22,36.0,3.39,1.0,Uber,Black SUV
+10,9.0,1.35,1.0,Uber,UberPool
+12,22.5,1.47,1.25,Lyft,Lux Black
+0,29.5,4.9,1.0,Uber,WAV
+9,16.5,1.71,1.0,Lyft,Lux
+23,17.5,1.41,1.0,Uber,Black
+11,15.5,2.2,1.0,Uber,UberXL
+15,10.5,0.77,1.0,Lyft,Lux
+2,34.0,4.55,1.0,Lyft,Lux Black
+23,32.5,4.44,1.0,Uber,Black
+11,9.0,1.87,1.0,Uber,UberPool
+7,22.5,1.72,1.0,Lyft,Lux Black
+1,5.0,1.03,1.0,Lyft,Shared
+14,7.0,2.64,1.0,Lyft,Shared
+21,16.5,2.62,1.0,Lyft,Lux
+19,9.0,1.58,1.0,Lyft,Lyft
+8,23.0,1.34,1.0,Uber,Black SUV
+22,25.0,3.01,1.0,Uber,Black
+13,11.5,4.48,1.0,Uber,WAV
+19,10.5,2.84,1.0,Uber,UberX
+14,16.5,1.25,1.0,Lyft,Lux Black
+10,13.5,1.07,1.0,Lyft,Lux
+3,30.0,2.38,1.0,Lyft,Lux Black XL
+17,22.5,2.27,1.0,Lyft,Lux Black
+20,7.0,0.76,1.0,Lyft,Shared
+22,7.5,1.19,1.0,Uber,WAV
+23,7.5,2.46,1.0,Uber,UberPool
+12,15.5,0.72,1.0,Uber,Black
+21,7.0,1.2,1.0,Lyft,Lyft
+9,9.0,3.15,1.0,Lyft,Shared
+10,11.5,1.03,1.0,Uber,UberXL
+12,23.5,3.01,1.0,Uber,Black
+7,11.0,3.18,1.0,Lyft,Lyft
+6,22.5,2.5,1.25,Lyft,Lux
+2,11.5,0.92,1.0,Uber,UberXL
+17,9.0,1.04,1.0,Uber,UberPool
+17,30.0,2.31,1.0,Lyft,Lux Black XL
+9,19.5,4.55,1.0,Lyft,Lyft XL
+13,34.0,3.08,1.0,Lyft,Lux Black XL
+11,19.5,3.03,1.0,Lyft,Lux
+23,46.0,7.46,1.0,Uber,Black SUV
+12,27.5,3.67,1.0,Lyft,Lux
+11,8.5,2.48,1.0,Uber,WAV
+12,8.5,1.04,1.0,Uber,WAV
+15,26.0,2.32,1.0,Uber,Black SUV
+19,9.0,1.23,1.0,Lyft,Lyft
+5,9.0,3.61,1.0,Uber,UberPool
+10,20.5,2.86,1.0,Uber,Black
+14,10.5,1.81,1.0,Uber,WAV
+7,10.5,1.26,1.0,Lyft,Lyft XL
+19,13.5,2.45,1.0,Lyft,Lyft XL
+23,7.0,1.17,1.0,Lyft,Shared
+13,29.0,1.61,1.0,Uber,Black SUV
+0,22.5,3.46,1.0,Lyft,Lux
+23,7.0,1.15,1.0,Lyft,Lyft
+8,29.0,1.44,1.0,Uber,Black SUV
+13,27.5,1.25,1.0,Lyft,Lux Black XL
+19,13.5,1.01,1.0,Lyft,Lux
+21,5.0,1.57,1.0,Lyft,Shared
+17,8.0,1.56,1.0,Uber,UberX
+6,8.0,1.56,1.0,Uber,WAV
+18,32.5,2.73,1.0,Lyft,Lux Black XL
+3,16.0,2.58,1.0,Uber,UberXL
+6,11.0,1.02,1.0,Lyft,Lyft XL
+23,38.5,0.56,1.5,Lyft,Lux Black XL
+5,7.0,1.59,1.0,Lyft,Lyft
+10,9.0,2.17,1.0,Lyft,Lyft
+17,13.0,1.94,1.0,Uber,WAV
+20,27.0,1.0,1.0,Uber,Black SUV
+9,8.0,1.5,1.0,Uber,UberX
+15,7.0,0.69,1.0,Lyft,Lyft
+13,8.5,1.08,1.0,Uber,WAV
+2,15.0,0.39,1.0,Uber,Black
+14,28.5,2.8,1.0,Uber,Black SUV
+18,22.0,3.45,1.0,Uber,Black
+12,23.0,1.89,1.0,Uber,Black
+15,25.0,2.84,1.0,Uber,Black
+11,16.5,3.04,1.0,Lyft,Lyft XL
+11,9.0,2.48,1.0,Uber,UberPool
+19,26.0,2.94,1.0,Lyft,Lux Black
+6,11.5,1.3,1.0,Uber,UberXL
+6,7.0,2.93,1.0,Lyft,Shared
+20,10.5,3.22,1.0,Uber,UberX
+17,10.5,1.19,1.0,Lyft,Lux
+6,8.0,1.41,1.0,Uber,WAV
+9,10.5,1.01,1.0,Lyft,Lux
+18,13.5,2.4,1.0,Lyft,Lyft XL
+0,10.5,2.96,1.0,Lyft,Lyft
+21,9.5,2.32,1.0,Uber,UberX
+12,27.5,3.21,1.0,Lyft,Lux Black
+16,10.5,1.41,1.0,Uber,UberX
+7,15.0,1.34,1.0,Uber,Black
+9,19.5,6.26,1.0,Uber,UberXL
+9,17.5,2.86,1.0,Uber,WAV
+18,16.5,2.13,1.0,Lyft,Lux
+15,3.5,1.05,1.0,Lyft,Shared
+21,11.5,3.1,1.0,Uber,WAV
+15,9.5,3.39,1.0,Uber,WAV
+18,33.0,2.8,1.0,Uber,Black SUV
+23,10.0,3.39,1.0,Uber,UberPool
+22,17.5,1.35,1.0,Uber,Black
+12,11.0,2.34,1.0,Lyft,Lyft
+17,15.0,1.5,1.0,Uber,Black
+16,15.0,1.08,1.0,Uber,Black
+0,28.5,2.62,1.0,Uber,Black SUV
+0,32.5,3.16,1.0,Lyft,Lux Black XL
+14,32.5,2.84,1.0,Lyft,Lux Black XL
+20,22.5,2.41,1.0,Lyft,Lux Black
+15,16.5,1.24,1.0,Lyft,Lux Black
+8,7.5,0.61,1.0,Uber,WAV
+4,11.5,1.21,1.0,Uber,UberXL
+20,10.5,2.84,1.25,Lyft,Lyft
+14,13.5,1.29,1.0,Lyft,Lux
+23,22.5,2.63,1.0,Lyft,Lux Black
+9,15.0,0.39,1.0,Uber,Black
+15,27.5,0.98,1.0,Lyft,Lux Black XL
+23,16.5,1.07,1.0,Lyft,Lux Black
+21,18.0,1.34,1.0,Uber,UberXL
+21,7.0,1.06,1.0,Lyft,Lyft
+21,22.5,4.61,1.0,Lyft,Lyft XL
+4,7.0,1.5,1.0,Lyft,Lyft
+8,11.0,2.12,1.25,Lyft,Lyft
+5,7.0,0.53,1.0,Lyft,Lyft
+3,37.5,0.39,1.0,Uber,Black SUV
+7,10.5,2.8,1.0,Uber,WAV
+0,27.5,1.03,1.0,Uber,Black SUV
+20,15.0,1.5,1.0,Uber,Black
+21,8.5,1.84,1.0,Uber,WAV
+6,13.0,2.58,1.0,Uber,UberX
+10,7.0,1.21,1.0,Uber,UberX
+13,16.5,2.59,1.0,Lyft,Lyft XL
+17,41.5,4.48,1.0,Uber,Black SUV
+9,7.0,0.73,1.0,Lyft,Lyft
+20,27.5,0.64,1.0,Lyft,Lux Black XL
+16,30.0,2.31,1.75,Lyft,Lyft XL
+13,7.0,1.22,1.0,Uber,UberX
+9,38.0,1.56,1.5,Lyft,Lux Black XL
+7,19.5,1.5,1.0,Lyft,Lux Black
+9,22.5,2.42,1.0,Lyft,Lux Black
+8,22.5,1.2,1.25,Lyft,Lux Black
+8,16.0,2.41,1.0,Uber,UberXL
+12,5.0,0.65,1.0,Lyft,Shared
+6,29.5,2.66,1.0,Uber,Black SUV
+15,10.5,3.24,1.0,Lyft,Lyft
+1,8.5,2.46,1.0,Uber,WAV
+4,7.0,2.61,1.0,Lyft,Shared
+13,17.5,1.91,1.0,Uber,Black
+15,11.5,1.56,1.0,Uber,UberX
+7,13.5,1.53,1.0,Lyft,Lyft XL
+15,13.5,1.02,1.0,Lyft,Lux
+16,26.5,1.4,1.0,Uber,Black SUV
+8,16.5,1.46,1.0,Uber,Black
+10,15.0,1.34,1.0,Uber,Black
+18,7.0,3.11,1.0,Lyft,Shared
+1,9.0,1.42,1.0,Lyft,Lyft
+15,16.5,1.44,1.0,Lyft,Lux Black
+10,27.5,1.07,1.0,Lyft,Lux Black XL
+21,13.5,2.06,1.0,Lyft,Lyft XL
+8,10.5,2.89,1.0,Lyft,Lyft
+2,26.0,0.98,1.0,Uber,Black SUV
+21,8.0,3.07,1.0,Uber,UberPool
+9,27.5,3.15,1.0,Lyft,Lux Black
+14,38.5,7.46,1.0,Uber,Black
+0,32.5,2.32,1.0,Lyft,Lux Black XL
+2,3.0,0.7,1.0,Lyft,Shared
+7,26.5,0.72,1.0,Uber,Black SUV
+15,16.5,3.12,1.0,Lyft,Lyft XL
+21,7.0,0.72,1.0,Uber,UberX
+4,31.5,3.08,1.0,Uber,Black SUV
+23,7.5,1.5,1.0,Uber,UberPool
+17,19.5,2.94,1.0,Lyft,Lux
+5,14.0,2.48,1.0,Uber,UberXL
+13,11.0,3.39,1.0,Lyft,Lyft
+12,10.0,1.34,1.0,Uber,UberPool
+22,7.5,1.16,1.0,Uber,UberPool
+4,37.5,3.3,1.0,Uber,Black SUV
+3,15.0,1.57,1.0,Uber,UberXL
+17,14.0,4.44,1.0,Uber,UberPool
+16,7.5,1.23,1.0,Uber,WAV
+23,16.0,0.61,1.0,Uber,Black
+19,11.5,2.66,1.0,Uber,WAV
+6,5.0,1.48,1.0,Lyft,Shared
+18,13.5,1.54,1.0,Lyft,Lyft XL
+3,7.5,1.92,1.0,Uber,UberPool
+14,13.5,0.48,1.25,Lyft,Lux
+1,15.0,5.56,1.0,Uber,WAV
+2,13.5,2.08,1.0,Lyft,Lyft XL
+23,11.0,1.22,1.0,Lyft,Lyft XL
+19,9.5,2.32,1.0,Uber,WAV
+21,34.0,3.23,1.0,Lyft,Lux Black XL
+2,8.5,1.89,1.0,Uber,UberX
+4,7.0,1.56,1.0,Uber,UberPool
+0,30.0,1.52,1.0,Lyft,Lux Black XL
+18,10.5,0.61,1.0,Lyft,Lyft XL
+14,26.0,0.59,1.0,Lyft,Lux Black XL
+9,19.5,3.21,1.0,Lyft,Lyft XL
+19,7.0,0.53,1.0,Lyft,Lyft
+11,7.5,1.35,1.0,Uber,UberPool
+0,7.0,0.55,1.0,Uber,WAV
+1,7.0,0.82,1.0,Uber,UberX
+10,11.5,1.18,1.0,Uber,UberXL
+20,19.5,2.84,1.0,Lyft,Lux
+16,10.0,2.34,1.0,Uber,UberPool
+10,22.5,2.96,1.0,Lyft,Lux Black
+10,31.0,2.32,1.0,Uber,Black SUV
+12,7.0,1.2,1.0,Lyft,Lyft
+8,10.5,2.52,1.0,Lyft,Lyft
+16,32.5,2.46,1.0,Lyft,Lux Black XL
+21,9.5,2.79,1.0,Uber,UberX
+13,6.5,1.56,1.0,Uber,UberPool
+2,19.5,2.61,1.0,Uber,Black
+23,10.5,2.13,1.0,Lyft,Lyft
+13,10.5,1.25,1.0,Uber,UberXL
+13,29.5,2.32,1.0,Uber,Black SUV
+16,25.5,3.42,1.0,Uber,WAV
+20,27.5,1.23,1.0,Uber,Black SUV
+19,16.5,1.55,1.0,Lyft,Lux
+23,5.0,1.09,1.0,Lyft,Shared
+0,19.5,3.14,1.0,Lyft,Lux
+22,16.5,3.05,1.5,Lyft,Lyft
+16,13.5,1.06,1.0,Lyft,Lux
+9,10.5,1.72,1.0,Lyft,Lyft
+4,10.5,1.38,1.0,Lyft,Lyft XL
+15,9.5,2.32,1.0,Uber,UberX
+0,16.5,3.05,1.0,Uber,UberXL
+3,9.5,3.22,1.0,Uber,WAV
+10,7.0,1.07,1.0,Lyft,Lyft
+12,13.5,1.49,1.0,Lyft,Lux
+12,10.5,1.25,1.0,Lyft,Lyft XL
+10,5.0,1.54,1.0,Lyft,Shared
+20,42.5,4.63,1.0,Lyft,Lux Black XL
+5,6.5,0.49,1.0,Uber,UberPool
+23,3.0,1.23,1.0,Lyft,Shared
+14,19.5,2.43,1.0,Lyft,Lux Black
+17,13.0,1.64,1.0,Uber,UberXL
+10,8.0,1.8,1.0,Uber,UberPool
+14,30.0,1.72,1.0,Lyft,Lux Black XL
+22,42.5,4.76,1.0,Lyft,Lux Black XL
+16,19.5,3.05,1.0,Lyft,Lux
+17,27.5,0.27,1.0,Uber,Black SUV
+9,19.5,1.24,1.0,Lyft,Lux Black
+11,7.0,2.39,1.0,Lyft,Shared
+17,22.5,2.31,1.0,Uber,Black
+8,7.5,1.35,1.0,Uber,WAV
+10,6.5,0.02,1.0,Uber,UberPool
+17,9.0,1.34,1.0,Lyft,Lyft
+10,16.5,3.17,1.5,Lyft,Lyft
+3,7.0,0.75,1.0,Lyft,Lyft
+16,13.5,4.18,1.0,Lyft,Lyft
+23,29.5,1.97,1.0,Uber,Black SUV
+19,30.5,2.46,1.0,Uber,Black SUV
+19,18.5,2.19,1.0,Uber,Black
+22,25.0,1.5,1.0,Uber,Black SUV
+15,19.5,2.37,1.0,Lyft,Lux
+12,23.5,6.26,1.0,Uber,UberX
+15,16.5,2.11,1.0,Lyft,Lux
+14,13.5,4.72,1.0,Lyft,Lyft
+23,15.5,0.92,1.0,Uber,Black
+17,17.5,1.89,1.0,Uber,Black
+3,16.5,2.11,1.0,Lyft,Lux
+12,7.0,0.98,1.0,Lyft,Lyft
+1,27.5,0.9,1.0,Lyft,Lux Black XL
+15,9.0,2.58,1.0,Uber,UberPool
+16,7.5,0.39,1.0,Uber,WAV
+19,7.5,3.05,1.0,Uber,UberPool
+20,13.5,2.4,1.0,Lyft,Lyft XL
+1,26.0,0.45,1.0,Lyft,Lux Black XL
+17,16.5,1.09,1.0,Lyft,Lux Black
+11,8.0,2.79,1.0,Uber,UberPool
+15,9.0,1.5,1.0,Lyft,Lyft
+23,19.5,2.11,1.0,Lyft,Lux Black
+18,26.5,1.16,1.0,Uber,Black SUV
+7,26.0,0.54,1.0,Uber,Black SUV
+14,27.5,3.18,1.0,Lyft,Lux Black
+14,15.5,1.22,1.0,Uber,Black
+11,13.5,1.11,1.0,Lyft,Lux
+0,3.0,1.03,1.0,Lyft,Shared
+3,11.5,3.04,1.0,Uber,WAV
+13,9.0,0.53,1.0,Lyft,Lyft XL
+11,9.0,1.07,1.0,Lyft,Lyft
+5,11.0,1.36,1.0,Lyft,Lyft XL
+22,9.0,2.58,1.0,Lyft,Lyft
+13,18.5,2.23,1.0,Uber,UberXL
+2,10.0,2.36,1.0,Uber,UberPool
+5,26.5,1.41,1.0,Uber,Black SUV
+14,34.0,2.57,1.0,Lyft,Lux Black XL
+10,7.5,1.23,1.0,Uber,UberPool
+0,10.5,2.9,1.0,Lyft,Lyft
+18,11.0,1.2,1.0,Lyft,Lyft XL
+17,43.5,4.42,1.0,Uber,Black SUV
+17,7.0,0.54,1.0,Lyft,Lyft
+19,32.5,2.3,1.0,Uber,Black SUV
+19,7.0,1.0,1.0,Uber,WAV
+5,13.0,4.73,1.0,Uber,UberX
+22,10.5,0.56,1.0,Lyft,Lyft XL
+0,9.0,1.52,1.0,Lyft,Lyft
+13,22.5,3.97,1.0,Lyft,Lux
+2,16.5,0.64,1.0,Lyft,Lux Black
+15,14.0,2.17,1.0,Uber,UberXL
+22,10.5,2.27,1.0,Uber,WAV
+23,26.0,2.43,1.0,Lyft,Lux Black
+22,15.0,2.66,1.0,Uber,UberXL
+12,7.5,0.92,1.0,Uber,WAV
+10,7.5,1.22,1.0,Uber,WAV
+21,26.0,0.43,1.0,Lyft,Lux Black XL
+12,7.5,1.03,1.0,Uber,UberPool
+17,11.0,1.4,1.0,Lyft,Lyft XL
+0,18.5,2.66,1.0,Uber,UberXL
+0,8.0,4.4,1.0,Uber,UberPool
+15,22.5,2.53,1.0,Lyft,Lux
+5,22.5,2.36,1.0,Lyft,Lux Black
+16,14.0,1.7,1.0,Uber,UberXL
+9,27.5,3.1,1.25,Lyft,Lux
+4,15.5,1.3,1.0,Uber,Black
+15,19.5,1.07,1.5,Lyft,Lux
+8,16.5,2.87,1.0,Lyft,Lyft XL
+3,12.5,3.45,1.0,Uber,UberPool
+1,11.5,3.05,1.0,Uber,UberX
+10,10.5,2.64,1.0,Lyft,Lyft
+2,19.5,3.15,1.0,Uber,UberXL
+9,19.5,2.16,1.0,Lyft,Lux Black
+0,27.0,1.5,1.0,Uber,Black SUV
+22,34.0,3.04,1.0,Lyft,Lux Black XL
+18,7.5,0.27,1.0,Uber,UberPool
+8,27.5,0.53,1.0,Lyft,Lux Black XL
+13,7.0,1.21,1.0,Uber,WAV
+1,9.5,2.84,1.0,Uber,UberX
+12,26.0,0.42,1.0,Lyft,Lux Black XL
+19,22.5,3.41,1.0,Lyft,Lux
+9,7.0,0.59,1.0,Lyft,Lyft
+13,16.5,2.18,1.0,Lyft,Lyft XL
+15,9.0,2.0,1.0,Lyft,Lyft
+23,19.5,1.35,1.0,Uber,Black
+8,35.0,5.56,1.0,Uber,Black
+5,9.5,2.84,1.0,Uber,WAV
+17,27.5,3.19,1.0,Lyft,Lux Black
+4,3.5,0.89,1.0,Lyft,Shared
+15,13.0,4.4,1.0,Uber,WAV
+13,26.5,0.62,1.0,Uber,Black SUV
+15,25.5,3.05,1.0,Uber,Black
+4,5.0,1.38,1.0,Lyft,Shared
+11,28.0,3.23,1.0,Uber,Black
+13,16.5,1.19,1.0,Lyft,Lux Black
+19,19.5,2.21,1.0,Uber,Black
+3,28.5,4.55,1.0,Uber,Black
+23,6.5,0.72,1.0,Uber,UberPool
+11,10.5,3.0,1.0,Lyft,Lyft
+18,22.5,3.48,1.0,Lyft,Lux
+21,13.5,1.06,1.0,Lyft,Lux
+21,16.5,2.15,1.0,Lyft,Lux
+19,7.5,1.3,1.0,Uber,UberX
+16,28.5,1.77,1.0,Uber,Black SUV
+18,8.5,2.46,1.0,Uber,UberPool
+8,41.5,6.26,1.0,Uber,Black SUV
+4,22.5,4.72,1.0,Lyft,Lyft XL
+16,12.5,1.25,1.0,Uber,UberXL
+0,13.5,1.72,1.0,Lyft,Lyft XL
+19,7.0,0.72,1.0,Uber,UberPool
+23,31.0,4.41,1.0,Uber,Black
+15,9.0,1.64,1.0,Uber,UberX
+12,13.5,4.17,1.0,Lyft,Lyft
+3,42.5,2.52,1.5,Lyft,Lux Black
+0,28.5,2.32,1.0,Uber,Black SUV
+19,9.0,2.46,1.0,Uber,WAV
+6,16.5,2.09,1.0,Lyft,Lux
+20,5.0,1.2,1.0,Lyft,Shared
+21,19.5,1.51,1.0,Lyft,Lux Black
+23,9.0,1.43,1.0,Uber,UberX
+0,18.0,3.22,1.0,Uber,UberXL
+11,7.5,0.62,1.0,Uber,UberPool
+8,38.5,3.31,1.0,Lyft,Lux Black XL
+4,9.0,2.66,1.0,Uber,UberPool
+0,26.0,2.13,1.0,Lyft,Lux Black
+18,16.5,1.91,1.0,Lyft,Lux
+7,6.5,0.62,1.0,Uber,UberPool
+11,16.0,2.67,1.0,Uber,UberXL
+5,42.5,4.73,1.0,Lyft,Lux Black XL
+22,34.0,2.98,1.0,Uber,Black SUV
+17,15.0,1.35,1.0,Uber,Black
+15,7.0,1.31,1.0,Lyft,Lyft
+5,5.5,1.03,1.0,Uber,UberPool
+14,9.5,1.64,1.0,Uber,UberX
+5,7.0,0.55,1.0,Lyft,Lyft
+17,19.5,2.07,1.0,Lyft,Lux Black
+14,7.0,2.37,1.0,Lyft,Shared
+1,16.5,1.61,1.0,Uber,Black
+18,26.0,0.59,1.0,Lyft,Lux Black XL
+16,8.0,1.5,1.0,Uber,WAV
+15,21.5,2.66,1.0,Uber,Black
+1,8.0,1.39,1.0,Uber,UberPool
+3,8.0,0.91,1.0,Uber,WAV
+20,6.5,1.82,1.0,Uber,UberPool
+13,19.5,3.23,1.0,Lyft,Lux
+20,11.0,1.29,1.0,Lyft,Lyft XL
+11,9.0,3.4,1.0,Uber,UberPool
+1,9.0,2.46,1.0,Uber,UberPool
+17,12.0,3.18,1.0,Uber,UberPool
+21,16.0,2.61,1.0,Uber,UberXL
+14,32.0,4.94,1.0,Uber,Black
+10,16.5,1.09,1.0,Lyft,Lux Black
+2,27.5,1.72,1.0,Lyft,Lux Black XL
+22,11.0,2.62,1.0,Uber,UberX
+1,27.5,3.45,1.0,Lyft,Lux Black
+7,9.0,1.97,1.0,Uber,UberPool
+7,11.5,1.35,1.0,Uber,UberXL
+2,5.0,4.55,1.0,Lyft,Shared
+21,10.5,2.73,1.0,Lyft,Lyft
+5,15.5,1.03,1.0,Uber,Black
+16,13.5,1.07,1.0,Lyft,Lux
+22,19.5,2.91,1.0,Lyft,Lux
+22,16.5,1.48,1.0,Lyft,Lux Black
+10,26.0,5.7,1.0,Uber,UberXL
+10,26.0,2.49,1.0,Lyft,Lux Black
+7,9.5,1.34,1.0,Uber,UberX
+6,22.5,2.19,1.0,Lyft,Lux Black
+22,13.5,1.27,1.0,Lyft,Lux
+20,8.5,0.63,1.0,Uber,WAV
+14,22.5,3.44,1.0,Lyft,Lux
+9,22.5,3.55,1.0,Lyft,Lux
+0,27.5,3.16,1.0,Lyft,Lux Black
+7,52.5,3.0,2.0,Lyft,Lux Black
+6,11.0,2.79,1.0,Lyft,Lyft
+19,34.0,4.13,1.0,Lyft,Lux Black
+12,22.5,2.58,1.0,Uber,Black
+3,39.5,4.52,1.0,Uber,Black SUV
+4,9.0,1.84,1.0,Uber,UberX
+22,19.5,1.31,1.0,Lyft,Lux Black
+11,20.5,2.5,1.0,Uber,Black
+13,16.5,3.31,1.0,Lyft,Lyft XL
+14,7.5,0.55,1.0,Uber,WAV
+1,10.0,3.22,1.0,Uber,UberPool
+21,22.5,3.21,1.0,Lyft,Lux
+13,38.5,3.47,1.25,Lyft,Lux Black
+2,16.5,3.22,1.0,Lyft,Lyft XL
+10,9.5,2.61,1.0,Uber,UberX
+16,9.0,2.79,1.0,Uber,WAV
+15,6.0,0.49,1.0,Uber,UberPool
+8,10.5,1.5,1.0,Lyft,Lyft
+13,10.5,0.53,1.0,Lyft,Lux
+22,11.0,3.19,1.0,Lyft,Lyft
+6,13.5,1.38,1.0,Lyft,Lux
+11,10.5,1.63,1.0,Uber,WAV
+23,5.0,2.05,1.0,Lyft,Shared
+8,8.0,1.1,1.0,Uber,UberPool
+4,14.0,2.27,1.0,Uber,UberXL
+13,13.5,1.73,1.0,Lyft,Lyft XL
+17,27.0,4.42,1.0,Uber,Black
+3,8.5,1.41,1.0,Uber,WAV
+11,27.0,0.55,1.0,Uber,Black SUV
+0,27.0,0.39,1.0,Uber,Black SUV
+10,32.5,2.68,1.0,Lyft,Lux Black XL
+2,8.5,1.57,1.0,Uber,WAV
+14,10.0,1.41,1.0,Uber,UberPool
+16,17.5,3.3,1.0,Uber,UberXL
+17,26.5,1.56,1.0,Uber,Black SUV
+1,15.0,1.41,1.0,Uber,Black
+19,9.0,1.5,1.0,Uber,UberPool
+11,33.0,2.8,1.0,Uber,Black SUV
+21,8.0,1.91,1.0,Uber,UberPool
+7,15.0,0.49,1.0,Uber,Black
+20,9.0,2.45,1.0,Lyft,Lyft
+13,13.5,3.39,1.0,Uber,WAV
+9,8.0,1.04,1.0,Uber,WAV
+5,10.5,3.18,1.0,Lyft,Lyft
+5,13.5,2.53,1.0,Lyft,Lyft XL
+17,5.5,0.49,1.0,Uber,UberPool
+17,26.0,0.62,1.0,Lyft,Lux Black XL
+13,8.5,3.04,1.0,Uber,UberX
+11,33.5,2.8,1.0,Uber,Black SUV
+15,13.0,1.56,1.0,Uber,UberXL
+7,7.0,1.71,1.0,Lyft,Shared
+11,26.0,1.03,1.0,Uber,Black SUV
+10,34.0,2.33,1.0,Uber,Black SUV
+4,16.5,0.58,1.0,Lyft,Lux Black
+9,19.5,1.46,1.0,Lyft,Lux Black
+14,3.5,0.59,1.0,Lyft,Shared
+9,19.5,1.66,1.0,Lyft,Lux Black
+9,28.0,3.3,1.0,Uber,Black
+15,10.5,0.73,1.0,Lyft,Lux
+6,16.5,2.29,1.0,Lyft,Lyft XL
+0,16.5,2.68,1.0,Lyft,Lyft XL
+2,12.5,1.51,1.0,Uber,UberXL
+4,30.0,2.01,1.0,Lyft,Lux Black XL
+10,15.0,0.99,1.0,Uber,Black
+4,3.0,3.21,1.0,Lyft,Shared
+2,13.5,1.31,1.0,Lyft,Lux
+17,16.5,2.63,1.0,Lyft,Lux
+19,5.0,1.24,1.0,Lyft,Shared
+17,13.5,1.38,1.0,Lyft,Lux
+2,16.5,0.58,1.0,Lyft,Lux Black
+10,18.0,2.84,1.0,Uber,UberXL
+23,7.5,1.25,1.0,Uber,WAV
+12,24.0,6.97,1.0,Uber,UberXL
+4,7.0,2.15,1.0,Lyft,Shared
+6,22.5,3.23,1.0,Lyft,Lux
+16,7.0,0.56,1.0,Uber,WAV
+10,8.5,2.86,1.0,Uber,UberPool
+20,10.5,0.8,1.0,Uber,UberXL
+16,12.0,2.74,1.0,Uber,UberPool
+13,22.5,2.82,1.0,Lyft,Lux Black
+16,16.5,1.34,1.0,Uber,UberXL
+2,27.5,1.97,1.0,Uber,Black SUV
+7,38.5,1.5,1.5,Lyft,Lux Black XL
+2,7.0,1.43,1.0,Lyft,Lyft
+7,22.5,1.78,1.0,Lyft,Lux Black
+22,9.5,1.8,1.0,Uber,UberX
+9,6.0,0.72,1.0,Uber,WAV
+20,16.5,2.38,1.0,Lyft,Lux
+13,7.0,2.83,1.0,Lyft,Shared
+8,7.5,1.57,1.0,Uber,WAV
+18,10.5,2.97,1.0,Lyft,Lyft
+23,11.5,1.35,1.0,Uber,UberXL
+14,24.0,3.07,1.0,Uber,Black
+17,10.0,2.8,1.0,Uber,UberPool
+17,13.0,1.5,1.0,Uber,UberXL
+1,10.5,2.78,1.25,Lyft,Lyft
+4,27.0,2.32,1.0,Uber,Black SUV
+5,5.0,1.57,1.0,Lyft,Shared
+6,11.0,1.02,1.0,Lyft,Lux
+20,10.0,4.72,1.0,Uber,UberPool
+3,10.5,1.05,1.0,Lyft,Lyft XL
+19,26.5,0.63,1.0,Uber,Black SUV
+3,30.0,2.1,1.0,Lyft,Lux Black XL
+4,16.5,2.43,1.0,Lyft,Lyft XL
+0,13.5,4.4,1.0,Uber,WAV
+11,9.5,1.3,1.0,Uber,WAV
+21,22.0,4.48,1.0,Uber,UberXL
+23,14.0,2.14,1.0,Uber,UberXL
+4,12.0,1.51,1.0,Uber,UberX
+5,13.5,1.37,1.0,Lyft,Lux
+12,13.5,1.49,1.0,Lyft,Lux
+4,11.0,2.84,1.0,Uber,UberX
+11,13.5,1.37,1.0,Lyft,Lux
+18,7.0,3.31,1.0,Lyft,Shared
+3,9.0,4.74,1.0,Lyft,Shared
+18,16.5,1.58,1.25,Lyft,Lyft XL
+2,16.5,3.08,1.0,Lyft,Lyft XL
+1,27.5,0.46,1.0,Lyft,Lux Black XL
+4,13.5,1.77,1.0,Lyft,Lyft XL
+15,16.5,2.37,1.0,Lyft,Lux
+17,13.5,1.37,1.0,Lyft,Lux
+8,17.5,2.29,1.0,Uber,Black
+2,27.5,0.75,1.0,Lyft,Lux Black XL
+11,13.5,1.35,1.0,Uber,UberXL
+3,26.5,0.92,1.0,Uber,Black SUV
+10,13.5,1.72,1.0,Lyft,Lyft XL
+4,19.5,2.66,1.0,Uber,Black
+0,11.5,1.07,1.0,Uber,UberXL
+11,10.5,1.08,1.0,Lyft,Lyft XL
+4,31.5,2.84,1.0,Uber,Black SUV
+0,10.5,2.82,1.0,Lyft,Lyft
+0,9.5,2.94,1.0,Uber,WAV
+7,9.5,1.57,1.0,Uber,WAV
+7,27.5,1.51,1.0,Lyft,Lux Black XL
+12,19.5,3.07,1.0,Uber,UberXL
+7,13.5,2.0,1.0,Lyft,Lyft XL
+10,17.0,2.08,1.0,Uber,UberXL
+16,10.0,2.8,1.0,Uber,UberPool
+22,27.5,3.21,1.0,Lyft,Lux Black
+8,16.5,1.84,1.0,Lyft,Lux
+7,16.0,3.05,1.0,Uber,UberXL
+13,9.0,1.02,1.0,Lyft,Lyft
+16,22.5,2.31,1.0,Lyft,Lux Black
+13,7.5,2.32,1.0,Uber,UberPool
+21,16.5,1.51,1.0,Lyft,Lux Black
+2,11.5,4.4,1.0,Uber,WAV
+2,35.0,3.08,1.0,Uber,Black SUV
+3,22.5,3.31,1.0,Lyft,Lux
+17,7.5,0.99,1.0,Uber,UberX
+15,7.0,2.28,1.0,Lyft,Shared
+18,13.5,0.63,1.25,Lyft,Lux
+6,28.5,1.8,1.0,Uber,Black SUV
+11,9.0,0.49,1.0,Uber,UberXL
+1,10.5,2.67,1.0,Uber,UberX
+17,32.5,2.47,1.0,Lyft,Lux Black XL
+14,45.5,3.06,1.25,Lyft,Lux Black XL
+0,22.5,0.55,1.25,Lyft,Lux Black
+8,19.5,3.05,1.0,Uber,UberXL
+15,16.0,2.14,1.0,Uber,UberXL
+10,5.0,1.05,1.0,Lyft,Shared
+17,7.5,0.62,1.0,Uber,WAV
+23,38.5,4.24,1.0,Lyft,Lux Black XL
+7,27.5,0.53,1.0,Lyft,Lux Black XL
+21,19.5,1.09,1.0,Lyft,Lux Black
+5,13.5,1.51,1.25,Lyft,Lyft XL
+1,26.5,7.46,1.0,Uber,UberXL
+21,6.5,0.54,1.0,Uber,UberPool
+4,27.5,3.0,1.25,Lyft,Lux
+0,9.0,3.05,1.0,Uber,UberPool
+21,9.0,1.34,1.0,Lyft,Lyft
+12,23.0,2.72,1.0,Uber,Black
+9,22.5,2.39,1.0,Lyft,Lux Black
+13,73.5,2.78,2.0,Lyft,Lux Black XL
+0,13.0,1.5,1.0,Uber,UberXL
+11,36.0,3.31,1.0,Uber,Black SUV
+0,9.5,2.56,1.0,Uber,UberPool
+17,16.5,2.32,1.0,Lyft,Lyft XL
+19,8.0,1.25,1.0,Uber,WAV
+3,19.5,3.22,1.0,Lyft,Lyft XL
+23,3.0,1.08,1.0,Lyft,Shared
+21,8.0,1.56,1.0,Uber,UberX
+12,24.0,2.62,1.0,Uber,Black
+22,42.5,2.73,1.25,Lyft,Lux Black XL
+1,11.0,3.14,1.0,Lyft,Lyft
+10,24.0,3.15,1.0,Uber,Black
+3,19.5,1.43,1.5,Lyft,Lux
+8,11.0,2.96,1.0,Lyft,Lyft
+15,9.0,1.35,1.0,Uber,UberPool
+8,16.0,0.92,1.0,Uber,Black
+4,12.0,1.34,1.0,Uber,UberXL
+2,8.5,3.04,1.0,Uber,UberPool
+13,10.5,1.06,1.0,Lyft,Lux
+21,16.5,1.31,1.0,Lyft,Lux Black
+14,38.0,5.56,1.0,Uber,Black
+14,45.5,2.76,1.25,Lyft,Lux Black XL
+23,26.0,1.36,1.0,Uber,Black SUV
+6,8.5,3.04,1.0,Uber,UberX
+9,3.0,2.68,1.0,Lyft,Shared
+20,9.5,3.07,1.0,Uber,UberX
+9,27.0,3.08,1.0,Uber,Black
+0,13.5,2.44,1.5,Lyft,Lyft
+20,5.0,1.54,1.0,Lyft,Shared
+21,9.5,1.61,1.0,Uber,UberX
+16,7.0,2.56,1.0,Lyft,Shared
+23,3.0,1.05,1.0,Lyft,Shared
+5,9.0,2.58,1.0,Uber,UberPool
+9,7.0,1.44,1.0,Lyft,Lyft
+19,30.5,2.7,1.0,Uber,Black SUV
+11,19.0,3.31,1.0,Uber,UberXL
+15,3.0,1.25,1.0,Lyft,Shared
+21,8.0,1.41,1.0,Uber,WAV
+22,19.5,2.91,1.0,Lyft,Lyft XL
+14,8.5,2.66,1.0,Uber,UberPool
+8,16.5,1.48,1.0,Lyft,Lux Black
+0,7.5,1.04,1.0,Uber,UberPool
+2,8.0,1.21,1.0,Uber,WAV
+23,7.0,2.43,1.0,Lyft,Shared
+19,9.0,2.46,1.0,Uber,UberPool
+3,18.5,1.3,1.0,Uber,Black
+21,26.0,1.57,1.0,Uber,Black SUV
+13,7.0,1.0,1.0,Uber,WAV
+22,7.0,3.31,1.0,Lyft,Shared
+22,33.0,2.84,1.0,Uber,Black SUV
+11,7.0,1.01,1.0,Lyft,Lyft
+0,7.5,2.48,1.0,Uber,UberPool
+18,19.5,4.21,1.0,Lyft,Lyft XL
+21,26.0,4.57,1.0,Uber,Black
+14,24.0,3.39,1.0,Uber,Black
+7,16.5,1.53,1.25,Lyft,Lux
+20,22.5,3.06,1.25,Lyft,Lyft XL
+11,5.0,0.89,1.0,Lyft,Shared
+17,10.0,4.4,1.0,Uber,UberPool
+23,15.0,1.22,1.0,Uber,Black
+0,16.5,1.23,1.0,Lyft,Lux Black
+1,26.0,1.07,1.0,Uber,Black SUV
+23,9.0,3.04,1.0,Uber,UberPool
+16,45.5,2.44,1.5,Lyft,Lux Black XL
+12,13.5,5.32,1.0,Lyft,Lyft
+16,32.5,3.13,1.0,Lyft,Lux Black XL
+2,10.5,0.69,1.0,Lyft,Lyft XL
+20,29.5,1.83,1.0,Uber,Black SUV
+14,9.5,2.66,1.0,Uber,WAV
+11,10.0,1.82,1.0,Uber,UberPool
+6,30.0,2.44,1.0,Lyft,Lux Black XL
+1,13.5,7.46,1.0,Uber,UberPool
+8,10.5,1.53,1.0,Lyft,Lyft XL
+6,21.0,4.43,1.0,Uber,UberXL
+17,7.5,3.05,1.0,Uber,UberPool
+21,16.0,2.8,1.0,Uber,UberXL
+8,12.5,1.16,1.0,Uber,UberXL
+21,26.0,1.26,1.0,Lyft,Lux Black XL
+2,19.5,3.16,1.0,Lyft,Lyft XL
+6,22.5,4.59,1.75,Lyft,Lyft
+20,11.0,3.3,1.0,Lyft,Lyft
+20,34.0,2.98,1.0,Uber,Black SUV
+14,27.5,3.45,1.0,Uber,UberXL
+11,9.0,2.32,1.0,Uber,UberPool
+11,7.5,0.78,1.0,Uber,WAV
+18,9.5,2.66,1.0,Uber,UberX
+14,13.5,4.42,1.0,Uber,UberX
+7,32.5,1.93,1.0,Lyft,Lux Black XL
+5,13.5,1.7,1.0,Lyft,Lyft XL
+8,13.5,3.85,1.0,Lyft,Lyft
+23,34.0,2.85,1.0,Lyft,Lux Black XL
+15,16.0,1.61,1.0,Uber,Black
+15,16.5,2.63,1.0,Lyft,Lyft XL
+16,5.5,1.25,1.0,Uber,UberPool
+11,13.5,1.86,1.0,Lyft,Lyft XL
+4,13.5,0.66,1.25,Lyft,Lux
+9,27.5,5.35,1.0,Lyft,Lux
+15,7.0,1.34,1.0,Uber,UberPool
+10,10.5,3.15,1.0,Uber,UberX
+11,57.5,1.73,2.0,Lyft,Lux Black XL
+11,9.0,2.22,1.0,Uber,WAV
+5,11.5,3.3,1.0,Uber,WAV
+17,9.0,1.91,1.0,Uber,UberPool
+12,11.0,2.79,1.0,Uber,WAV
+2,35.0,3.04,1.0,Uber,Black SUV
+12,22.0,2.8,1.0,Uber,UberXL
+14,19.5,3.23,1.5,Lyft,Lyft
+6,10.0,1.61,1.0,Uber,UberPool
+9,7.0,0.55,1.0,Uber,WAV
+17,13.5,3.07,1.0,Uber,UberPool
+23,19.5,3.06,1.0,Lyft,Lux
+14,27.5,1.55,1.0,Lyft,Lux Black XL
+17,16.5,0.73,1.0,Lyft,Lux Black
+19,32.5,2.06,1.0,Lyft,Lux Black XL
+5,7.5,0.99,1.0,Uber,UberPool
+11,27.5,1.18,1.0,Lyft,Lux Black XL
+19,17.0,2.86,1.0,Uber,UberXL
+11,9.0,2.13,1.0,Lyft,Lyft
+16,22.5,5.35,1.0,Lyft,Lyft XL
+3,11.0,2.34,1.0,Uber,UberPool
+6,7.0,1.28,1.0,Lyft,Lyft
+19,11.5,0.92,1.0,Uber,UberXL
+19,20.5,2.32,1.0,Uber,Black
+22,13.5,1.1,1.0,Lyft,Lux
+4,19.5,2.63,1.0,Lyft,Lux
+19,6.5,1.3,1.0,Uber,UberPool
+20,30.0,3.18,1.0,Lyft,Lux Black
+11,27.5,1.04,1.0,Uber,Black SUV
+0,7.0,1.14,1.0,Uber,UberPool
+5,10.5,1.39,1.0,Lyft,Shared
+0,7.0,1.26,1.0,Lyft,Lyft
+8,32.5,2.75,1.0,Lyft,Lux Black XL
+18,13.5,1.03,1.0,Lyft,Lux
+15,7.5,2.5,1.0,Uber,UberPool
+11,10.5,2.5,1.0,Uber,UberX
+7,21.5,2.72,1.0,Uber,Black
+21,7.0,1.16,1.0,Uber,UberPool
+6,7.0,3.27,1.0,Lyft,Shared
+22,5.0,1.49,1.0,Lyft,Shared
+21,16.5,1.8,1.0,Lyft,Lux
+13,33.0,0.9,1.0,Uber,Black SUV
+14,26.0,0.82,1.0,Lyft,Lux Black XL
+14,45.5,4.5,2.0,Lyft,Lyft XL
+20,3.5,1.25,1.0,Lyft,Shared
+16,7.0,0.93,1.0,Lyft,Lyft
+8,13.5,5.7,1.0,Uber,UberPool
+4,9.0,1.72,1.0,Lyft,Lyft
+14,27.5,0.39,1.0,Uber,Black SUV
+21,7.0,1.76,1.0,Lyft,Shared
+22,8.0,1.04,1.0,Uber,UberX
+0,9.0,2.48,1.0,Lyft,Shared
+1,19.5,2.93,1.0,Lyft,Lux
+22,16.0,0.7,1.0,Uber,Black
+1,7.5,1.34,1.0,Uber,WAV
+7,7.0,1.22,1.0,Lyft,Lyft
+12,9.0,0.54,1.0,Lyft,Lyft XL
+15,8.0,1.36,1.0,Uber,UberPool
+20,16.0,1.22,1.0,Uber,Black
+16,10.0,3.01,1.0,Uber,UberPool
+23,12.5,1.56,1.0,Uber,UberXL
+3,19.5,3.16,1.0,Lyft,Lyft XL
+7,13.5,0.99,1.0,Lyft,Lux
+7,16.5,2.56,1.0,Lyft,Lyft XL
+10,9.5,2.84,1.0,Uber,UberX
+12,22.5,2.14,1.0,Lyft,Lux Black
+21,34.5,3.07,1.0,Uber,Black SUV
+15,34.0,3.0,1.0,Lyft,Lux Black XL
+14,22.5,3.01,1.0,Uber,Black
+22,9.0,1.73,1.0,Lyft,Lyft
+13,10.5,2.66,1.0,Uber,UberX
+15,11.0,3.06,1.0,Lyft,Lyft
+10,10.5,3.31,1.0,Uber,WAV
+15,10.5,2.38,1.0,Lyft,Lyft
+11,3.5,0.69,1.0,Lyft,Shared
+7,15.0,2.3,1.0,Uber,WAV
+0,10.5,2.66,1.0,Uber,UberX
+11,13.5,2.84,1.0,Uber,UberPool
+7,8.5,3.04,1.0,Uber,UberPool
+13,25.0,2.88,1.0,Uber,Black
+4,26.0,1.61,1.0,Lyft,Lux Black XL
+0,7.0,3.26,1.0,Lyft,Shared
+3,26.0,1.22,1.0,Uber,Black SUV
+16,12.0,1.16,1.0,Uber,UberXL
+11,10.0,2.66,1.0,Uber,UberPool
+19,28.5,1.8,1.0,Uber,Black SUV
+15,32.5,2.28,1.0,Lyft,Lux Black XL
+23,32.5,3.17,1.0,Lyft,Lux Black
+16,14.0,1.0,1.0,Uber,WAV
+9,33.5,2.63,1.0,Uber,Black SUV
+5,7.5,1.56,1.0,Uber,UberPool
+13,7.5,2.46,1.0,Uber,UberPool
+14,16.5,1.29,1.0,Lyft,Lux Black
+4,10.5,2.71,1.0,Uber,WAV
+13,24.0,2.79,1.0,Uber,Black
+23,16.5,0.75,1.0,Lyft,Lux Black
+9,8.0,1.94,1.0,Uber,UberX
+4,12.5,1.16,1.0,Uber,UberXL
+10,19.5,3.22,1.0,Lyft,Lux
+7,36.0,3.04,1.0,Uber,Black SUV
+14,27.0,0.39,1.0,Uber,Black SUV
+11,13.5,1.7,1.0,Uber,UberXL
+17,10.5,2.98,1.0,Uber,UberX
+4,5.0,1.39,1.0,Lyft,Shared
+15,7.0,4.53,1.0,Lyft,Shared
+5,12.5,1.02,1.0,Uber,UberXL
+2,12.0,1.22,1.0,Uber,UberXL
+16,19.5,1.58,1.0,Uber,Black
+11,8.5,1.41,1.0,Uber,UberX
+4,13.5,1.74,1.0,Lyft,Lyft XL
+18,16.5,0.73,1.0,Lyft,Lux Black
+17,7.0,3.2,1.0,Lyft,Shared
+16,16.5,1.56,1.0,Lyft,Lux
+16,11.0,1.16,1.0,Lyft,Lyft XL
+2,27.5,0.98,1.0,Uber,Black SUV
+16,10.5,3.54,1.0,Lyft,Lyft
+15,9.5,1.61,1.0,Uber,UberX
+13,22.0,2.78,1.0,Uber,Black
+22,7.5,1.22,1.0,Uber,UberPool
+1,7.5,1.5,1.0,Uber,UberX
+4,27.5,3.15,1.0,Lyft,Lux Black
+5,10.5,0.64,1.0,Lyft,Lux
+4,10.5,1.06,1.0,Lyft,Lyft XL
+22,27.0,1.9,1.0,Uber,Black SUV
+3,37.0,3.22,1.0,Uber,Black SUV
+13,10.0,3.53,1.0,Uber,UberPool
+8,6.5,0.39,1.0,Uber,WAV
+22,9.0,2.32,1.0,Lyft,Lyft
+19,11.0,0.56,1.0,Uber,UberXL
+13,12.0,1.4,1.0,Uber,UberXL
+3,13.5,2.56,1.0,Lyft,Lyft XL
+7,19.0,2.58,1.0,Uber,Black
+20,22.5,2.67,1.0,Uber,Black
+2,11.0,3.44,1.0,Uber,WAV
+21,13.0,4.4,1.0,Uber,UberX
+14,7.0,1.24,1.0,Lyft,Lyft
+5,10.5,0.99,1.0,Uber,UberXL
+22,3.0,0.99,1.0,Lyft,Shared
+10,9.5,2.25,1.0,Uber,UberX
+19,16.0,1.25,1.0,Uber,Black
+11,22.5,2.94,1.25,Lyft,Lux
+21,13.5,1.0,1.0,Lyft,Lux
+8,5.0,1.53,1.0,Lyft,Shared
+12,34.0,2.3,1.0,Uber,Black SUV
+17,22.5,3.23,1.0,Lyft,Lux
+9,13.5,2.13,1.0,Lyft,Lyft XL
+1,26.5,1.35,1.0,Uber,Black SUV
+0,10.5,0.43,1.0,Lyft,Lux
+9,42.0,6.26,1.0,Uber,Black SUV
+15,8.5,2.73,1.0,Uber,UberPool
+2,8.5,1.84,1.0,Uber,UberX
+14,7.0,0.49,1.0,Uber,UberX
+10,7.0,1.01,1.0,Lyft,Lyft
+15,16.5,1.08,1.0,Lyft,Lux Black
+23,7.0,1.99,1.0,Lyft,Shared
+4,15.0,1.25,1.0,Uber,Black
+15,26.0,1.22,1.0,Lyft,Lux Black XL
+13,19.5,3.39,1.0,Lyft,Lyft XL
+2,16.5,1.91,1.0,Lyft,Lux
+22,13.0,3.09,1.0,Uber,WAV
+5,22.5,3.21,2.0,Lyft,Lyft
+5,7.0,2.13,1.0,Lyft,Shared
+8,8.5,2.19,1.0,Uber,UberPool
+20,9.0,2.56,1.0,Uber,UberX
+12,26.0,1.41,1.0,Uber,Black SUV
+13,8.0,1.69,1.0,Uber,UberPool
+17,10.5,0.56,1.0,Uber,UberXL
+11,11.0,0.49,1.0,Lyft,Lux
+15,9.5,1.23,1.0,Uber,UberX
+6,13.0,4.48,1.0,Uber,UberX
+17,30.5,2.33,1.0,Uber,Black SUV
+0,9.5,2.79,1.0,Uber,WAV
+19,16.5,1.45,1.0,Lyft,Lux Black
+12,8.5,2.17,1.0,Uber,UberX
+22,10.5,3.16,1.0,Lyft,Lyft
+12,21.5,4.42,1.0,Uber,UberXL
+12,11.0,1.41,1.0,Lyft,Lyft XL
+21,16.5,1.41,1.0,Lyft,Lux Black
+21,35.5,4.48,1.0,Uber,Black SUV
+20,10.5,2.25,1.0,Lyft,Lyft
+18,16.5,2.46,1.0,Lyft,Lux
+10,11.0,2.66,1.0,Uber,WAV
+20,10.5,3.05,1.0,Uber,UberX
+4,15.0,2.27,1.0,Uber,UberXL
+7,10.5,1.41,1.0,Uber,UberX
+15,19.5,2.61,1.0,Uber,Black
+12,9.5,2.58,1.0,Uber,WAV
+2,26.0,5.43,1.0,Lyft,Lux
+1,28.5,1.89,1.0,Uber,Black SUV
+20,10.5,1.74,1.25,Lyft,Lyft
+16,34.0,2.54,1.0,Lyft,Lux Black XL
+9,10.5,3.09,1.0,Lyft,Shared
+0,26.0,1.24,1.0,Lyft,Lux Black XL
+6,8.5,2.14,1.0,Uber,WAV
+2,5.0,2.42,1.0,Lyft,Shared
+12,7.0,2.75,1.0,Lyft,Shared
+18,26.0,3.27,1.0,Lyft,Lux Black
+0,15.0,0.39,1.0,Uber,Black
+8,26.0,2.84,1.0,Uber,Black
+20,11.0,0.56,1.0,Lyft,Lux
+8,11.0,1.26,1.0,Lyft,Lyft XL
+7,7.5,1.21,1.0,Uber,UberX
+2,30.5,2.72,1.0,Uber,Black SUV
+12,16.5,2.03,1.0,Lyft,Lyft XL
+22,13.0,4.44,1.0,Uber,UberX
+10,9.5,1.61,1.0,Uber,WAV
+6,19.5,1.72,1.0,Lyft,Lux Black
+15,5.0,3.1,1.0,Lyft,Shared
+3,16.5,2.99,1.0,Lyft,Lyft XL
+7,10.5,2.39,1.0,Lyft,Lyft
+18,38.0,0.71,1.5,Lyft,Lux Black XL
+14,8.5,2.46,1.0,Uber,UberX
+8,7.0,1.21,1.0,Lyft,Lyft
+19,19.5,2.95,1.0,Lyft,Lux
+18,12.0,3.08,1.0,Uber,WAV
+1,28.0,1.46,1.0,Uber,Black SUV
+3,26.0,2.88,1.0,Lyft,Lux Black
+10,16.5,2.16,1.0,Lyft,Lux
+23,27.0,4.4,1.0,Uber,Black
+14,24.0,2.27,1.0,Uber,UberXL
+2,8.5,1.16,1.0,Uber,UberX
+4,32.5,3.19,1.0,Lyft,Lux Black XL
+17,25.0,3.1,1.0,Uber,Black
+15,9.5,2.8,1.0,Uber,WAV
+19,9.0,1.86,1.0,Uber,UberX
+0,7.0,3.15,1.0,Lyft,Shared
+17,22.5,5.37,1.0,Lyft,Lyft XL
+13,11.0,0.63,1.0,Lyft,Lux
+19,7.0,0.3,1.0,Uber,UberPool
+4,5.0,4.34,1.0,Lyft,Shared
+19,27.5,2.35,1.0,Lyft,Lux Black XL
+6,8.5,1.79,1.0,Uber,WAV
+1,13.5,3.04,1.0,Lyft,Lyft
+15,22.5,1.43,1.25,Lyft,Lux Black
+3,7.0,1.03,1.0,Uber,UberX
+8,16.0,1.57,1.0,Uber,Black
+19,32.5,0.64,1.25,Lyft,Lux Black XL
+10,31.5,3.08,1.0,Uber,Black SUV
+12,7.5,0.49,1.0,Uber,UberPool
+18,19.5,2.42,1.0,Lyft,Lux
+9,38.5,4.55,1.0,Lyft,Lux Black XL
+4,16.5,1.81,1.0,Uber,Black
+5,31.5,2.98,1.0,Uber,Black SUV
+3,24.0,4.72,1.0,Uber,UberXL
+8,10.0,1.57,1.0,Uber,UberPool
+1,16.5,2.69,1.0,Lyft,Lux
+16,7.0,2.62,1.0,Lyft,Shared
+1,17.0,3.44,1.0,Uber,UberXL
+5,19.5,1.48,1.0,Lyft,Lux Black
+22,7.0,2.84,1.0,Lyft,Shared
+0,5.5,0.39,1.0,Uber,UberPool
+0,19.5,1.85,1.0,Lyft,Lux Black
+9,26.0,1.25,1.0,Lyft,Lux Black XL
+14,11.5,3.01,1.0,Uber,WAV
+3,26.0,1.21,1.0,Uber,Black SUV
+19,16.0,2.84,1.0,Uber,UberXL
+16,19.5,1.76,1.0,Lyft,Lux Black
+14,5.0,1.52,1.0,Lyft,Shared
+12,7.5,0.72,1.0,Uber,UberPool
+15,9.5,2.62,1.0,Uber,UberX
+11,10.5,2.62,1.0,Uber,UberX
+14,13.5,1.86,1.0,Uber,UberXL
+1,14.0,1.97,1.0,Uber,UberXL
+7,7.5,0.8,1.0,Uber,UberPool
+22,27.0,1.6,1.0,Uber,Black SUV
+8,27.5,2.06,1.0,Lyft,Lux Black XL
+21,15.0,1.03,1.0,Uber,Black
+12,17.5,2.19,1.0,Uber,Black
+21,30.5,4.48,1.0,Uber,Black
+17,13.5,2.17,1.0,Uber,UberXL
+18,17.0,2.42,1.0,Uber,UberXL
+4,16.5,2.48,1.0,Lyft,Lux
+5,16.5,1.45,1.0,Lyft,Lux Black
+5,16.5,2.77,1.0,Lyft,Lyft XL
+6,28.5,2.14,1.0,Uber,Black SUV
+3,7.0,3.07,1.0,Lyft,Shared
+23,10.5,3.05,1.0,Uber,UberX
+11,9.0,3.1,1.0,Lyft,Shared
+20,9.5,3.01,1.0,Uber,WAV
+5,7.0,1.02,1.0,Lyft,Lyft
+5,18.0,1.5,1.0,Uber,Black
+9,13.5,5.34,1.0,Lyft,Lyft
+17,10.5,3.23,1.0,Uber,WAV
+1,27.5,1.06,1.0,Lyft,Lux Black XL
+13,9.0,1.91,1.0,Lyft,Shared
+4,22.5,6.26,1.0,Uber,UberXL
+13,16.0,0.72,1.0,Uber,Black
+14,26.0,1.1,1.0,Lyft,Lux Black XL
+4,19.5,4.43,1.0,Uber,UberX
+23,9.5,2.87,1.0,Uber,UberPool
+2,5.0,4.36,1.0,Lyft,Shared
+2,30.0,2.3,1.0,Lyft,Lux Black XL
+9,13.5,1.73,1.0,Lyft,Lyft XL
+16,27.5,1.16,1.0,Uber,Black SUV
+19,22.5,1.32,1.0,Lyft,Lux Black
+19,11.0,2.3,1.0,Uber,UberPool
+4,7.5,1.25,1.0,Uber,WAV
+9,34.0,2.83,1.0,Lyft,Lux Black XL
+22,14.5,3.04,1.0,Uber,UberPool
+8,17.5,2.19,1.0,Uber,Black
+17,8.0,2.46,1.0,Uber,UberPool
+20,10.5,2.84,1.0,Uber,WAV
+13,12.0,3.61,1.0,Uber,WAV
+8,7.0,2.13,1.0,Lyft,Shared
+13,14.0,2.14,1.0,Uber,UberXL
+22,13.5,1.49,1.0,Lyft,Lux
+8,9.5,2.33,1.0,Uber,WAV
+17,7.0,0.98,1.0,Uber,WAV
+12,42.5,4.52,1.0,Lyft,Lux Black XL
+9,8.5,2.79,1.0,Uber,UberPool
+14,20.5,2.32,1.0,Uber,Black
+11,9.5,2.22,1.0,Uber,UberX
+22,16.0,1.35,1.0,Uber,Black
+8,7.5,0.49,1.0,Uber,WAV
+4,8.0,1.41,1.0,Uber,UberX
+22,8.5,1.92,1.0,Uber,UberPool
+10,10.5,1.35,1.0,Uber,UberX
+20,15.0,1.46,1.0,Uber,UberXL
+21,10.5,2.45,1.0,Uber,UberX
+19,27.5,0.91,1.0,Uber,Black SUV
+18,22.0,2.04,1.0,Uber,Black
+15,10.5,2.71,1.0,Uber,UberX
+5,7.0,1.03,1.0,Uber,UberPool
+12,36.0,3.14,1.0,Uber,Black SUV
+20,28.5,7.46,1.0,Uber,UberXL
+13,38.5,3.11,1.0,Lyft,Lux Black XL
+22,47.5,3.0,1.75,Lyft,Lux Black
+16,10.5,2.54,1.0,Uber,WAV
+3,7.0,2.22,1.0,Lyft,Shared
+22,14.0,4.72,1.0,Uber,UberX
+1,10.5,3.06,1.0,Lyft,Lyft
+22,17.5,2.66,1.0,Uber,UberXL
+13,3.5,1.35,1.0,Lyft,Shared
+10,7.0,3.14,1.0,Lyft,Shared
+9,15.0,2.46,1.0,Uber,UberXL
+22,17.0,3.53,1.0,Uber,UberXL
+9,5.0,0.59,1.0,Lyft,Shared
+2,13.5,1.5,1.0,Lyft,Lux
+20,16.5,0.72,1.0,Lyft,Lux Black
+17,18.0,1.3,1.0,Uber,Black
+23,8.5,2.17,1.0,Uber,UberPool
+12,5.0,1.72,1.0,Lyft,Shared
+14,7.0,1.49,1.0,Lyft,Lyft
+3,9.0,1.08,1.0,Uber,WAV
+19,22.5,1.58,1.25,Lyft,Lux
+5,7.5,1.43,1.0,Uber,UberPool
+15,35.0,3.45,1.0,Uber,Black SUV
+5,16.5,1.72,1.0,Uber,UberXL
+1,5.0,0.63,1.0,Lyft,Shared
+10,7.0,0.78,1.0,Lyft,Lyft
+1,3.5,0.72,1.0,Lyft,Shared
+22,13.5,3.96,1.0,Uber,UberX
+1,26.0,1.08,1.0,Uber,Black SUV
+16,30.5,1.92,1.0,Uber,Black SUV
+11,12.0,1.56,1.0,Uber,UberXL
+2,13.5,2.09,1.0,Lyft,Lyft XL
+14,8.5,2.46,1.0,Uber,UberPool
+21,10.5,2.97,1.25,Lyft,Lyft
+2,38.0,5.44,1.0,Lyft,Lux Black
+15,10.5,1.08,1.0,Lyft,Lyft XL
+0,45.5,4.12,1.0,Lyft,Lux Black XL
+22,19.5,1.93,1.0,Lyft,Lux Black
+6,9.0,1.61,1.0,Uber,UberPool
+3,30.5,3.08,1.0,Uber,Black SUV
+18,22.0,2.46,1.0,Uber,Black
+13,38.0,7.46,1.0,Uber,Black
+20,10.5,2.84,1.0,Uber,WAV
+8,36.0,4.4,1.0,Uber,Black SUV
+11,26.0,1.04,1.0,Lyft,Lux Black XL
+18,9.0,2.36,1.0,Lyft,Lyft
+0,9.5,2.72,1.0,Uber,UberPool
+23,32.5,3.3,1.0,Uber,UberXL
+9,9.0,2.38,1.0,Lyft,Lyft
+12,22.5,2.4,1.0,Lyft,Lux Black
+23,13.5,3.4,1.0,Lyft,Lyft
+19,7.5,1.22,1.0,Uber,UberX
+17,28.0,2.84,1.0,Uber,UberXL
+22,7.0,2.15,1.0,Lyft,Shared
+3,7.0,1.26,1.0,Lyft,Lyft
+17,32.5,2.95,1.0,Lyft,Lux Black XL
+15,27.0,1.56,1.0,Uber,Black SUV
+11,10.5,3.05,1.0,Lyft,Lyft
+4,19.5,1.72,1.0,Lyft,Lux Black
+4,30.0,2.36,1.0,Lyft,Lux Black XL
+19,7.0,1.5,1.0,Uber,UberX
+23,16.5,2.66,1.0,Lyft,Lyft XL
+8,9.0,0.39,1.0,Uber,UberXL
+5,7.0,3.03,1.0,Lyft,Shared
+1,8.0,1.04,1.0,Uber,UberX
+17,8.5,1.44,1.0,Uber,UberX
+21,9.5,1.99,1.0,Uber,UberX
+4,7.0,2.1,1.0,Lyft,Shared
+1,27.5,1.05,1.0,Lyft,Lux Black XL
+1,13.5,0.46,1.25,Lyft,Lux
+2,16.5,1.24,1.0,Lyft,Lux Black
+20,27.5,1.09,1.0,Lyft,Lux Black XL
+9,43.0,4.48,1.0,Uber,Black SUV
+1,10.5,5.37,1.0,Lyft,Shared
+23,22.5,4.76,1.0,Lyft,Lux
+22,30.0,3.26,1.0,Lyft,Lux Black
+0,34.0,2.91,1.0,Lyft,Lux Black XL
+21,11.0,1.96,1.25,Lyft,Lyft
+5,7.0,0.99,1.0,Uber,UberX
+9,18.0,1.64,1.0,Uber,Black
+3,20.5,2.38,1.0,Uber,Black
+15,10.5,1.01,1.0,Lyft,Lyft XL
+2,9.0,3.01,1.0,Lyft,Shared
+9,8.0,1.44,1.0,Uber,UberX
+11,19.5,1.45,1.0,Lyft,Lux Black
+16,13.0,3.64,1.0,Uber,UberX
+21,11.5,3.61,1.0,Uber,UberX
+17,11.0,1.02,1.0,Lyft,Lyft XL
+5,10.5,0.75,1.0,Lyft,Lyft XL
+19,19.5,2.14,1.0,Uber,Black
+0,9.0,2.3,1.0,Uber,UberX
+12,13.5,1.64,1.0,Uber,UberXL
+23,16.5,1.39,1.0,Lyft,Lux Black
+20,19.5,2.19,1.0,Uber,Black
+23,7.5,3.04,1.0,Uber,UberPool
+15,22.0,2.27,1.0,Uber,Black
+12,16.5,2.01,1.0,Lyft,Lux
+19,5.0,0.73,1.0,Lyft,Shared
+8,22.5,2.68,1.0,Lyft,Lux Black
+13,15.0,5.7,1.0,Uber,UberX
+7,16.5,2.33,1.0,Lyft,Lux
+6,20.5,2.27,1.0,Uber,Black
+11,13.5,1.46,1.0,Lyft,Lyft XL
+0,19.5,1.6,1.0,Lyft,Lux Black
+18,42.5,4.78,1.0,Lyft,Lux Black XL
+9,11.0,2.98,1.0,Uber,UberX
+11,19.5,1.53,1.0,Lyft,Lux Black
+9,34.0,0.72,1.25,Lyft,Lux Black XL
+3,27.5,1.8,1.0,Lyft,Lux Black XL
+17,10.0,1.34,1.0,Uber,UberPool
+10,26.0,0.71,1.0,Lyft,Lux Black XL
+9,10.5,3.2,1.0,Uber,WAV
+10,7.0,0.56,1.0,Uber,UberX
+0,34.0,4.1,1.0,Lyft,Lux Black
+19,17.0,2.2,1.0,Uber,UberXL
+5,3.5,1.29,1.0,Lyft,Shared
+17,27.0,2.19,1.0,Uber,Black SUV
+22,16.0,3.22,1.0,Uber,UberXL
+13,32.5,2.26,1.0,Lyft,Lux Black XL
+11,22.5,1.76,1.0,Lyft,Lux Black
+1,9.0,2.19,1.0,Uber,UberX
+10,7.5,3.07,1.0,Uber,UberPool
+23,11.0,1.29,1.0,Lyft,Lyft XL
+17,9.5,2.27,1.0,Uber,UberX
+15,10.5,2.33,1.0,Uber,UberX
+11,7.0,0.39,1.0,Uber,UberX
+1,17.5,3.37,1.0,Uber,UberXL
+15,8.5,0.91,1.0,Uber,WAV
+1,31.5,2.66,1.0,Uber,Black SUV
+13,16.5,2.49,1.0,Lyft,Lyft XL
+11,9.5,2.36,1.0,Uber,WAV
+19,16.0,2.71,1.0,Uber,UberXL
+6,30.0,2.33,1.0,Lyft,Lux Black XL
+23,12.5,3.07,1.0,Uber,UberPool
+23,10.5,2.9,1.0,Lyft,Lyft
+19,9.5,2.7,1.0,Uber,UberX
+21,9.0,2.62,1.0,Uber,UberPool
+19,7.0,1.07,1.0,Lyft,Lyft
+20,13.5,1.96,1.0,Lyft,Lyft XL
+4,11.5,3.23,1.0,Uber,UberX
+1,16.5,1.01,1.0,Lyft,Lux Black
+6,34.0,3.42,1.0,Lyft,Lux Black
+1,32.5,2.62,1.0,Lyft,Lux Black XL
+0,9.5,2.66,1.0,Uber,UberPool
+10,13.5,2.19,1.0,Uber,UberXL
+9,9.5,2.66,1.0,Uber,WAV
+15,25.0,2.44,1.0,Uber,Black
+5,26.0,2.34,1.0,Lyft,Lux Black
+20,5.0,1.08,1.0,Lyft,Shared
+16,5.5,1.01,1.0,Uber,UberPool
+11,11.5,3.44,1.0,Uber,WAV
+10,10.5,2.4,1.0,Lyft,Lyft
+15,10.5,2.62,1.0,Uber,WAV
+6,32.5,4.8,1.0,Lyft,Lux Black
+16,15.0,1.39,1.0,Uber,Black
+22,27.5,1.55,1.0,Lyft,Lux Black XL
+21,16.5,2.24,1.0,Lyft,Lux
+16,32.5,2.0,1.0,Lyft,Lux Black XL
+8,16.5,1.81,1.0,Lyft,Lux
+0,7.0,3.05,1.0,Lyft,Shared
+22,16.5,2.44,1.0,Lyft,Lux
+1,16.0,1.34,1.0,Uber,Black
+11,26.0,0.55,1.0,Uber,Black SUV
+15,20.5,2.19,1.0,Uber,Black
+14,23.0,3.39,1.0,Uber,Black
+4,10.5,3.39,1.0,Uber,WAV
+6,13.0,1.61,1.0,Uber,UberXL
+23,10.0,3.04,1.0,Uber,UberPool
+8,13.5,1.05,1.0,Lyft,Lux
+8,16.5,2.84,1.0,Uber,UberX
+15,7.0,1.0,1.0,Uber,WAV
+4,27.5,1.5,1.0,Uber,Black SUV
+1,7.0,3.24,1.0,Lyft,Shared
+22,26.0,2.75,1.0,Lyft,Lux Black
+16,26.0,2.83,1.0,Lyft,Lux Black
+1,22.5,1.36,1.0,Lyft,Lux Black
+12,13.5,3.25,1.0,Lyft,Lyft
+19,21.5,2.32,1.0,Uber,Black
+17,11.0,3.1,1.0,Lyft,Lyft
+18,9.5,1.3,1.0,Uber,WAV
+0,9.0,3.22,1.0,Uber,UberPool
+13,19.5,1.75,1.0,Lyft,Lux Black
+2,19.5,1.05,1.25,Lyft,Lux Black
+3,19.5,3.39,1.0,Uber,UberXL
+9,7.0,2.5,1.0,Lyft,Shared
+10,19.5,2.78,1.0,Lyft,Lux
+23,6.5,0.52,1.0,Uber,UberX
+0,18.0,2.9,1.0,Uber,UberXL
+18,9.5,1.28,1.0,Uber,WAV
+2,26.0,1.19,1.0,Uber,Black SUV
+9,25.0,2.73,1.0,Uber,Black
+6,12.0,2.32,1.0,Uber,UberPool
+13,32.5,2.93,1.0,Lyft,Lux Black XL
+8,11.0,2.97,1.0,Lyft,Lyft
+17,3.5,0.57,1.0,Lyft,Shared
+11,8.5,2.84,1.0,Uber,UberPool
+6,38.0,3.47,1.0,Lyft,Lux Black XL
+8,13.5,4.87,1.0,Lyft,Lyft
+12,7.5,0.61,1.0,Uber,UberX
+16,8.0,1.64,1.0,Uber,WAV
+13,10.5,1.99,1.0,Lyft,Lyft
+14,12.0,1.03,1.0,Uber,UberXL
+16,10.5,3.14,1.0,Lyft,Lyft
+22,15.0,1.92,1.0,Uber,UberXL
+17,7.0,0.99,1.0,Uber,WAV
+14,3.5,1.23,1.0,Lyft,Shared
+1,26.0,1.02,1.0,Lyft,Lux Black XL
+21,10.5,2.66,1.0,Uber,WAV
+20,8.5,2.46,1.0,Uber,UberPool
+16,26.5,2.27,1.0,Uber,Black SUV
+2,17.0,3.04,1.0,Uber,UberXL
+1,3.0,1.23,1.0,Lyft,Shared
+10,38.5,3.47,1.0,Lyft,Lux Black XL
+21,7.5,0.72,1.0,Uber,WAV
+3,13.5,1.45,1.0,Lyft,Lux
+21,8.5,2.31,1.0,Uber,UberPool
+8,9.0,4.55,1.0,Lyft,Shared
+5,30.0,4.53,1.0,Lyft,Lux Black
+1,11.0,3.41,1.0,Lyft,Lyft
+4,34.0,2.74,1.0,Lyft,Lux Black XL
+17,10.5,3.47,1.0,Lyft,Lyft
+12,16.5,3.44,1.0,Uber,UberXL
+18,8.0,0.82,1.0,Uber,UberPool
+0,18.5,2.8,1.0,Uber,UberXL
+4,11.5,1.08,1.0,Uber,UberXL
+5,9.5,2.66,1.0,Uber,UberX
+16,18.5,1.57,1.0,Uber,Black
+7,9.0,2.17,1.0,Uber,UberPool
+0,15.0,1.34,1.0,Uber,Black
+14,18.0,1.81,1.0,Uber,Black
+23,16.5,2.35,1.0,Uber,UberXL
+5,26.0,0.65,1.0,Lyft,Lux Black XL
+11,13.5,1.73,1.0,Lyft,Lyft XL
+2,28.5,4.55,1.0,Uber,Black
+11,14.0,1.46,1.0,Uber,UberXL
+12,26.0,1.39,1.0,Lyft,Lux Black XL
+10,13.5,2.61,1.0,Lyft,Lyft XL
+4,19.5,3.5,1.0,Lyft,Lux
+17,26.0,3.31,1.0,Lyft,Lux Black
+14,8.0,1.41,1.0,Uber,UberPool
+6,9.0,2.86,1.0,Uber,WAV
+19,8.5,2.48,1.0,Uber,WAV
+19,7.0,0.49,1.0,Uber,WAV
+2,9.5,2.84,1.0,Uber,WAV
+18,10.5,2.93,1.0,Lyft,Lyft
+3,13.5,1.43,1.0,Lyft,Lux
+22,19.5,3.19,1.0,Lyft,Lux
+7,13.5,1.46,1.0,Lyft,Lux
+0,9.0,3.42,1.0,Lyft,Shared
+11,38.5,1.06,1.5,Lyft,Lux Black XL
+19,27.5,0.77,1.0,Lyft,Lux Black XL
+21,16.5,1.28,1.0,Lyft,Lux Black
+14,16.5,1.41,1.0,Lyft,Lux Black
+16,5.0,1.08,1.0,Lyft,Shared
+10,7.0,1.24,1.0,Lyft,Shared
+17,23.0,3.01,1.0,Uber,Black
+16,16.5,2.38,1.0,Lyft,Lux
+18,10.0,3.01,1.0,Uber,UberPool
+7,10.0,3.07,1.0,Uber,UberPool
+8,11.5,2.84,1.0,Uber,WAV
+10,32.0,4.76,1.0,Uber,Black
+3,13.5,4.41,1.0,Lyft,Lyft
+23,7.0,0.99,1.0,Uber,UberPool
+9,16.5,2.33,1.0,Lyft,Lux
+22,16.5,3.24,1.0,Lyft,Lyft XL
+2,7.0,2.83,1.0,Lyft,Shared
+19,21.0,3.07,1.0,Uber,Black
+22,10.5,3.22,1.0,Uber,UberX
+8,32.5,2.74,1.0,Lyft,Lux Black XL
+3,15.0,2.79,1.0,Uber,UberXL
+4,13.0,4.72,1.0,Uber,WAV
+8,19.5,3.21,1.0,Lyft,Lux
+15,9.5,2.44,1.0,Uber,UberX
+10,6.5,0.54,1.0,Uber,WAV
+0,16.5,1.97,1.0,Lyft,Lux
+7,3.5,0.65,1.0,Lyft,Shared
+18,19.5,1.06,1.25,Lyft,Lux Black
+14,31.0,2.61,1.0,Uber,Black SUV
+6,7.0,1.07,1.0,Lyft,Lyft
+11,5.0,0.72,1.0,Lyft,Shared
+14,16.0,1.23,1.0,Uber,Black
+16,26.5,0.91,1.0,Uber,Black SUV
+14,22.5,2.36,1.0,Lyft,Lux Black
+15,19.5,1.4,1.0,Lyft,Lux Black
+5,9.0,3.46,1.0,Lyft,Shared
+6,5.5,0.49,1.0,Uber,UberPool
+16,9.0,3.01,1.0,Uber,UberPool
+1,16.0,4.44,1.0,Uber,WAV
+0,9.5,1.8,1.0,Uber,WAV
+22,22.5,1.76,1.0,Lyft,Lux Black
+15,33.0,2.46,1.0,Uber,Black SUV
+17,5.0,1.23,1.0,Lyft,Shared
+20,10.5,2.84,1.0,Uber,WAV
+0,7.0,3.23,1.0,Lyft,Shared
+21,27.0,0.39,1.0,Uber,Black SUV
+1,9.5,1.71,1.0,Uber,UberX
+5,27.5,1.68,1.0,Lyft,Lux Black XL
+15,18.5,1.35,1.0,Uber,Black
+14,13.5,1.39,1.0,Lyft,Lux
+2,30.0,2.49,1.0,Lyft,Lux Black XL
+1,3.0,1.06,1.0,Lyft,Shared
+14,7.5,1.41,1.0,Uber,UberX
+2,9.0,2.32,1.0,Lyft,Lyft
+6,10.5,2.68,1.0,Uber,WAV
+0,9.5,2.79,1.0,Uber,UberX
+17,25.0,2.8,1.0,Uber,Black
+9,7.5,0.61,1.0,Uber,UberX
+14,26.0,3.98,1.0,Lyft,Lux
+14,11.0,2.66,1.0,Uber,WAV
+5,9.0,1.54,1.0,Lyft,Lyft
+10,3.5,1.68,1.0,Lyft,Shared
+4,16.5,2.43,1.0,Lyft,Lyft XL
+2,8.5,1.41,1.0,Uber,WAV
+17,9.0,2.32,1.0,Lyft,Shared
+5,27.5,4.61,1.0,Lyft,Lux
+21,8.5,2.17,1.0,Uber,WAV
+23,17.0,2.8,1.0,Uber,UberXL
+20,16.5,1.23,1.0,Lyft,Lux Black
+21,29.5,2.5,1.0,Uber,Black SUV
+23,12.5,1.25,1.0,Uber,UberXL
+18,3.0,1.2,1.0,Lyft,Shared
+7,3.5,0.58,1.0,Lyft,Shared
+3,12.0,2.47,1.0,Uber,WAV
+6,19.5,2.34,1.0,Lyft,Lux
+0,38.0,1.44,1.5,Lyft,Lux Black XL
+1,32.0,2.84,1.0,Uber,Black SUV
+2,19.5,2.92,1.0,Lyft,Lyft XL
+21,10.5,3.21,1.0,Lyft,Shared
+11,7.0,1.0,1.0,Lyft,Lyft
+21,19.5,3.06,1.0,Lyft,Lux
+17,3.0,2.32,1.0,Lyft,Shared
+3,10.5,2.85,1.0,Lyft,Lyft
+9,34.0,3.13,1.0,Lyft,Lux Black XL
+13,26.0,0.49,1.0,Uber,Black SUV
+13,7.0,0.39,1.0,Uber,WAV
+4,8.0,1.92,1.0,Uber,WAV
+4,11.5,4.48,1.0,Uber,UberX
+7,13.5,2.4,1.5,Lyft,Lyft
+15,11.0,3.05,1.0,Uber,UberPool
+22,28.0,2.09,1.0,Uber,Black SUV
+14,16.5,2.66,1.0,Lyft,Lyft XL
+2,30.5,3.01,1.0,Uber,Black SUV
+14,13.5,0.99,1.0,Lyft,Lux
+9,30.0,2.5,1.0,Lyft,Lux Black XL
+0,7.0,2.82,1.0,Lyft,Shared
+7,13.5,1.25,1.0,Lyft,Lyft XL
+20,8.5,1.08,1.0,Uber,WAV
+18,10.5,2.98,1.0,Uber,UberX
+21,27.5,1.21,1.0,Uber,Black SUV
+14,11.0,0.59,1.0,Lyft,Lyft XL
+0,10.5,2.47,1.0,Lyft,Lyft
+11,12.0,2.66,1.0,Uber,UberX
+21,27.5,1.34,1.0,Uber,Black SUV
+2,42.5,4.18,1.0,Lyft,Lux Black XL
+22,14.5,1.64,1.0,Uber,UberX
+19,38.5,2.95,1.5,Lyft,Lux Black
+6,38.5,3.06,1.0,Lyft,Lux Black XL
+13,48.0,3.3,1.0,Uber,Black SUV
+6,10.5,3.05,1.0,Uber,WAV
+12,34.0,3.25,1.0,Lyft,Lux Black XL
+12,8.0,1.23,1.0,Uber,UberX
+19,27.0,1.94,1.0,Uber,Black SUV
+20,6.5,2.31,1.0,Uber,UberPool
+19,8.5,2.14,1.0,Uber,UberPool
+10,17.5,2.62,1.0,Uber,UberXL
+0,38.5,3.42,1.0,Lyft,Lux Black XL
+11,16.5,3.18,1.0,Lyft,Lyft XL
+3,9.0,0.64,1.0,Lyft,Lyft XL
+23,7.5,1.94,1.0,Uber,UberPool
+16,19.5,2.62,1.0,Lyft,Lux
+16,16.5,2.84,1.0,Lyft,Lyft XL
+13,26.5,0.61,1.0,Uber,Black SUV
+16,11.0,3.2,1.0,Uber,WAV
+3,7.0,3.5,1.0,Lyft,Shared
+6,10.5,2.25,1.0,Uber,UberX
+8,7.0,0.39,1.0,Uber,WAV
+12,14.5,1.91,1.0,Uber,UberPool
+23,3.0,2.99,1.0,Lyft,Shared
+0,5.5,0.56,1.0,Uber,UberPool
+18,7.0,1.24,1.0,Lyft,Lyft
+2,13.5,1.23,1.0,Lyft,Lux
+16,26.5,0.56,1.0,Uber,Black SUV
+21,27.5,0.49,1.0,Uber,Black SUV
+1,5.0,1.33,1.0,Lyft,Shared
+20,47.5,7.46,1.0,Uber,Black
+13,16.0,0.49,1.0,Uber,Black
+1,17.0,3.2,1.0,Uber,UberXL
+5,27.0,1.3,1.0,Uber,Black SUV
+3,10.5,2.8,1.0,Uber,WAV
+8,8.5,1.82,1.0,Uber,UberX
+21,7.0,1.16,1.0,Uber,UberX
+6,38.0,3.24,1.0,Lyft,Lux Black XL
+12,13.5,1.5,1.0,Lyft,Lyft XL
+18,10.5,3.01,1.0,Uber,UberX
+9,11.0,3.26,1.0,Lyft,Lyft
+16,3.5,0.99,1.0,Lyft,Shared
+16,8.0,1.35,1.0,Uber,UberX
+12,11.0,2.8,1.0,Uber,UberPool
+7,16.5,3.45,1.0,Lyft,Lyft XL
+23,13.0,1.51,1.0,Uber,UberXL
+9,26.5,1.56,1.0,Uber,Black SUV
+20,12.0,1.41,1.0,Uber,UberXL
+5,16.5,1.19,1.0,Lyft,Lux Black
+23,34.0,2.35,1.0,Lyft,Lux Black XL
+16,19.5,3.11,1.0,Lyft,Lux
+13,16.5,1.33,1.0,Lyft,Lux
+10,5.0,1.41,1.0,Lyft,Shared
+20,16.5,1.19,1.0,Lyft,Lux Black
+10,9.0,1.75,1.0,Lyft,Lyft
+23,47.0,5.56,1.0,Uber,Black SUV
+9,34.0,4.74,1.0,Uber,Black
+23,16.5,0.59,1.0,Lyft,Lux Black
+2,25.0,3.07,1.0,Uber,Black
+19,9.0,2.58,1.0,Lyft,Lyft
+15,34.0,3.08,1.0,Uber,Black SUV
+17,7.0,2.29,1.0,Lyft,Shared
+14,10.5,0.55,1.0,Lyft,Lux
+19,7.0,2.52,1.0,Lyft,Shared
+22,22.5,2.31,1.0,Lyft,Lux Black
+16,10.5,2.79,1.0,Uber,UberX
+21,23.0,5.56,1.0,Uber,UberXL
+14,26.0,3.18,1.0,Lyft,Lux Black
+15,22.5,3.17,1.0,Lyft,Lux
+3,7.5,1.97,1.0,Uber,UberPool
+16,11.5,1.01,1.0,Uber,UberXL
+15,33.0,3.01,1.0,Uber,Black SUV
+19,7.5,1.25,1.0,Uber,UberX
+21,10.5,3.08,1.0,Uber,WAV
+7,16.5,1.72,1.25,Lyft,Lyft XL
+5,13.5,2.35,1.0,Lyft,Lyft XL
+19,10.5,2.5,1.0,Uber,UberX
+16,14.0,4.72,1.0,Uber,WAV
+14,8.0,1.64,1.0,Uber,WAV
+2,27.5,1.16,1.0,Uber,Black SUV
+19,3.0,1.48,1.0,Lyft,Shared
+22,7.0,0.72,1.0,Lyft,Lyft
+7,15.0,0.72,1.0,Uber,Black
+11,14.0,6.26,1.0,Uber,WAV
+4,13.5,2.3,1.0,Uber,UberPool
+23,10.5,5.37,1.0,Lyft,Shared
+12,12.5,3.66,1.0,Uber,WAV
+2,13.5,1.66,1.0,Lyft,Lyft XL
+8,34.0,3.44,1.25,Lyft,Lux Black
+12,13.5,2.05,1.0,Lyft,Lyft XL
+7,18.5,6.83,1.0,Uber,WAV
+0,36.0,3.01,1.0,Uber,Black SUV
+17,27.5,2.94,1.0,Lyft,Lux Black
+2,19.5,3.17,1.0,Lyft,Lux
+13,7.0,2.79,1.0,Uber,UberPool
+13,3.0,1.73,1.0,Lyft,Shared
+9,13.5,1.48,1.0,Lyft,Lyft XL
+21,6.5,0.68,1.0,Uber,UberX
+6,9.5,2.81,1.0,Uber,WAV
+0,32.5,2.84,1.0,Lyft,Lux Black XL
+4,7.0,1.73,1.0,Lyft,Shared
+13,34.0,2.72,1.0,Uber,Black SUV
+10,10.5,0.91,1.0,Lyft,Lyft XL
+15,15.5,0.72,1.0,Uber,Black
+11,9.0,1.53,1.0,Lyft,Lyft
+15,8.5,1.47,1.0,Uber,UberX
+4,7.0,2.95,1.0,Lyft,Shared
+20,13.5,4.54,1.0,Lyft,Lyft
+14,10.0,4.31,1.0,Uber,UberPool
+20,12.0,2.57,1.0,Uber,UberX
+15,16.5,1.74,1.0,Lyft,Lux
+5,8.0,2.98,1.0,Uber,UberPool
+19,22.5,2.34,1.0,Lyft,Lux Black
+17,8.0,1.35,1.0,Uber,UberX
+8,27.5,1.23,1.0,Lyft,Lux Black XL
+2,16.5,1.44,1.0,Lyft,Lux Black
+0,22.5,2.11,1.0,Lyft,Lux Black
+9,16.0,2.66,1.0,Uber,UberXL
+11,19.5,2.31,1.0,Lyft,Lux
+18,9.5,3.05,1.0,Uber,UberX
+14,34.0,4.72,1.0,Lyft,Lux Black
+6,13.5,2.37,1.0,Uber,UberX
+20,9.0,2.08,1.0,Lyft,Lyft
+2,27.5,2.96,1.0,Lyft,Lux Black
+1,9.0,1.73,1.0,Lyft,Lyft
+13,7.5,1.25,1.0,Uber,UberX
+5,8.5,3.05,1.0,Uber,UberPool
+11,16.0,1.91,1.0,Uber,UberXL
+22,27.5,0.97,1.0,Lyft,Lux Black XL
+4,18.0,1.35,1.0,Uber,Black
+10,5.0,1.25,1.0,Lyft,Shared
+23,9.5,1.16,1.0,Uber,WAV
+22,3.5,0.7,1.0,Lyft,Shared
+10,16.0,1.56,1.0,Uber,Black
+2,7.0,1.0,1.0,Uber,UberPool
+9,11.0,3.21,1.0,Lyft,Lyft
+22,16.5,2.79,1.0,Uber,UberXL
+19,9.0,3.16,1.0,Lyft,Shared
+0,27.5,1.53,1.0,Lyft,Lux Black XL
+12,39.0,7.46,1.0,Uber,Black
+17,16.0,1.56,1.0,Uber,Black
+1,19.5,1.3,1.0,Uber,Black
+4,27.5,1.53,1.0,Lyft,Lux Black XL
+16,21.5,4.4,1.0,Uber,UberXL
+13,7.0,0.92,1.0,Uber,WAV
+17,11.0,5.37,1.0,Lyft,Shared
+18,22.5,2.84,1.0,Uber,Black
+11,38.5,2.9,2.0,Lyft,Lux
+1,11.5,3.24,1.0,Uber,WAV
+18,5.5,0.63,1.0,Uber,UberPool
+8,22.5,2.28,1.0,Lyft,Lux Black
+20,10.5,2.72,1.0,Uber,UberX
+8,12.5,1.41,1.0,Uber,UberXL
+0,22.5,2.66,1.0,Lyft,Lux
+20,27.5,2.8,1.0,Lyft,Lux Black
+21,5.0,1.77,1.0,Lyft,Shared
+7,7.5,1.41,1.0,Uber,UberPool
+3,13.5,1.41,1.0,Lyft,Lyft XL
+17,16.5,1.08,1.0,Lyft,Lux Black
+14,3.0,1.08,1.0,Lyft,Shared
+9,19.5,4.79,1.5,Lyft,Lyft
+20,8.0,1.57,1.0,Uber,UberPool
+10,11.5,4.4,1.0,Uber,UberPool
+10,7.0,2.68,1.0,Lyft,Shared
+23,9.5,1.57,1.0,Uber,WAV
+18,8.0,0.55,1.0,Uber,UberX
+22,30.5,3.15,1.0,Uber,Black SUV
+17,7.0,0.56,1.0,Uber,WAV
+19,7.0,0.74,1.0,Lyft,Lyft
+0,22.5,2.44,1.0,Lyft,Lux Black
+10,17.0,0.98,1.0,Uber,Black
+22,12.5,1.34,1.0,Uber,UberXL
+11,17.5,1.41,1.0,Uber,Black
+10,7.0,2.52,1.0,Lyft,Shared
+20,8.0,1.56,1.0,Uber,UberPool
+8,9.5,0.55,1.0,Uber,UberXL
+16,5.0,1.25,1.0,Lyft,Shared
+14,13.5,4.37,1.0,Lyft,Lyft
+12,34.0,3.3,1.0,Lyft,Lux Black XL
+14,32.5,2.66,1.0,Uber,Black SUV
+15,14.5,3.22,1.0,Uber,UberPool
+8,19.5,3.24,1.0,Lyft,Lyft XL
+20,26.0,2.51,1.0,Lyft,Lux Black
+21,9.5,1.97,1.0,Uber,UberX
+16,28.0,2.79,1.0,Uber,UberXL
+5,28.0,1.79,1.0,Uber,Black SUV
+21,19.5,4.03,1.0,Lyft,Lyft XL
+6,11.5,3.39,1.0,Uber,UberX
+10,26.0,3.48,1.0,Lyft,Lux Black
+1,27.5,1.3,1.0,Uber,Black SUV
+17,11.0,5.42,1.0,Lyft,Shared
+23,7.0,1.49,1.0,Lyft,Lyft
+16,7.0,1.51,1.0,Lyft,Lyft
+11,7.5,1.04,1.0,Uber,WAV
+17,11.0,3.22,1.0,Lyft,Lyft
+3,26.0,0.59,1.0,Lyft,Lux Black XL
+9,9.5,2.98,1.0,Uber,UberX
+18,11.0,0.5,1.0,Lyft,Lux
+16,16.0,1.21,1.0,Uber,Black
+16,20.5,2.66,1.0,Uber,Black
+19,19.0,2.14,1.0,Uber,Black
+15,16.5,2.46,1.0,Lyft,Lyft XL
+13,19.5,2.31,1.0,Lyft,Lux
+6,13.5,3.44,1.25,Lyft,Lyft
+20,3.0,1.12,1.0,Lyft,Shared
+19,37.0,3.3,1.0,Uber,Black SUV
+6,9.0,2.3,1.0,Lyft,Lyft
+3,42.0,5.7,1.0,Uber,Black SUV
+19,11.0,1.17,1.0,Lyft,Lyft XL
+0,10.5,1.8,1.0,Uber,WAV
+21,9.0,3.36,1.0,Lyft,Shared
+7,10.0,0.92,1.0,Uber,UberPool
+9,12.0,0.99,1.0,Uber,UberPool
+0,8.0,1.22,1.0,Uber,UberPool
+21,8.0,2.38,1.0,Uber,UberPool
+5,7.0,2.64,1.0,Lyft,Shared
+22,8.0,1.89,1.0,Uber,UberPool
+14,8.0,1.64,1.0,Uber,UberPool
+21,13.5,2.07,1.0,Lyft,Lyft XL
+13,23.0,1.34,1.0,Uber,Black SUV
+15,7.0,1.04,1.0,Lyft,Lyft
+22,15.0,1.34,1.0,Uber,Black
+12,10.0,1.76,1.0,Uber,WAV
+2,7.0,0.61,1.0,Lyft,Lyft
+2,22.5,2.4,1.0,Lyft,Lux Black
+17,13.5,1.56,1.0,Lyft,Lyft XL
+21,30.5,6.26,1.0,Uber,Black
+15,22.5,0.98,1.5,Lyft,Lux Black
+18,7.0,2.16,1.0,Lyft,Shared
+15,19.5,3.18,1.0,Lyft,Lyft XL
+20,12.0,2.62,1.0,Uber,WAV
+1,45.5,1.45,1.75,Lyft,Lux Black XL
+23,26.0,1.34,1.0,Uber,Black SUV
+11,17.5,1.5,1.0,Uber,Black
+3,21.5,1.78,1.0,Uber,Black
+4,3.0,1.0,1.0,Lyft,Shared
+20,11.0,3.01,1.0,Uber,UberPool
+5,34.0,3.3,1.0,Lyft,Lux Black XL
+4,30.5,3.15,1.0,Uber,Black SUV
+10,13.5,1.54,1.0,Lyft,Lyft XL
+18,8.5,1.03,1.0,Uber,WAV
+21,11.0,1.01,1.0,Lyft,Lyft XL
+3,7.5,1.57,1.0,Uber,WAV
+10,7.5,1.41,1.0,Uber,UberPool
+16,17.5,1.61,1.0,Uber,Black
+2,8.5,2.33,1.0,Uber,UberX
+1,24.5,3.26,1.0,Uber,Black
+14,34.0,2.32,1.0,Uber,Black SUV
+8,11.5,4.55,1.0,Uber,WAV
+21,7.0,0.61,1.0,Lyft,Lyft
+12,27.5,1.12,1.0,Lyft,Lux Black XL
+15,9.0,2.34,1.0,Lyft,Lyft
+23,37.5,4.55,1.0,Uber,Black SUV
+11,44.0,7.25,1.0,Uber,Black
+5,30.5,2.46,1.0,Uber,Black SUV
+15,21.5,3.04,1.0,Uber,Black
+8,5.0,1.01,1.0,Lyft,Shared
+18,26.0,0.56,1.0,Uber,Black SUV
+20,7.0,1.03,1.0,Lyft,Lyft
+12,19.0,3.39,1.0,Uber,UberXL
+23,22.5,1.76,1.0,Lyft,Lux Black
+14,38.5,2.51,1.0,Lyft,Lux Black XL
+20,8.0,0.39,1.0,Uber,UberPool
+16,31.5,2.66,1.0,Uber,Black SUV
+10,27.5,0.39,1.0,Uber,Black SUV
+20,16.5,2.43,1.0,Lyft,Lux
+4,10.5,2.44,1.0,Lyft,Lyft
+0,27.5,1.21,1.0,Uber,Black SUV
+8,12.0,1.5,1.0,Uber,WAV
+14,19.5,2.25,1.0,Uber,Black
+10,9.5,2.33,1.0,Uber,UberX
+10,34.0,2.51,1.0,Lyft,Lux Black XL
+8,15.0,2.38,1.0,Uber,UberXL
+9,9.0,1.97,1.0,Uber,WAV
+23,19.5,2.95,1.0,Lyft,Lux
+4,19.5,3.23,1.0,Lyft,Lyft XL
+14,9.5,2.48,1.0,Uber,WAV
+0,11.0,1.0,1.0,Lyft,Lyft XL
+20,11.0,3.22,1.0,Uber,UberPool
+7,30.0,2.37,1.0,Lyft,Lux Black XL
+6,8.5,0.55,1.0,Uber,UberX
+13,17.5,2.53,1.0,Uber,UberXL
+17,7.0,1.0,1.0,Lyft,Lyft
+11,9.5,2.91,1.0,Uber,WAV
+7,30.5,4.55,1.0,Uber,Black
+0,7.0,1.06,1.0,Uber,WAV
+22,22.5,3.18,1.25,Lyft,Lux
+3,11.0,3.07,1.0,Lyft,Lyft
+8,16.0,1.03,1.0,Uber,Black
+20,7.0,0.72,1.0,Uber,WAV
+2,11.0,2.89,1.0,Lyft,Lyft
+1,20.5,1.74,1.0,Uber,Black
+14,16.5,2.09,1.0,Lyft,Lux
+0,7.0,1.44,1.0,Lyft,Shared
+12,7.0,1.51,1.0,Lyft,Shared
+4,23.0,2.84,1.0,Uber,Black
+8,8.5,2.48,1.0,Uber,UberX
+22,12.0,1.34,1.0,Uber,UberXL
+14,9.5,1.35,1.0,Uber,UberX
+1,9.0,4.12,1.0,Uber,UberPool
+14,9.0,2.33,1.0,Lyft,Lyft
+11,19.5,3.14,1.0,Lyft,Lux
+3,7.0,2.31,1.0,Lyft,Shared
+1,11.0,3.05,1.0,Uber,UberX
+6,26.0,0.44,1.0,Lyft,Lux Black XL
+2,13.5,1.45,1.25,Lyft,Lyft XL
+9,27.5,1.02,1.0,Lyft,Lux Black XL
+7,3.0,0.44,1.0,Lyft,Shared
+0,23.0,2.32,1.0,Uber,Black
+13,25.0,3.01,1.0,Uber,Black
+3,18.0,2.84,1.0,Uber,WAV
+18,16.5,1.52,1.0,Lyft,Lux
+0,9.0,2.14,1.0,Uber,UberX
+19,8.5,0.62,1.0,Uber,UberX
+13,15.5,3.24,1.0,Uber,UberPool
+5,13.5,1.7,1.0,Lyft,Lyft XL
+6,22.5,4.42,1.0,Uber,UberXL
+3,32.0,2.45,1.0,Uber,Black SUV
+4,25.0,2.67,1.0,Uber,UberXL
+19,8.5,1.81,1.0,Uber,UberX
+9,8.5,1.36,1.0,Uber,UberX
+0,13.5,1.71,1.0,Lyft,Lyft XL
+22,9.5,2.5,1.0,Uber,UberX
+0,9.0,0.6,1.0,Lyft,Lyft XL
+8,7.5,0.82,1.0,Uber,UberPool
+6,5.0,1.14,1.0,Lyft,Shared
+9,23.0,2.51,1.0,Uber,Black
+21,20.5,2.79,1.0,Uber,Black
+11,10.5,5.42,1.0,Lyft,Shared
+8,7.0,2.11,1.0,Lyft,Shared
+23,13.5,2.36,1.0,Lyft,Lyft XL
+12,11.0,2.92,1.0,Lyft,Lyft
+16,16.5,0.65,1.0,Lyft,Lux Black
+23,5.0,1.25,1.0,Lyft,Shared
+7,9.0,2.37,1.0,Lyft,Lyft
+22,7.0,1.95,1.0,Uber,UberPool
+15,30.5,2.87,1.0,Uber,Black SUV
+15,16.5,1.09,1.0,Lyft,Lux Black
+4,22.0,2.17,1.0,Uber,Black
+15,10.5,0.99,1.0,Uber,UberXL
+16,9.0,1.79,1.0,Uber,WAV
+11,23.0,2.66,1.0,Uber,Black
+16,7.0,1.22,1.0,Uber,WAV
+0,18.5,1.89,1.0,Uber,Black
+9,7.0,0.61,1.0,Uber,UberX
+17,14.5,1.08,1.0,Uber,Black
+5,17.0,1.57,1.0,Uber,Black
+15,15.0,0.91,1.0,Uber,Black
+23,20.5,3.07,1.0,Uber,UberXL
+4,13.5,1.06,1.0,Lyft,Lux
+21,9.0,2.45,1.0,Lyft,Lyft
+2,8.0,1.57,1.0,Uber,UberPool
+0,26.0,2.92,1.0,Lyft,Lux Black
+0,11.0,2.72,1.0,Uber,WAV
+10,20.5,2.72,1.0,Uber,Black
+21,7.0,1.0,1.0,Uber,UberX
+20,22.5,2.61,1.0,Lyft,Lux Black
+2,6.5,1.34,1.0,Uber,UberPool
+3,29.5,4.4,1.0,Uber,Black
+18,10.5,2.73,1.0,Lyft,Lyft
+3,19.5,3.31,1.0,Lyft,Lyft XL
+16,19.5,1.44,1.0,Uber,Black
+14,10.5,3.01,1.0,Uber,UberX
+3,22.5,1.77,1.0,Lyft,Lux Black
+15,17.5,1.86,1.0,Uber,Black
+11,10.5,1.58,1.0,Uber,UberX
+22,7.5,1.4,1.0,Uber,UberX
+10,10.5,0.72,1.0,Lyft,Lyft XL
+15,34.0,3.3,1.0,Lyft,Lux Black XL
+17,3.0,0.62,1.0,Lyft,Shared
+17,15.0,1.04,1.0,Uber,UberXL
+11,13.5,1.0,1.0,Lyft,Lux
+12,37.0,3.42,1.0,Uber,Black SUV
+0,7.0,0.87,1.0,Lyft,Lyft
+14,10.0,3.01,1.0,Uber,UberPool
+6,38.0,3.22,1.0,Lyft,Lux Black XL
+21,22.5,2.67,1.0,Uber,Black
+3,8.5,1.36,1.0,Uber,WAV
+15,12.5,4.4,1.0,Uber,UberX
+19,8.5,0.4,1.0,Uber,UberXL
+20,6.5,0.63,1.0,Uber,UberX
+0,26.5,1.56,1.0,Uber,Black SUV
+1,19.5,3.03,1.0,Lyft,Lux
+6,27.5,2.94,1.0,Lyft,Lux Black
+3,13.5,1.57,1.0,Uber,UberXL
+8,22.5,3.06,1.0,Lyft,Lux Black
+18,26.5,1.64,1.0,Uber,Black SUV
+10,22.5,4.73,1.0,Lyft,Lyft XL
+14,7.0,2.63,1.0,Lyft,Shared
+18,15.5,0.72,1.0,Uber,Black
+5,11.0,0.57,1.0,Lyft,Lux
+15,10.5,0.56,1.0,Lyft,Lyft XL
+23,13.5,1.25,1.0,Lyft,Lyft XL
+12,33.0,3.04,1.0,Uber,Black SUV
+14,12.5,1.6,1.0,Uber,UberXL
+5,5.0,0.43,1.0,Lyft,Shared
+18,19.5,2.27,1.0,Uber,Black
+9,27.5,0.54,1.0,Uber,Black SUV
+11,8.0,1.36,1.0,Uber,UberPool
+18,10.5,1.24,1.0,Lyft,Lyft XL
+9,7.0,2.47,1.0,Lyft,Shared
+2,38.5,3.39,1.0,Lyft,Lux Black XL
+10,32.0,2.66,1.0,Uber,Black SUV
+5,9.0,1.61,1.0,Uber,UberPool
+9,10.5,2.5,1.0,Uber,UberX
+8,5.0,2.65,1.0,Lyft,Shared
+23,8.5,2.45,1.0,Uber,UberPool
+13,13.0,4.65,1.0,Uber,WAV
+4,8.5,1.04,1.0,Uber,UberX
+12,10.5,1.49,1.0,Lyft,Lyft XL
+14,10.5,1.41,1.0,Uber,UberX
+2,10.5,3.44,1.0,Uber,UberX
+11,3.5,2.38,1.0,Lyft,Shared
+9,27.5,1.52,1.0,Lyft,Lux Black XL
+11,11.0,3.13,1.0,Lyft,Lyft
+21,8.0,1.58,1.0,Uber,UberX
+13,13.5,1.42,1.0,Lyft,Lyft XL
+3,11.0,2.29,1.0,Lyft,Lyft
+3,16.5,2.87,1.0,Lyft,Lyft XL
+18,29.0,2.43,1.0,Uber,Black SUV
+22,16.5,2.51,1.0,Lyft,Lyft XL
+8,30.5,3.61,1.0,Uber,UberXL
+17,16.5,3.17,1.0,Lyft,Lyft XL
+16,19.5,2.52,1.0,Uber,UberXL
+18,16.0,2.61,1.0,Uber,UberXL
+11,8.0,1.61,1.0,Uber,UberX
+17,9.5,2.46,1.0,Uber,WAV
+7,17.5,3.01,1.0,Uber,UberXL
+18,9.5,2.5,1.0,Uber,UberX
+1,8.5,2.14,1.0,Uber,UberPool
+4,9.5,3.42,1.0,Uber,UberPool
+6,32.5,2.92,1.0,Lyft,Lux Black XL
+1,16.5,3.11,1.0,Lyft,Lyft XL
+18,6.5,0.49,1.0,Uber,UberPool
+2,44.0,4.48,1.0,Uber,Black SUV
+19,19.5,2.13,1.25,Lyft,Lyft XL
+12,32.5,1.84,1.0,Lyft,Lux Black XL
+0,11.0,2.61,1.0,Uber,UberPool
+3,38.5,3.12,1.0,Lyft,Lux Black XL
+18,7.0,1.21,1.0,Uber,UberX
+14,8.5,1.97,1.0,Uber,UberX
+18,9.5,2.2,1.0,Uber,WAV
+20,15.0,0.39,1.0,Uber,Black
+4,19.0,2.12,1.0,Uber,Black
+2,7.0,1.23,1.0,Uber,UberX
+17,13.5,1.28,1.0,Lyft,Lux
+10,16.5,1.08,1.0,Lyft,Lux Black
+16,7.0,2.34,1.0,Lyft,Shared
+20,11.0,4.44,1.0,Lyft,Shared
+3,5.0,3.15,1.0,Lyft,Shared
+17,16.5,2.88,1.0,Lyft,Lyft XL
+6,17.0,2.8,1.0,Uber,UberXL
+16,22.5,3.21,1.0,Lyft,Lux
+6,19.5,2.93,1.0,Lyft,Lux
+4,18.0,1.79,1.0,Uber,Black
+13,7.0,3.14,1.0,Lyft,Shared
+17,7.0,1.48,1.0,Lyft,Lyft
+2,8.5,1.92,1.0,Uber,WAV
+1,22.5,2.32,1.0,Lyft,Lux Black
+17,13.5,1.38,1.0,Lyft,Lux
+8,17.5,2.32,1.0,Uber,UberX
+15,11.0,0.99,1.0,Uber,UberXL
+5,32.5,3.01,1.75,Lyft,Lyft XL
+16,13.5,1.41,1.0,Uber,UberXL
+2,13.0,1.25,1.0,Uber,UberXL
+0,5.5,0.39,1.0,Uber,UberPool
+4,25.0,1.8,1.0,Uber,Black SUV
+12,28.5,2.84,1.0,Uber,Black SUV
+17,55.0,2.46,2.0,Lyft,Lux Black XL
+7,26.0,1.4,1.0,Lyft,Lux Black XL
+17,16.5,1.39,1.0,Lyft,Lux Black
+19,7.5,1.61,1.0,Uber,UberPool
+11,12.5,1.41,1.0,Uber,UberXL
+12,9.5,2.66,1.0,Uber,WAV
+14,16.0,0.91,1.0,Uber,Black
+4,5.0,1.51,1.0,Lyft,Shared
+11,13.5,1.23,1.0,Lyft,Lux
+21,11.5,1.57,1.0,Uber,UberX
+14,22.5,2.35,1.0,Lyft,Lux Black
+0,3.5,2.4,1.0,Lyft,Shared
+0,9.0,1.25,1.0,Lyft,Lyft
+2,45.5,4.53,1.0,Lyft,Lux Black XL
+15,8.0,1.56,1.0,Uber,WAV
+4,7.0,1.36,1.0,Lyft,Lyft
+0,10.0,3.22,1.0,Uber,UberPool
+5,13.5,1.03,1.0,Lyft,Lux
+18,34.0,3.08,1.0,Lyft,Lux Black XL
+23,12.0,3.45,1.0,Uber,WAV
+8,11.5,3.07,1.0,Uber,WAV
+21,9.0,0.48,1.0,Lyft,Lyft XL
+2,13.5,1.09,1.0,Lyft,Lux
+10,30.0,1.73,1.0,Lyft,Lux Black XL
+6,30.0,1.35,1.0,Lyft,Lux Black XL
+11,10.0,1.68,1.0,Uber,UberPool
+2,13.5,1.49,1.0,Lyft,Lux
+14,3.0,1.73,1.0,Lyft,Shared
+17,7.0,0.76,1.0,Lyft,Lyft
+11,5.0,1.5,1.0,Lyft,Shared
+22,7.0,0.91,1.0,Uber,UberX
+8,7.0,1.12,1.0,Lyft,Lyft
+17,8.0,1.34,1.0,Uber,WAV
+1,10.5,2.87,1.0,Lyft,Lyft
+15,19.5,1.45,1.25,Lyft,Lux
+18,10.5,1.17,1.0,Lyft,Lyft XL
+2,13.0,4.48,1.0,Uber,WAV
+18,21.5,4.48,1.0,Uber,WAV
+22,7.5,0.63,1.0,Uber,UberX
+23,8.5,2.19,1.0,Uber,WAV
+16,7.0,0.55,1.0,Uber,WAV
+23,26.0,1.06,1.0,Uber,Black SUV
+21,38.5,3.39,1.0,Lyft,Lux Black XL
+23,19.5,2.46,1.0,Uber,Black
+13,34.0,3.2,1.0,Lyft,Lux Black XL
+2,8.5,1.49,1.0,Uber,UberPool
+16,38.5,2.46,1.5,Lyft,Lux Black
+23,27.5,3.06,1.0,Lyft,Lux Black
+14,22.5,3.29,1.25,Lyft,Lyft XL
+22,19.5,0.63,1.25,Lyft,Lux Black
+2,18.0,1.79,1.0,Uber,Black
+15,9.5,4.74,1.0,Uber,UberPool
+11,10.5,2.43,1.0,Uber,UberX
+22,18.5,1.6,1.0,Uber,UberXL
+7,16.0,1.34,1.0,Uber,Black
+3,7.0,1.5,1.0,Lyft,Lyft
+8,3.5,0.64,1.0,Lyft,Shared
+22,7.0,2.09,1.0,Lyft,Shared
+12,7.0,1.53,1.0,Lyft,Lyft
+5,19.5,2.1,1.0,Lyft,Lux
+17,5.0,1.15,1.0,Lyft,Shared
+9,9.0,2.66,1.0,Uber,UberPool
+14,9.0,4.46,1.0,Lyft,Shared
+11,17.0,1.35,1.0,Uber,Black
+4,9.5,2.48,1.0,Uber,UberX
+10,8.0,1.21,1.0,Uber,WAV
+12,28.0,3.53,1.0,Uber,Black
+16,7.0,0.39,1.0,Uber,UberX
+21,34.5,3.22,1.0,Uber,Black SUV
+1,15.0,0.49,1.0,Uber,Black
+18,25.0,3.41,1.0,Uber,Black
+3,28.0,2.84,1.0,Uber,Black
+17,7.5,1.51,1.0,Uber,WAV
+19,19.5,2.16,1.0,Lyft,Lux
+20,27.0,1.27,1.0,Uber,Black SUV
+16,10.0,2.8,1.0,Uber,UberPool
+4,10.5,2.61,1.0,Uber,UberX
+11,10.5,0.75,1.0,Lyft,Lux
+6,7.0,0.49,1.0,Uber,WAV
+20,7.5,1.1,1.0,Uber,UberX
+18,18.5,2.61,1.0,Uber,Black
+2,47.5,3.04,2.0,Lyft,Lux Black
+0,16.5,0.66,1.0,Lyft,Lux Black
+12,7.0,1.14,1.0,Lyft,Lyft
+18,26.0,3.97,1.0,Uber,UberX
+1,22.5,2.74,1.0,Lyft,Lux Black
+19,13.5,1.52,1.0,Lyft,Lyft XL
+20,7.0,0.49,1.0,Uber,UberX
+12,16.5,1.21,1.0,Lyft,Lux Black
+22,8.5,1.64,1.0,Uber,WAV
+9,10.5,3.26,1.0,Uber,UberX
+12,5.5,0.39,1.0,Uber,UberPool
+3,15.0,1.51,1.0,Uber,Black
+3,11.0,0.64,1.0,Lyft,Lux
+17,22.5,2.07,1.0,Lyft,Lux Black
+5,5.0,1.73,1.0,Lyft,Shared
+0,5.0,2.27,1.0,Lyft,Shared
+0,3.5,2.38,1.0,Lyft,Shared
+10,16.0,0.39,1.0,Uber,Black
+5,13.5,1.74,1.0,Lyft,Lyft XL
+4,16.5,1.1,1.0,Lyft,Lux Black
+15,30.0,2.48,1.0,Lyft,Lux Black XL
+13,9.5,1.1,1.0,Uber,UberX
+15,9.5,1.21,1.0,Uber,WAV
+9,19.5,1.54,1.0,Lyft,Lux Black
+14,19.5,3.27,1.0,Lyft,Lyft XL
+18,13.5,1.3,1.0,Lyft,Lyft XL
+2,27.5,5.08,1.0,Lyft,Lyft XL
+1,16.5,2.0,1.0,Lyft,Lux
+13,16.5,3.07,1.0,Lyft,Lyft XL
+5,27.5,3.34,1.0,Lyft,Lux Black
+18,19.5,3.14,1.0,Lyft,Lyft XL
+21,7.0,1.91,1.0,Lyft,Shared
+17,7.0,0.39,1.0,Uber,UberX
+20,5.0,1.27,1.0,Lyft,Shared
+5,26.0,1.56,1.0,Uber,Black SUV
+3,9.0,2.12,1.0,Uber,UberPool
+4,10.5,5.14,1.0,Lyft,Shared
+0,10.5,1.37,1.75,Lyft,Lyft
+6,26.0,1.22,1.0,Uber,Black SUV
+19,35.0,2.72,1.0,Uber,Black SUV
+12,16.5,1.97,1.0,Lyft,Lux
+21,9.5,2.62,1.0,Uber,UberX
+13,13.0,1.35,1.0,Uber,UberXL
+4,22.5,2.4,1.0,Lyft,Lux Black
+4,16.5,2.96,1.0,Lyft,Lyft XL
+14,27.5,0.97,1.0,Lyft,Lux Black XL
+5,11.5,3.08,1.0,Uber,WAV
+6,28.5,2.66,1.0,Uber,Black SUV
+22,9.5,1.8,1.0,Uber,UberX
+3,13.5,1.22,1.0,Lyft,Lux
+2,45.0,7.46,1.0,Uber,Black SUV
+23,11.5,2.85,1.0,Uber,UberX
+10,38.5,3.48,1.0,Lyft,Lux Black XL
+23,16.0,0.91,1.0,Uber,Black
+6,19.5,3.51,1.0,Lyft,Lux
+7,7.0,2.49,1.0,Lyft,Shared
+11,16.5,1.19,1.0,Lyft,Lux Black
+6,31.5,2.2,1.0,Uber,Black SUV
+2,42.5,3.0,1.25,Lyft,Lux Black XL
+1,16.5,2.3,1.0,Lyft,Lyft XL
+13,26.0,1.48,1.0,Lyft,Lux Black XL
+19,26.0,1.12,1.0,Uber,Black SUV
+19,7.5,0.62,1.0,Uber,UberPool
+12,9.0,2.33,1.0,Uber,UberPool
+22,16.5,2.47,1.0,Lyft,Lux
+23,8.0,2.19,1.0,Uber,UberPool
+9,7.0,2.04,1.0,Lyft,Shared
+17,13.5,2.41,1.0,Lyft,Lyft XL
+1,12.5,1.56,1.0,Uber,UberXL
+21,33.0,2.79,1.0,Uber,Black SUV
+1,16.5,0.5,1.0,Lyft,Lux Black
+8,34.0,3.06,1.0,Lyft,Lux Black XL
+1,27.5,1.25,1.0,Lyft,Lux Black XL
+16,8.5,1.71,1.0,Uber,UberX
+23,16.5,0.58,1.0,Lyft,Lux Black
+22,16.5,1.73,1.0,Lyft,Lux
+10,9.0,0.39,1.0,Lyft,Lyft XL
+20,7.0,3.15,1.0,Lyft,Shared
+5,15.0,3.07,1.0,Uber,WAV
+4,7.0,1.48,1.0,Lyft,Lyft
+6,17.0,1.68,1.0,Uber,Black
+13,28.5,2.29,1.0,Uber,Black SUV
+5,37.5,3.61,1.0,Uber,Black SUV
+1,7.0,2.38,1.0,Lyft,Shared
+21,13.0,1.35,1.0,Uber,UberXL
+18,5.0,2.97,1.0,Lyft,Shared
+5,9.0,1.35,1.0,Uber,WAV
+15,16.0,6.97,1.0,Uber,UberX
+9,7.0,1.51,1.0,Lyft,Shared
+3,26.0,1.79,1.0,Uber,Black
+4,8.5,2.86,1.0,Uber,UberPool
+1,12.0,3.01,1.0,Uber,UberX
+19,11.5,4.55,1.0,Uber,UberX
+0,25.0,2.45,1.0,Uber,Black
+17,7.0,2.57,1.0,Lyft,Shared
+14,9.5,3.04,1.0,Uber,UberPool
+8,9.0,2.71,1.0,Uber,UberPool
+6,11.5,2.27,1.0,Uber,WAV
+5,7.0,0.46,1.0,Lyft,Lyft
+7,10.5,2.66,1.0,Uber,UberX
+22,33.5,2.73,1.0,Uber,Black SUV
+16,12.0,1.61,1.0,Uber,UberXL
+19,7.0,3.23,1.0,Lyft,Shared
+14,45.5,2.81,1.25,Lyft,Lux Black XL
+22,14.0,4.72,1.0,Uber,UberX
+15,6.5,0.39,1.0,Uber,UberPool
+15,11.0,3.08,1.0,Uber,UberX
+0,19.5,2.67,1.0,Lyft,Lux
+19,27.5,1.25,1.0,Uber,Black SUV
+6,21.5,3.17,1.0,Uber,Black
+18,10.5,3.2,1.0,Uber,UberX
+19,5.0,1.08,1.0,Lyft,Shared
+18,12.5,1.36,1.0,Uber,UberXL
+23,7.5,0.68,1.0,Uber,WAV
+22,34.0,2.91,1.0,Lyft,Lux Black XL
+6,19.5,3.45,1.0,Lyft,Lyft XL
+10,9.5,2.62,1.0,Uber,WAV
+23,11.0,1.08,1.0,Lyft,Lyft XL
+12,12.0,4.48,1.0,Uber,WAV
+0,8.0,1.0,1.0,Uber,UberPool
+11,10.5,2.63,1.0,Uber,WAV
+12,27.5,0.98,1.0,Uber,Black SUV
+9,29.5,2.33,1.0,Uber,Black SUV
+23,10.5,2.81,1.0,Lyft,Lyft
+5,11.0,2.95,1.0,Lyft,Lyft
+1,22.5,2.84,1.0,Lyft,Lux Black
+20,12.0,1.11,1.0,Uber,UberXL
+0,5.0,0.63,1.0,Lyft,Shared
+17,22.5,2.83,1.0,Lyft,Lux
+1,16.0,0.92,1.0,Uber,Black
+2,7.5,1.5,1.0,Uber,UberPool
+14,32.5,2.69,1.0,Lyft,Lux Black XL
+10,22.5,3.36,1.0,Lyft,Lux
+1,30.0,2.41,1.0,Lyft,Lux Black XL
+16,7.5,1.16,1.0,Uber,UberX
+1,23.0,2.98,1.0,Uber,Black
+23,30.0,2.33,1.75,Lyft,Lux
+23,19.5,1.45,1.0,Lyft,Lux Black
+0,34.0,5.37,1.0,Lyft,Lux Black
+14,10.5,1.8,1.0,Uber,WAV
+21,15.0,1.08,1.0,Uber,Black
+10,12.0,2.32,1.0,Uber,WAV
+9,27.5,0.55,1.0,Uber,Black SUV
+17,16.5,2.12,1.0,Lyft,Lux
+20,16.5,2.38,1.0,Lyft,Lyft XL
+11,18.5,3.37,1.0,Uber,UberXL
+18,16.5,1.75,1.0,Lyft,Lyft XL
+17,22.5,4.58,1.0,Lyft,Lyft XL
+18,9.0,3.22,1.0,Lyft,Shared
+9,11.0,0.42,1.0,Lyft,Lux
+22,7.0,0.63,1.0,Uber,UberX
+1,26.0,3.15,1.0,Lyft,Lux Black
+0,23.0,2.79,1.0,Uber,Black
+19,27.5,1.84,1.0,Lyft,Lux Black XL
+23,7.0,2.47,1.0,Lyft,Shared
+10,15.5,0.99,1.0,Uber,Black
+14,16.5,2.45,1.0,Uber,UberXL
+19,12.0,1.03,1.0,Uber,UberXL
+16,11.0,0.68,1.0,Lyft,Lux
+12,13.0,1.41,1.0,Uber,UberXL
+9,12.0,1.41,1.0,Uber,UberPool
+7,24.0,3.39,1.0,Uber,Black
+12,7.0,2.14,1.0,Uber,WAV
+18,6.5,0.56,1.0,Uber,UberPool
+18,21.0,2.46,1.0,Uber,Black
+7,32.5,2.68,1.0,Lyft,Lux Black XL
+12,14.0,2.14,1.0,Uber,UberXL
+6,9.0,2.38,1.0,Lyft,Lyft
+0,7.0,1.03,1.0,Uber,WAV
+16,13.5,2.44,1.0,Lyft,Lyft XL
+16,16.5,0.73,1.0,Lyft,Lux Black
+22,16.5,2.82,1.0,Lyft,Lyft XL
+6,22.5,3.9,1.0,Lyft,Lyft XL
+20,15.5,2.27,1.0,Uber,UberXL
+6,11.0,1.41,1.0,Uber,UberPool
+16,38.0,3.08,1.0,Lyft,Lux Black XL
+14,26.0,0.63,1.0,Lyft,Lux Black XL
+11,10.5,2.43,1.0,Lyft,Lyft
+22,45.5,2.44,1.25,Lyft,Lux Black XL
+23,16.0,2.66,1.0,Uber,UberXL
+16,25.0,1.64,1.0,Uber,Black SUV
+3,5.0,1.74,1.0,Lyft,Shared
+2,27.0,0.92,1.0,Uber,Black SUV
+20,10.5,3.47,1.0,Lyft,Shared
+20,22.5,2.85,1.0,Lyft,Lux Black
+23,16.0,0.61,1.0,Uber,Black
+21,31.5,4.48,1.0,Uber,Black
+9,7.0,1.38,1.0,Lyft,Lyft
+3,19.5,1.05,1.5,Lyft,Lux
+15,10.5,1.8,1.0,Uber,WAV
+23,9.5,2.67,1.0,Uber,WAV
+4,7.0,1.83,1.0,Lyft,Shared
+20,22.0,4.73,1.0,Uber,UberXL
+3,10.0,3.01,1.0,Uber,UberPool
+22,8.5,2.86,1.0,Uber,WAV
+13,38.0,3.25,1.0,Lyft,Lux Black XL
+3,10.5,1.61,1.0,Uber,WAV
+17,7.5,3.04,1.0,Uber,UberPool
+15,26.0,3.1,1.0,Lyft,Lux Black
+16,11.0,1.46,1.0,Lyft,Lyft XL
+23,7.0,0.55,1.0,Lyft,Lyft
+16,19.0,1.3,1.0,Uber,Black
+8,9.0,0.43,1.0,Lyft,Lyft XL
+16,7.5,1.07,1.0,Uber,UberPool
+10,7.0,0.58,1.0,Lyft,Lyft
+8,29.5,2.04,1.0,Uber,Black SUV
+4,16.0,0.92,1.0,Uber,Black
+21,30.0,1.39,1.75,Lyft,Lux Black
+11,34.0,3.15,1.0,Lyft,Lux Black XL
+18,26.0,3.42,1.0,Lyft,Lux
+13,21.5,2.56,1.0,Uber,Black
+3,27.5,0.74,1.0,Lyft,Lux Black XL
+5,9.0,1.74,1.0,Lyft,Lyft
+9,26.0,3.08,1.0,Lyft,Lux Black
+21,9.5,1.61,1.0,Uber,WAV
+8,10.5,2.48,1.0,Uber,WAV
+16,9.0,1.35,1.0,Uber,UberPool
+5,8.0,2.84,1.0,Uber,UberPool
+0,16.5,2.43,1.0,Lyft,Lyft XL
+17,32.5,3.39,1.0,Uber,Black SUV
+1,30.5,3.54,1.0,Uber,Black
+12,3.0,0.99,1.0,Lyft,Shared
+1,16.5,2.72,1.0,Lyft,Lyft XL
+12,22.5,4.72,1.0,Uber,UberXL
+19,9.0,1.95,1.0,Lyft,Lyft
+12,10.5,2.98,1.0,Uber,WAV
+6,22.5,3.05,1.0,Uber,Black
+20,16.5,3.27,1.0,Lyft,Lyft XL
+4,21.5,2.27,1.0,Uber,Black
+1,32.5,4.21,1.0,Lyft,Lux Black
+0,16.5,0.46,1.0,Lyft,Lux Black
+10,12.0,1.57,1.0,Uber,UberXL
+9,16.5,1.26,1.25,Lyft,Lux
+8,30.0,1.46,1.75,Lyft,Lux Black
+17,13.5,1.05,1.25,Lyft,Lyft XL
+11,27.0,0.61,1.0,Uber,Black SUV
+0,38.5,3.05,1.0,Lyft,Lux Black XL
+17,7.0,0.68,1.0,Uber,WAV
+4,26.0,3.3,1.0,Uber,Black
+19,34.0,3.23,1.0,Uber,Black SUV
+6,3.5,0.58,1.0,Lyft,Shared
+13,15.0,0.8,1.0,Uber,Black
+10,11.0,4.44,1.0,Lyft,Lyft
+13,19.5,1.54,1.0,Lyft,Lux Black
+6,12.0,3.3,1.0,Uber,WAV
+9,9.5,2.73,1.0,Uber,UberPool
+23,16.5,1.44,1.0,Lyft,Lux Black
+10,11.5,3.04,1.0,Uber,UberX
+22,9.5,2.62,1.0,Uber,UberX
+13,5.0,1.75,1.0,Lyft,Shared
+6,9.5,0.39,1.0,Uber,UberXL
+9,12.0,1.08,1.0,Uber,UberXL
+1,10.5,2.79,1.0,Uber,WAV
+7,9.0,2.46,1.0,Uber,UberPool
+1,25.0,2.62,1.0,Uber,Black
+23,7.5,1.56,1.0,Uber,UberPool
+18,16.5,1.11,1.0,Lyft,Lux Black
+1,3.0,0.68,1.0,Lyft,Shared
+3,8.5,1.79,1.0,Uber,WAV
+20,11.0,0.63,1.0,Lyft,Lux
+21,32.5,2.66,1.0,Uber,Black SUV
+8,5.0,0.99,1.0,Lyft,Shared
+6,11.0,3.01,1.0,Uber,UberX
+8,16.5,1.49,1.25,Lyft,Lux
+7,8.0,1.35,1.0,Uber,WAV
+21,11.0,1.41,1.0,Uber,UberPool
+18,26.0,3.14,1.0,Lyft,Lux Black
+0,27.5,1.03,1.0,Uber,Black SUV
+16,13.5,1.01,1.0,Lyft,Lux
+5,22.5,2.69,1.0,Lyft,Lux
+19,22.5,2.3,1.0,Lyft,Lux Black
+20,5.0,1.28,1.0,Lyft,Shared
+22,38.0,4.96,1.75,Lyft,Lyft XL
+11,18.0,2.68,1.0,Uber,UberXL
+14,13.5,1.24,1.0,Lyft,Lux
+21,9.0,1.72,1.0,Lyft,Lyft
+22,24.0,1.92,1.0,Uber,Black SUV
+21,16.5,2.84,1.0,Uber,UberXL
+15,10.5,2.79,1.0,Uber,WAV
+12,7.0,0.65,1.0,Lyft,Lyft
+6,19.5,2.32,1.0,Lyft,Lux
+1,16.5,0.55,1.0,Lyft,Lux Black
+0,38.5,3.4,1.0,Lyft,Lux Black XL
+15,7.0,2.68,1.0,Lyft,Shared
+7,28.0,2.62,1.0,Uber,Black SUV
+18,27.0,1.51,1.0,Uber,Black SUV
+9,16.0,2.34,1.0,Uber,UberXL
+7,16.5,3.45,1.0,Lyft,Lyft XL
+13,17.0,1.91,1.0,Uber,UberXL
+21,7.0,2.95,1.0,Lyft,Shared
+14,10.5,3.04,1.0,Lyft,Lyft
+15,11.0,3.08,1.0,Uber,WAV
+16,7.5,1.25,1.0,Uber,UberPool
+17,7.0,2.11,1.0,Lyft,Shared
+18,27.0,3.07,1.0,Uber,Black
+16,26.0,1.5,1.0,Uber,Black SUV
+23,13.5,1.4,1.0,Lyft,Lux
+12,7.0,1.26,1.0,Lyft,Lyft
+13,7.0,3.31,1.0,Lyft,Shared
+0,13.5,1.24,1.0,Lyft,Lux
+21,19.5,2.98,1.0,Uber,UberXL
+16,7.0,0.49,1.0,Uber,UberX
+4,12.5,4.44,1.0,Uber,UberX
+3,9.5,2.27,1.0,Uber,UberX
+14,19.5,1.96,1.0,Lyft,Lux
+0,27.5,3.31,1.0,Lyft,Lux Black
+14,15.0,2.61,1.0,Uber,UberXL
+15,19.5,2.82,1.0,Lyft,Lux
+23,7.0,2.94,1.0,Lyft,Shared
+6,22.5,3.31,1.0,Lyft,Lux
+4,16.5,2.4,1.0,Lyft,Lux
+2,23.0,2.86,1.0,Uber,Black
+16,9.0,0.71,1.0,Lyft,Lyft XL
+6,13.5,1.38,1.0,Lyft,Lux
+15,8.0,2.72,1.0,Uber,UberPool
+16,7.0,3.25,1.0,Lyft,Shared
+12,22.5,3.01,1.0,Lyft,Lux
+0,8.0,1.08,1.0,Uber,WAV
+7,9.0,1.23,1.0,Uber,UberX
+23,7.0,0.49,1.0,Uber,WAV
+17,11.5,2.46,1.0,Uber,WAV
+23,9.5,0.63,1.0,Uber,UberXL
+18,7.0,4.13,1.0,Lyft,Shared
+20,16.5,0.67,1.0,Lyft,Lux Black
+9,34.0,4.75,1.0,Lyft,Lux Black
+12,7.0,0.85,1.0,Uber,WAV
+0,26.5,2.7,1.0,Uber,Black
+0,17.0,2.86,1.0,Uber,UberXL
+18,8.0,1.5,1.0,Uber,WAV
+4,13.5,1.39,1.0,Lyft,Lyft XL
+15,17.0,1.04,1.0,Uber,Black
+1,3.0,2.82,1.0,Lyft,Shared
+3,9.5,2.98,1.0,Uber,UberX
+14,16.5,2.65,1.0,Uber,UberXL
+3,22.5,2.29,1.0,Uber,Black
+3,8.0,1.3,1.0,Uber,UberX
+2,19.5,3.14,1.0,Lyft,Lux
+17,19.5,3.24,1.0,Lyft,Lux
+2,22.5,3.06,1.0,Lyft,Lux
+11,22.5,2.14,1.0,Lyft,Lux Black
+9,19.5,2.6,1.0,Lyft,Lux
+4,13.5,4.54,1.0,Lyft,Lyft
+6,13.5,1.18,1.0,Lyft,Lyft XL
+23,18.0,3.3,1.0,Uber,UberXL
+3,20.5,2.48,1.0,Uber,Black
+11,11.0,0.59,1.0,Lyft,Lyft XL
+9,7.0,3.03,1.0,Lyft,Shared
+12,7.0,1.27,1.0,Lyft,Lyft
+16,30.5,2.7,1.0,Uber,Black SUV
+16,9.5,1.41,1.0,Uber,UberX
+3,11.0,1.08,1.0,Lyft,Lyft XL
+11,26.0,2.67,1.0,Lyft,Lux Black
+23,7.0,1.21,1.0,Uber,WAV
+13,9.0,1.71,1.0,Lyft,Lyft
+13,19.5,1.75,1.0,Lyft,Lux Black
+23,9.0,2.08,1.0,Lyft,Lyft
+9,27.5,5.7,1.0,Uber,UberXL
+2,11.0,0.44,1.0,Lyft,Lux
+13,7.5,1.35,1.0,Uber,UberX
+9,14.0,4.74,1.0,Uber,UberX
+8,25.0,3.05,1.0,Uber,Black
+22,13.0,4.72,1.0,Uber,UberX
+12,22.5,3.03,1.0,Lyft,Lux Black
+16,8.5,1.41,1.0,Uber,UberPool
+23,26.0,2.32,1.0,Lyft,Lux Black
+11,10.5,1.03,1.0,Lyft,Lux
+19,11.0,2.42,1.0,Lyft,Lyft
+12,9.5,2.8,1.0,Uber,UberX
+8,7.0,0.62,1.0,Lyft,Lyft
+7,28.5,1.46,1.0,Uber,Black SUV
+23,16.5,2.45,1.0,Lyft,Lyft XL
+14,7.0,1.0,1.0,Lyft,Lyft
+4,6.5,1.08,1.0,Uber,UberX
+20,7.0,1.25,1.0,Lyft,Lyft
+13,10.5,1.56,1.0,Uber,UberX
+11,11.0,2.3,1.0,Lyft,Lyft
+2,10.5,3.07,1.0,Uber,WAV
+0,38.0,2.92,1.0,Lyft,Lux Black XL
+12,19.5,4.12,1.0,Lyft,Lyft XL
+6,13.5,5.41,1.0,Lyft,Lyft
+12,22.5,1.83,1.0,Lyft,Lux Black
+2,7.0,0.49,1.0,Uber,WAV
+11,26.5,1.34,1.0,Uber,Black SUV
+18,10.5,2.11,1.0,Lyft,Lyft
+0,29.5,2.74,1.0,Uber,Black SUV
+14,8.5,1.5,1.0,Uber,UberX
+19,23.0,3.05,1.0,Uber,Black
+10,19.5,3.07,1.0,Lyft,Lux
+22,9.5,1.35,1.0,Uber,UberX
+6,27.5,1.45,1.0,Lyft,Lux Black XL
+23,5.0,1.75,1.0,Lyft,Shared
+23,7.5,2.14,1.0,Uber,WAV
+13,19.0,2.48,1.0,Uber,Black
+1,23.0,3.15,1.0,Uber,UberXL
+1,29.5,2.74,1.0,Uber,Black SUV
+22,7.0,1.24,1.0,Lyft,Lyft
+9,3.5,0.59,1.0,Lyft,Shared
+7,11.5,1.25,1.0,Uber,UberXL
+16,9.5,0.63,1.0,Uber,UberXL
+15,11.5,2.73,1.0,Uber,UberX
+19,19.5,2.44,1.0,Lyft,Lux
+6,11.0,1.07,1.0,Lyft,Lyft XL
+12,16.5,1.43,1.0,Lyft,Lux Black
+18,19.5,2.7,1.0,Lyft,Lux
+9,15.0,1.8,1.0,Uber,UberXL
+19,11.5,1.16,1.0,Uber,UberXL
+16,19.5,1.74,1.0,Lyft,Lux Black
+13,16.5,0.89,1.0,Lyft,Lux Black
+22,26.0,1.17,1.0,Lyft,Lux Black XL
+12,10.5,3.04,1.0,Uber,WAV
+14,19.5,2.89,1.0,Lyft,Lux
+0,11.0,3.0,1.0,Lyft,Lyft
+23,15.0,1.57,1.0,Uber,UberXL
+15,26.5,1.04,1.0,Uber,Black SUV
+5,28.0,4.48,1.0,Uber,Black
+13,13.5,2.16,1.0,Lyft,Lyft XL
+16,9.0,1.72,1.0,Lyft,Lyft
+20,10.5,2.8,1.0,Uber,WAV
+0,13.5,1.51,1.0,Lyft,Lyft XL
+12,34.0,3.07,1.0,Lyft,Lux Black XL
+4,16.0,2.98,1.0,Uber,UberXL
+14,16.5,0.59,1.0,Lyft,Lux Black
+10,9.0,1.94,1.0,Lyft,Lyft
+18,13.5,2.01,1.0,Lyft,Lyft XL
+21,30.0,1.72,1.0,Lyft,Lux Black XL
+19,22.5,2.73,1.0,Lyft,Lux Black
+11,30.0,2.35,1.0,Lyft,Lux Black XL
+16,26.0,0.8,1.0,Uber,Black SUV
+20,13.5,4.59,1.0,Lyft,Lyft
+13,11.5,3.05,1.0,Uber,UberX
+21,9.5,2.27,1.0,Uber,UberPool
+18,22.5,3.21,2.0,Lyft,Lyft
+2,25.0,1.56,1.0,Uber,Black SUV
+5,7.0,1.27,1.0,Lyft,Lyft
+5,7.0,1.48,1.0,Lyft,Lyft
+12,32.5,4.54,1.0,Lyft,Lux Black
+1,8.0,1.56,1.0,Uber,WAV
+13,7.0,0.59,1.0,Lyft,Lyft
+12,10.5,3.01,1.0,Uber,UberX
+14,16.5,1.01,1.0,Lyft,Lux Black
+4,18.0,3.05,1.0,Uber,UberXL
+15,13.5,1.65,1.0,Lyft,Lyft XL
+15,9.0,1.71,1.0,Lyft,Lyft
+8,14.0,2.5,1.0,Uber,UberXL
+6,9.0,1.07,1.0,Lyft,Lyft
+17,10.5,1.02,1.0,Lyft,Lyft XL
+16,32.5,3.45,1.0,Uber,Black SUV
+10,10.5,2.86,1.0,Lyft,Shared
+21,3.0,1.94,1.0,Lyft,Shared
+20,9.5,1.08,1.0,Uber,UberX
+16,10.5,3.45,1.0,Uber,UberX
+15,8.0,3.04,1.0,Uber,UberPool
+11,16.5,1.72,1.0,Lyft,Lux
+17,38.5,2.99,1.25,Lyft,Lux Black
+17,9.5,3.05,1.0,Uber,UberPool
+19,14.0,3.96,1.0,Uber,UberX
+1,7.5,1.3,1.0,Uber,WAV
+15,18.0,2.17,1.0,Uber,Black
+13,9.5,3.3,1.0,Uber,UberX
+14,22.5,3.01,1.0,Uber,Black
+16,19.5,3.26,1.0,Lyft,Lyft XL
+10,42.5,4.15,1.0,Lyft,Lux Black XL
+4,10.5,1.39,1.0,Lyft,Lyft XL
+2,19.5,1.46,1.0,Uber,Black
+0,22.0,2.56,1.0,Uber,Black
+12,7.0,1.22,1.0,Uber,UberX
+9,21.0,1.82,1.0,Uber,Black
+0,42.5,5.24,1.0,Lyft,Lux Black XL
+23,8.0,0.72,1.0,Uber,UberX
+18,29.5,3.05,1.0,Uber,Black SUV
+2,11.0,4.55,1.0,Uber,UberPool
+18,13.5,5.24,1.0,Lyft,Lyft
+1,27.5,2.22,1.0,Lyft,Lux Black XL
+14,13.5,1.21,1.0,Lyft,Lux
+21,22.5,5.22,1.0,Lyft,Lyft XL
+19,9.0,0.63,1.5,Lyft,Lyft
+23,9.5,2.32,1.0,Uber,WAV
+4,8.0,1.56,1.0,Uber,WAV
+1,36.0,3.39,1.0,Uber,Black SUV
+16,41.5,4.55,1.0,Uber,Black SUV
+22,27.0,1.35,1.0,Uber,Black SUV
+14,16.5,2.87,1.0,Lyft,Lyft XL
+14,16.0,2.8,1.0,Uber,UberXL
+10,33.0,3.04,1.0,Uber,Black SUV
+23,17.0,1.34,1.0,Uber,Black
+1,19.5,3.17,1.0,Lyft,Lyft XL
+4,34.0,3.14,1.0,Lyft,Lux Black XL
+8,7.0,1.05,1.0,Lyft,Lyft
+12,9.5,3.53,1.0,Uber,UberPool
+15,27.5,2.86,1.0,Lyft,Lux Black
+10,7.0,0.54,1.0,Uber,WAV
+18,8.5,1.61,1.0,Uber,UberPool
+16,16.5,1.0,1.0,Lyft,Lux Black
+6,29.5,4.57,1.0,Uber,Black
+18,27.5,4.4,1.0,Lyft,Lyft XL
+2,16.5,1.55,1.5,Lyft,Lyft XL
+11,10.5,2.69,1.0,Lyft,Lyft
+11,25.0,2.81,1.0,Uber,Black
+23,19.5,1.25,1.25,Lyft,Lux Black
+16,32.0,2.98,1.0,Uber,Black SUV
+23,9.5,4.55,1.0,Uber,UberPool
+9,22.5,2.32,1.0,Uber,Black
+21,20.5,1.97,1.0,Uber,Black
+18,10.5,2.45,1.0,Lyft,Lyft
+5,8.5,1.64,1.0,Uber,WAV
+5,26.0,2.27,1.0,Lyft,Lux Black
+12,16.0,2.56,1.0,Uber,UberXL
+2,9.0,2.41,1.0,Lyft,Lyft
+15,9.0,2.66,1.0,Uber,UberPool
+19,7.0,1.91,1.0,Uber,UberPool
+19,22.5,1.76,1.0,Lyft,Lux Black
+22,13.5,0.85,1.0,Lyft,Lux
+8,28.0,2.14,1.0,Uber,Black SUV
+12,32.0,2.34,1.0,Uber,Black SUV
+21,9.0,1.85,1.0,Lyft,Shared
+18,11.5,0.92,1.0,Uber,UberXL
+9,9.5,2.27,1.0,Uber,UberX
+21,17.0,2.87,1.0,Uber,UberXL
+5,16.5,1.53,1.0,Lyft,Lux Black
+0,10.5,0.62,1.0,Lyft,Lux
+22,27.5,1.03,1.0,Lyft,Lux Black XL
+14,27.0,1.36,1.0,Uber,Black SUV
+15,7.0,1.25,1.0,Lyft,Lyft
+0,7.5,1.34,1.0,Uber,UberPool
+21,8.5,0.91,1.0,Uber,UberPool
+2,6.5,1.5,1.0,Uber,UberPool
+14,10.0,2.04,1.0,Uber,UberPool
+4,12.5,1.46,1.0,Uber,UberXL
+9,26.0,1.07,1.0,Lyft,Lux Black XL
+6,5.0,3.44,1.0,Lyft,Shared
+11,9.5,2.66,1.0,Uber,WAV
+20,27.0,5.7,1.0,Uber,UberXL
+3,27.5,3.97,1.0,Lyft,Lux
+6,7.0,2.48,1.0,Lyft,Shared
+20,11.5,1.21,1.0,Uber,UberXL
+19,16.5,0.77,1.0,Lyft,Lux Black
+18,13.5,1.46,1.0,Lyft,Lyft XL
+3,15.0,0.62,1.0,Uber,Black
+17,22.5,3.22,1.0,Lyft,Lux
+15,15.0,1.04,1.0,Uber,Black
+13,17.0,2.67,1.0,Uber,UberXL
+2,7.0,0.62,1.0,Lyft,Shared
+9,29.5,1.9,1.0,Uber,Black SUV
+2,14.0,1.5,1.0,Uber,UberXL
+5,19.5,1.73,1.0,Lyft,Lux Black
+16,28.5,1.8,1.0,Uber,Black SUV
+0,27.5,1.47,1.0,Lyft,Lux Black XL
+2,19.5,3.1,1.0,Lyft,Lyft XL
+13,12.5,2.86,1.0,Uber,WAV
+19,6.5,1.56,1.0,Uber,UberPool
+19,17.5,1.4,1.0,Uber,Black
+10,12.0,4.44,1.0,Uber,UberPool
+6,3.0,0.74,1.0,Lyft,Shared
+21,10.5,0.72,1.0,Uber,UberXL
+22,13.5,2.29,1.0,Uber,UberXL
+15,10.5,3.01,1.0,Uber,WAV
+22,4.5,0.63,1.0,Uber,UberPool
+18,16.5,0.5,1.0,Lyft,Lux Black
+5,28.5,2.2,1.0,Uber,Black SUV
+0,7.5,2.62,1.0,Uber,UberPool
+21,34.0,2.81,1.0,Lyft,Lux Black XL
+8,34.0,3.39,1.0,Uber,Black SUV
+0,6.5,0.61,1.0,Uber,UberPool
+14,10.5,2.67,1.0,Uber,UberX
+1,19.5,3.22,1.0,Uber,UberXL
+21,12.0,1.22,1.0,Uber,UberXL
+20,26.0,1.27,1.0,Lyft,Lux Black XL
+3,5.0,4.32,1.0,Lyft,Shared
+7,21.5,3.04,1.0,Uber,Black
+2,10.5,0.62,1.0,Uber,UberXL
+18,27.5,1.36,1.0,Uber,Black SUV
+13,16.5,2.4,1.25,Lyft,Lyft XL
+15,9.5,1.16,1.0,Uber,WAV
+18,15.0,1.21,1.0,Uber,Black
+9,22.5,1.44,1.25,Lyft,Lux Black
+16,29.5,2.48,1.0,Uber,Black SUV
+14,7.5,1.35,1.0,Uber,UberX
+4,27.5,0.57,1.0,Lyft,Lux Black XL
+17,3.5,1.0,1.0,Lyft,Shared
+10,3.0,1.89,1.0,Lyft,Shared
+13,16.5,2.39,1.0,Lyft,Lyft XL
+20,10.5,2.27,1.0,Lyft,Lyft
+12,45.5,5.36,1.0,Lyft,Lux Black XL
+2,10.5,2.32,1.0,Uber,UberX
+5,19.5,1.57,1.0,Uber,Black
+23,9.0,2.98,1.0,Lyft,Shared
+2,16.0,0.56,1.0,Uber,Black
+0,7.0,1.04,1.0,Lyft,Lyft
+14,22.5,5.27,1.0,Lyft,Lyft XL
+23,8.5,1.0,1.0,Uber,UberX
+23,11.5,0.72,1.0,Uber,UberXL
+10,16.5,1.57,1.0,Lyft,Lux Black
+19,7.0,0.69,1.0,Lyft,Lyft
+16,20.5,2.5,1.0,Uber,Black
+18,7.0,0.67,1.0,Uber,WAV
+22,5.0,1.15,1.0,Lyft,Shared
+20,8.5,0.91,1.0,Uber,UberX
+22,19.5,2.17,1.0,Uber,Black
+11,16.5,1.08,1.0,Lyft,Lux Black
+10,13.5,2.44,1.0,Lyft,Lyft XL
+18,14.0,2.29,1.0,Uber,UberXL
+16,27.5,3.47,1.0,Lyft,Lux Black
+4,10.5,3.03,1.0,Lyft,Lyft
+16,7.0,0.63,1.0,Uber,WAV
+6,19.5,3.19,1.0,Lyft,Lyft XL
+22,27.0,1.28,1.0,Uber,Black SUV
+7,21.5,2.79,1.0,Uber,Black
+13,26.0,1.01,1.0,Lyft,Lux Black XL
+3,28.5,1.44,1.0,Uber,Black SUV
+1,16.0,0.63,1.0,Uber,Black
+20,32.5,2.41,1.0,Lyft,Lux Black XL
+15,7.0,1.24,1.0,Lyft,Lyft
+7,20.5,4.44,1.0,Uber,UberXL
+21,30.0,2.66,1.0,Lyft,Lux Black XL
+19,26.0,4.49,1.0,Lyft,Lux
+11,5.0,0.62,1.0,Lyft,Shared
+4,27.0,3.47,1.0,Uber,Black
+7,11.0,1.08,1.0,Uber,UberXL
+21,11.0,3.01,1.0,Uber,UberX
+13,17.5,2.33,1.0,Uber,UberXL
+12,16.5,0.56,1.0,Lyft,Lux Black
+4,7.0,1.44,1.0,Uber,UberPool
+21,11.0,1.61,1.0,Uber,UberPool
+20,9.5,1.16,1.0,Uber,UberX
+16,9.0,1.3,1.0,Uber,UberPool
+8,11.0,2.83,1.0,Lyft,Lyft
+2,13.5,2.31,1.0,Lyft,Lyft XL
+6,55.0,2.97,1.25,Lyft,Lux Black XL
+5,5.0,1.72,1.0,Lyft,Shared
+1,19.5,2.81,1.0,Uber,Black
+16,52.0,7.46,1.0,Uber,Black SUV
+4,45.5,5.44,1.0,Lyft,Lux Black XL
+19,34.0,3.15,1.0,Lyft,Lux Black XL
+18,11.5,4.57,1.0,Uber,WAV
+9,19.5,3.11,1.0,Lyft,Lyft XL
+1,7.0,1.64,1.0,Uber,UberPool
+4,9.0,2.44,1.0,Lyft,Lyft
+23,22.5,3.17,1.0,Lyft,Lux
+14,26.0,1.26,1.0,Lyft,Lux Black XL
+8,10.5,2.52,1.0,Lyft,Lyft
+9,12.0,4.48,1.0,Uber,WAV
+23,7.0,0.49,1.0,Uber,WAV
+18,8.5,1.35,1.0,Uber,WAV
+18,11.5,1.34,1.0,Uber,UberXL
+7,31.5,2.84,1.0,Uber,Black SUV
+20,9.0,0.72,1.0,Uber,UberX
+1,16.5,2.3,1.0,Lyft,Lux
+19,18.0,5.56,1.0,Uber,UberX
+14,7.0,2.42,1.0,Lyft,Shared
+19,3.5,1.4,1.0,Lyft,Shared
+19,9.5,2.19,1.0,Uber,WAV
+22,27.5,3.12,1.0,Lyft,Lux Black
+12,14.5,2.48,1.0,Uber,UberXL
+5,8.0,1.7,1.0,Uber,WAV
+0,9.0,0.44,1.0,Lyft,Lyft XL
+5,30.5,2.5,1.0,Uber,Black SUV
+7,12.5,1.46,1.0,Uber,UberXL
+16,16.5,1.55,1.0,Lyft,Lux
+0,27.5,1.57,1.0,Lyft,Lux Black XL
+20,22.5,3.22,1.0,Lyft,Lux
+18,19.5,2.01,1.0,Lyft,Lux Black
+5,10.5,2.61,1.0,Uber,UberX
+9,28.5,1.89,1.0,Uber,Black SUV
+0,8.5,1.16,1.0,Uber,UberX
+18,9.5,2.32,1.0,Uber,WAV
+1,7.0,0.91,1.0,Uber,UberPool
+14,16.5,1.1,1.0,Lyft,Lux Black
+15,7.5,1.3,1.0,Uber,UberPool
+0,15.0,2.73,1.0,Uber,UberXL
+6,12.0,3.52,1.0,Uber,UberPool
+4,14.0,1.5,1.0,Uber,UberXL
+16,9.0,2.29,1.0,Uber,UberPool
+16,16.0,1.03,1.0,Uber,Black
+14,7.5,0.61,1.0,Uber,WAV
+23,26.5,1.7,1.0,Uber,Black SUV
+14,3.0,1.07,1.0,Lyft,Shared
+5,13.5,1.78,1.0,Uber,UberXL
+17,30.0,2.73,1.0,Lyft,Lux Black XL
+20,10.5,2.37,1.0,Uber,WAV
+10,35.0,3.1,1.0,Uber,Black SUV
+10,24.0,2.34,1.0,Uber,Black
+4,19.5,2.69,1.0,Uber,UberXL
+11,7.0,1.37,1.0,Lyft,Lyft
+10,27.0,3.37,1.0,Uber,Black
+17,8.5,2.12,1.0,Uber,WAV
+9,13.5,3.65,1.0,Lyft,Lyft
+20,13.5,1.46,1.0,Lyft,Lux
+18,28.0,1.8,1.0,Uber,Black SUV
+14,13.5,3.16,1.0,Lyft,Lyft
+14,19.5,3.45,1.0,Lyft,Lyft XL
+2,13.5,2.45,1.0,Lyft,Lyft XL
+18,3.0,1.26,1.0,Lyft,Shared
+23,9.5,1.16,1.0,Uber,UberX
+2,26.0,0.43,1.0,Lyft,Lux Black XL
+21,9.0,1.87,1.0,Lyft,Lyft
+20,9.5,1.63,1.0,Uber,WAV
+23,13.5,1.54,1.0,Lyft,Lyft XL
+23,7.0,2.42,1.0,Lyft,Shared
+1,8.5,1.97,1.0,Uber,UberX
+18,17.0,1.64,1.0,Uber,Black
+15,10.5,2.97,1.0,Lyft,Lyft
+14,7.0,0.56,1.0,Uber,WAV
+16,5.0,1.23,1.0,Lyft,Shared
+12,9.0,1.54,1.0,Lyft,Lyft
+20,22.5,3.09,1.0,Lyft,Lux
+22,14.0,2.32,1.0,Uber,UberXL
+20,5.0,1.25,1.0,Lyft,Shared
+10,15.0,1.39,1.0,Uber,Black
+17,27.0,0.49,1.0,Uber,Black SUV
+15,7.0,2.47,1.0,Lyft,Shared
+10,7.0,0.94,1.0,Uber,UberX
+14,16.5,3.14,1.0,Lyft,Lyft XL
+17,8.5,1.9,1.0,Uber,UberX
+20,17.5,3.39,1.0,Uber,UberXL
+0,9.5,3.04,1.0,Uber,UberX
+19,9.0,2.46,1.0,Uber,WAV
+12,26.0,1.1,1.0,Lyft,Lux Black XL
+15,34.0,2.79,1.0,Lyft,Lux Black XL
+21,22.5,2.84,1.25,Lyft,Lyft XL
+7,7.5,1.57,1.0,Uber,UberPool
+3,27.5,1.42,1.0,Lyft,Lux Black XL
+0,42.5,4.44,1.0,Uber,Black SUV
+10,19.5,2.74,1.25,Lyft,Lyft XL
+20,20.5,2.32,1.0,Uber,UberX
+18,11.5,2.32,1.0,Uber,UberX
+15,11.5,3.39,1.0,Uber,WAV
+10,12.5,1.44,1.0,Uber,UberXL
+7,24.0,5.56,1.0,Uber,UberXL
+15,16.5,0.43,1.0,Lyft,Lux Black
+19,16.5,4.37,1.25,Lyft,Lyft
+0,26.0,2.98,1.0,Lyft,Lux Black
+5,16.5,2.31,1.0,Lyft,Lux
+23,13.5,1.68,1.0,Lyft,Lyft XL
+16,8.5,1.39,1.0,Uber,UberX
+1,27.5,1.35,1.0,Uber,Black SUV
+7,37.0,4.48,1.0,Uber,Black SUV
+15,30.0,1.74,1.0,Lyft,Lux Black XL
+12,19.0,2.17,1.0,Uber,Black
+16,7.0,1.25,1.0,Uber,UberX
+1,7.0,1.03,1.0,Uber,WAV
+7,22.5,2.53,1.0,Lyft,Lux Black
+18,11.5,3.42,1.0,Uber,WAV
+13,32.5,3.15,1.0,Lyft,Lux Black XL
+12,16.5,3.44,1.0,Lyft,Lyft XL
+2,45.5,4.53,1.0,Lyft,Lux Black XL
+2,5.0,3.32,1.0,Lyft,Shared
+13,10.5,3.24,1.0,Lyft,Lyft
+15,7.0,1.07,1.0,Lyft,Shared
+9,16.5,1.44,1.0,Lyft,Lux Black
+14,10.5,1.0,1.0,Lyft,Lyft XL
+11,12.0,3.61,1.0,Uber,WAV
+1,15.0,1.61,1.0,Uber,UberXL
+1,16.5,2.55,1.0,Lyft,Lyft XL
+9,9.0,1.72,1.0,Lyft,Lyft
+2,30.0,2.04,1.0,Lyft,Lux Black XL
+6,9.5,3.22,1.0,Uber,UberX
+5,13.5,4.31,1.0,Lyft,Lyft
+0,7.0,3.19,1.0,Lyft,Shared
+0,7.0,0.73,1.0,Uber,WAV
+14,10.0,1.35,1.0,Uber,UberPool
+10,7.0,1.3,1.0,Uber,UberPool
+22,13.5,1.22,1.0,Lyft,Lux
+21,9.0,1.46,1.0,Lyft,Lyft
+12,31.5,3.07,1.0,Uber,Black SUV
+12,20.5,2.58,1.0,Uber,Black
+23,7.0,2.65,1.0,Lyft,Shared
+10,19.5,3.12,1.0,Lyft,Lux
+3,38.0,3.02,2.5,Lyft,Lyft XL
+5,32.5,2.95,1.0,Lyft,Lux Black XL
+20,13.5,1.54,1.0,Lyft,Lyft XL
+0,5.0,1.01,1.0,Lyft,Shared
+6,9.5,2.12,1.0,Uber,WAV
+22,15.0,1.5,1.0,Uber,Black
+5,9.5,2.8,1.0,Uber,UberPool
+7,7.0,2.28,1.0,Lyft,Shared
+4,13.5,2.04,1.0,Uber,UberX
+2,16.0,2.32,1.0,Uber,UberXL
+19,16.5,2.85,1.0,Lyft,Lyft XL
+6,27.0,1.63,1.0,Uber,Black SUV
+11,28.5,1.97,1.0,Uber,Black SUV
+1,35.5,3.05,1.0,Uber,Black SUV
+3,9.0,3.47,1.0,Lyft,Shared
+19,26.0,1.15,1.0,Lyft,Lux Black XL
+6,8.5,1.92,1.0,Uber,UberX
+8,21.5,2.86,1.0,Uber,Black
+18,7.0,2.06,1.0,Lyft,Shared
+22,27.5,1.16,1.0,Uber,Black SUV
+9,18.0,1.41,1.0,Uber,Black
+18,12.0,3.08,1.0,Uber,UberX
+6,28.0,1.45,1.0,Uber,Black SUV
+2,27.5,1.34,1.0,Lyft,Lux Black XL
+4,10.0,2.84,1.0,Uber,UberPool
+13,24.0,2.86,1.0,Uber,Black
+11,17.0,3.28,1.0,Uber,UberXL
+6,22.5,2.13,1.0,Lyft,Lux Black
+9,13.5,1.71,1.0,Lyft,Lyft XL
+13,13.0,2.99,1.0,Uber,WAV
+16,15.0,2.72,1.0,Uber,UberXL
+5,5.0,1.51,1.0,Lyft,Shared
+10,15.5,1.03,1.0,Uber,Black
+7,7.0,0.49,1.0,Uber,UberX
+4,10.5,2.61,1.0,Uber,UberX
+18,7.0,2.26,1.0,Lyft,Shared
+4,29.5,2.46,1.0,Uber,Black SUV
+22,31.5,2.44,1.0,Uber,Black SUV
+23,10.0,0.56,1.0,Uber,UberPool
+5,32.5,4.55,1.0,Lyft,Lux Black
+2,16.5,1.0,1.0,Lyft,Lux Black
+3,22.0,3.07,1.0,Uber,Black
+2,26.0,2.13,1.25,Lyft,Lux Black
+12,3.0,2.26,1.0,Lyft,Shared
+0,16.0,0.99,1.0,Uber,Black
+3,11.0,1.49,1.0,Lyft,Lyft XL
+8,11.5,2.49,1.0,Uber,UberX
+22,7.0,2.02,1.0,Lyft,Shared
+1,8.5,1.5,1.0,Uber,WAV
+15,9.0,2.84,1.0,Uber,UberPool
+16,7.0,3.15,1.0,Lyft,Shared
+11,8.5,3.23,1.0,Uber,UberPool
+2,10.5,2.0,1.0,Lyft,Lyft
+10,8.0,2.27,1.0,Uber,UberPool
+15,32.5,4.47,1.0,Lyft,Lux Black
+19,15.0,0.91,1.0,Uber,Black
+22,8.0,1.36,1.0,Uber,UberX
+21,23.0,1.81,1.0,Uber,Black SUV
+14,33.5,2.71,1.0,Uber,Black SUV
+1,7.0,2.55,1.0,Lyft,Shared
+15,13.5,1.73,1.0,Lyft,Lyft XL
+14,32.5,2.86,1.0,Lyft,Lux Black XL
+0,11.5,3.17,1.0,Uber,UberPool
+0,11.0,3.13,1.0,Uber,UberPool
+8,34.0,1.7,2.0,Lyft,Lux Black
+17,9.0,4.59,1.0,Lyft,Shared
+13,47.5,5.39,1.0,Lyft,Lux Black XL
+16,9.0,2.83,1.0,Lyft,Shared
+21,27.5,1.7,1.0,Lyft,Lux Black XL
+20,8.5,1.35,1.0,Uber,WAV
+0,13.5,1.49,1.0,Lyft,Lux
+15,32.5,2.83,1.25,Lyft,Lux Black
+7,15.0,0.72,1.0,Uber,Black
+7,12.0,2.32,1.0,Uber,UberPool
+14,47.5,5.23,1.0,Lyft,Lux Black XL
+20,38.0,2.84,1.0,Uber,Black SUV
+19,9.0,2.37,1.0,Lyft,Lyft
+18,22.5,3.22,1.0,Lyft,Lux
+15,38.0,2.91,1.0,Lyft,Lux Black XL
+21,23.0,2.32,1.0,Uber,Black
+20,3.0,1.05,1.0,Lyft,Shared
+20,13.0,3.3,1.0,Uber,WAV
+6,3.0,1.62,1.0,Lyft,Shared
+8,7.0,1.28,1.0,Lyft,Lyft
+21,10.5,3.3,1.0,Uber,UberX
+1,13.5,1.94,1.0,Lyft,Lyft XL
+1,22.5,3.32,1.0,Lyft,Lux
+3,22.5,4.7,1.0,Lyft,Lyft XL
+17,24.0,2.66,1.0,Uber,Black
+15,27.5,1.07,1.0,Lyft,Lux Black XL
+22,10.5,2.68,1.0,Lyft,Lyft
+0,33.5,2.8,1.0,Uber,Black SUV
+10,13.0,1.85,1.0,Uber,UberXL
+6,9.5,1.04,1.0,Uber,UberX
+18,22.5,2.26,1.0,Lyft,Lux Black
+9,7.0,0.54,1.0,Uber,UberX
+20,11.0,2.45,1.0,Lyft,Lyft
+1,13.5,1.94,1.0,Lyft,Lyft XL
+3,11.0,1.22,1.0,Uber,UberXL
+8,16.0,1.35,1.0,Uber,UberXL
+6,26.0,3.14,1.0,Lyft,Lux Black
+1,13.5,3.13,1.25,Lyft,Lyft
+4,9.0,4.6,1.0,Lyft,Shared
+23,15.0,4.72,1.0,Uber,WAV
+0,27.5,3.05,1.0,Lyft,Lux Black
+13,29.5,2.61,1.0,Uber,Black SUV
+21,7.0,0.61,1.0,Lyft,Lyft
+19,21.0,1.72,1.0,Uber,Black
+12,7.5,2.14,1.0,Uber,WAV
+8,13.5,1.14,1.0,Lyft,Lyft XL
+8,34.0,3.55,1.0,Lyft,Lux Black
+0,7.0,0.39,1.0,Uber,UberX
+11,8.5,0.49,1.0,Uber,UberXL
+12,12.0,2.62,1.0,Uber,WAV
+14,10.5,1.42,1.0,Lyft,Lyft XL
+0,27.5,1.16,1.0,Uber,Black SUV
+6,32.5,2.49,1.0,Lyft,Lux Black XL
+4,9.0,2.72,1.0,Uber,UberPool
+20,35.0,3.05,1.0,Uber,Black SUV
+14,7.0,1.21,1.0,Uber,UberX
+20,13.5,2.4,1.0,Lyft,Lyft XL
+0,22.5,2.95,1.0,Lyft,Lux Black
+8,5.0,1.71,1.0,Lyft,Shared
+17,22.5,3.16,1.0,Lyft,Lux
+16,15.0,3.23,1.0,Uber,UberX
+2,13.0,1.08,1.0,Uber,UberXL
+22,9.0,2.51,1.0,Lyft,Lyft
+16,22.5,1.87,1.0,Lyft,Lux Black
+16,7.0,1.09,1.0,Lyft,Lyft
+16,19.5,2.32,1.0,Lyft,Lux
+2,9.0,2.07,1.0,Lyft,Lyft
+20,13.5,2.4,1.0,Lyft,Lyft XL
+13,10.5,1.16,1.0,Uber,UberXL
+14,7.0,1.02,1.0,Lyft,Lyft
+1,32.5,3.15,1.0,Lyft,Lux Black XL
+14,8.5,2.32,1.0,Uber,WAV
+12,20.5,2.5,1.0,Uber,Black
+0,10.5,1.01,1.0,Lyft,Lyft XL
+10,16.5,1.07,1.0,Lyft,Lux Black
+3,9.5,1.64,1.0,Uber,WAV
+23,7.0,0.54,1.0,Uber,UberX
+12,23.0,4.4,1.0,Uber,UberXL
+13,12.5,1.11,1.0,Uber,UberXL
+4,15.0,2.61,1.0,Uber,UberXL
+18,9.0,0.46,1.0,Lyft,Lyft XL
+4,7.5,0.56,1.0,Uber,WAV
+18,13.5,2.44,1.5,Lyft,Lyft
+21,11.0,3.49,1.0,Lyft,Lyft
+14,10.5,3.06,1.0,Uber,UberX
+10,11.0,1.0,1.0,Lyft,Lyft XL
+23,10.5,1.15,1.0,Lyft,Lyft XL
+17,7.5,1.35,1.0,Uber,UberPool
+18,11.0,0.57,1.0,Lyft,Lux
+15,10.5,2.79,1.0,Uber,WAV
+9,8.5,1.62,1.0,Uber,UberX
+16,26.0,0.73,1.0,Lyft,Lux Black XL
+0,23.0,4.42,1.0,Uber,UberXL
+9,8.5,1.08,1.0,Uber,UberX
+14,10.5,2.27,1.0,Uber,WAV
+20,11.0,0.9,1.0,Lyft,Lux
+8,6.5,1.49,1.0,Uber,UberPool
+6,9.5,2.72,1.0,Uber,UberX
+19,16.5,0.64,1.0,Lyft,Lux Black
+3,7.0,2.54,1.0,Lyft,Shared
+16,20.5,2.86,1.0,Uber,Black
+0,22.5,2.49,1.0,Lyft,Lux Black
+9,7.0,0.43,1.0,Lyft,Lyft
+15,7.0,1.06,1.0,Lyft,Lyft
+12,9.5,2.86,1.0,Uber,WAV
+16,9.5,2.73,1.0,Uber,UberPool
+7,17.0,2.3,1.0,Uber,UberXL
+15,5.0,1.17,1.0,Lyft,Shared
+19,11.0,3.13,1.0,Lyft,Lyft
+21,38.5,3.16,1.0,Lyft,Lux Black XL
+4,19.5,1.0,2.0,Lyft,Lyft XL
+16,19.0,2.32,1.0,Uber,Black
+13,17.5,2.67,1.0,Uber,UberX
+4,27.0,1.82,1.0,Uber,Black SUV
+3,22.5,1.7,1.0,Lyft,Lux Black
+9,3.5,1.4,1.0,Lyft,Shared
+13,7.0,1.69,1.0,Lyft,Shared
+1,5.0,1.15,1.0,Lyft,Shared
+5,16.0,1.34,1.0,Uber,Black
+3,33.5,2.98,1.0,Uber,Black SUV
+8,10.5,1.03,1.0,Lyft,Lyft XL
+13,11.0,0.62,1.0,Lyft,Lyft XL
+6,8.5,1.43,1.0,Uber,UberX
+19,13.5,1.0,1.0,Lyft,Lux
+0,34.0,4.6,1.0,Lyft,Lux Black
+5,10.5,0.78,1.0,Lyft,Lux
+9,15.0,2.46,1.0,Uber,UberXL
+17,10.5,1.99,1.0,Lyft,Lyft
+0,10.5,2.62,1.0,Uber,WAV
+19,6.5,1.61,1.0,Uber,UberPool
+3,10.5,2.98,1.0,Uber,UberX
+20,8.0,1.61,1.0,Uber,UberPool
+0,13.5,1.74,1.0,Lyft,Lyft XL
+9,7.5,0.91,1.0,Uber,UberPool
+20,26.0,3.45,1.0,Lyft,Lux Black
+11,8.5,2.66,1.0,Uber,UberPool
+5,7.0,0.53,1.0,Lyft,Lyft
+18,30.0,3.14,1.0,Lyft,Lux Black
+13,7.0,0.39,1.0,Uber,UberX
+18,26.0,1.61,1.0,Uber,Black SUV
+15,27.5,0.94,1.0,Uber,Black SUV
+21,7.0,1.5,1.0,Uber,UberX
+8,9.5,2.5,1.0,Uber,UberX
+14,13.0,1.64,1.0,Uber,WAV
+16,29.0,4.72,1.0,Uber,Black
+17,5.0,1.73,1.0,Lyft,Shared
+0,16.5,1.34,1.0,Lyft,Lux
+9,27.5,0.64,1.0,Lyft,Lux Black XL
+2,10.5,1.27,1.0,Lyft,Lyft XL
+6,30.5,2.72,1.0,Uber,Black SUV
+4,52.5,2.46,1.75,Lyft,Lux Black XL
+2,9.5,2.62,1.0,Uber,UberPool
+23,9.5,3.04,1.0,Uber,UberX
+17,26.0,0.49,1.0,Uber,Black SUV
+23,16.5,1.13,1.0,Lyft,Lux Black
+14,9.0,3.3,1.0,Uber,UberPool
+11,13.5,1.55,1.0,Lyft,Lux
+19,22.5,4.44,1.0,Uber,UberXL
+19,9.5,1.58,1.0,Uber,WAV
+23,26.5,1.23,1.0,Uber,Black SUV
+19,7.0,1.03,1.0,Uber,WAV
+5,10.5,3.01,1.0,Lyft,Lyft
+1,19.5,3.03,1.0,Lyft,Lux
+4,9.5,2.66,1.0,Uber,WAV
+12,10.5,1.46,1.0,Lyft,Lyft XL
+3,16.5,2.56,1.0,Lyft,Lux
+2,8.0,0.91,1.0,Uber,WAV
+14,9.0,0.45,1.0,Lyft,Lyft XL
+7,28.5,2.19,1.0,Uber,Black SUV
+11,9.0,2.7,1.0,Lyft,Lyft
+1,7.5,2.14,1.0,Uber,WAV
+12,13.5,1.53,1.0,Lyft,Lyft XL
+5,7.0,2.14,1.0,Lyft,Shared
+1,16.5,1.14,1.0,Lyft,Lux Black
+10,16.0,1.04,1.0,Uber,Black
+18,18.5,3.3,1.0,Uber,WAV
+14,22.0,2.84,1.0,Uber,Black
+14,7.5,1.07,1.0,Uber,WAV
+1,13.5,1.45,1.0,Lyft,Lux
+4,19.5,2.41,1.0,Lyft,Lux
+12,7.5,1.16,1.0,Uber,UberPool
+20,17.0,2.2,1.0,Uber,UberX
+11,29.5,4.48,1.0,Uber,Black
+14,7.5,1.16,1.0,Uber,UberPool
+13,7.0,2.73,1.0,Lyft,Shared
+3,22.5,2.36,1.0,Lyft,Lux Black
+14,28.0,7.46,1.0,Uber,UberXL
+16,26.0,3.27,1.0,Lyft,Lux Black
+8,14.0,2.32,1.0,Uber,UberXL
+17,15.5,0.62,1.0,Uber,Black
+6,5.0,1.91,1.0,Lyft,Shared
+5,38.0,1.26,1.5,Lyft,Lux Black XL
+23,11.5,2.66,1.0,Uber,WAV
+3,27.5,1.21,1.0,Uber,Black SUV
+15,10.5,2.98,1.0,Uber,WAV
+6,31.5,2.67,1.0,Uber,UberXL
+1,7.5,0.56,1.0,Uber,UberPool
+13,15.0,0.91,1.0,Uber,Black
+1,26.0,3.0,1.0,Lyft,Lux Black
+22,31.5,1.9,1.0,Uber,Black SUV
+2,7.5,1.41,1.0,Uber,WAV
+2,10.5,1.83,1.0,Lyft,Lyft
+14,15.0,1.34,1.0,Uber,UberXL
+19,11.0,2.82,1.0,Lyft,Lyft
+19,16.5,2.35,1.0,Lyft,Lux
+18,39.5,4.58,1.0,Uber,Black SUV
+0,13.5,1.71,1.0,Lyft,Lyft XL
+6,15.0,1.5,1.0,Uber,UberXL
+2,6.5,1.08,1.0,Uber,UberPool
+11,23.0,2.62,1.0,Uber,Black
+13,19.5,2.32,1.0,Uber,Black
+11,15.5,1.97,1.0,Uber,UberPool
+20,22.5,1.89,1.0,Uber,Black
+10,9.5,2.67,1.0,Uber,WAV
+1,11.0,2.8,1.0,Uber,WAV
+11,12.0,3.53,1.0,Uber,WAV
+4,19.5,2.49,1.0,Lyft,Lux
+22,7.5,1.5,1.0,Uber,WAV
+23,27.5,4.19,1.0,Lyft,Lux
+16,12.0,3.16,1.0,Uber,UberPool
+1,28.0,1.8,1.0,Uber,Black SUV
+15,17.5,3.08,1.0,Uber,UberXL
+11,7.0,2.51,1.0,Lyft,Shared
+14,10.5,1.25,1.0,Uber,WAV
+17,11.0,1.44,1.0,Lyft,Lyft XL
+13,11.0,3.05,1.0,Uber,UberPool
+11,16.5,1.64,1.0,Lyft,Lux
+15,11.0,0.52,1.0,Lyft,Lux
+11,10.5,2.13,1.0,Lyft,Lyft
+20,16.5,1.78,1.0,Lyft,Lyft XL
+19,9.5,2.84,1.0,Uber,WAV
+0,7.5,0.62,1.0,Uber,UberX
+2,10.0,2.62,1.0,Uber,UberPool
+10,16.5,0.73,1.0,Lyft,Lux Black
+18,16.0,2.62,1.0,Uber,UberXL
+23,5.0,1.56,1.0,Lyft,Shared
+13,16.5,2.3,1.0,Lyft,Lux
+3,67.5,3.36,2.0,Lyft,Lux Black
+10,22.5,2.2,1.0,Uber,Black
+11,23.0,2.38,1.0,Uber,Black
+21,19.5,3.16,1.0,Lyft,Lyft XL
+13,16.5,1.21,1.0,Uber,Black
+3,11.0,2.71,1.0,Uber,UberX
+2,15.0,2.61,1.0,Uber,UberXL
+19,16.0,5.7,1.0,Uber,WAV
+1,9.0,3.07,1.0,Uber,UberPool
+20,31.5,2.72,1.0,Uber,Black SUV
+10,13.0,4.48,1.0,Uber,WAV
+15,16.5,1.11,1.0,Lyft,Lux Black
+7,5.0,2.41,1.0,Lyft,Shared
+21,3.0,0.66,1.0,Lyft,Shared
+11,27.5,1.45,1.0,Lyft,Lux Black XL
+2,22.5,2.19,1.25,Lyft,Lux
+3,7.0,1.25,1.0,Uber,WAV
+8,34.0,3.2,1.0,Lyft,Lux Black XL
+17,10.5,2.41,1.0,Lyft,Lyft
+19,7.0,3.18,1.0,Lyft,Shared
+1,19.5,3.0,1.25,Lyft,Lyft XL
+20,9.0,2.41,1.0,Lyft,Lyft
+11,7.0,0.65,1.0,Lyft,Lyft
+4,8.0,1.11,1.0,Uber,UberPool
+21,32.5,2.32,1.0,Lyft,Lux Black XL
+20,11.5,1.35,1.0,Uber,UberX
+8,3.5,2.6,1.0,Lyft,Shared
+13,19.5,3.3,1.0,Uber,UberXL
+20,11.0,3.01,1.0,Uber,UberPool
+2,5.0,1.09,1.0,Lyft,Shared
+20,16.0,1.08,1.0,Uber,Black
+13,13.5,1.67,1.0,Lyft,Lyft XL
+21,22.5,3.03,1.0,Lyft,Lux Black
+0,8.0,1.61,1.0,Uber,UberX
+17,27.5,5.4,1.0,Lyft,Lux
+20,25.0,3.08,1.0,Uber,Black
+8,34.0,3.25,1.0,Lyft,Lux Black XL
+2,33.0,4.44,1.0,Uber,UberXL
+19,31.5,2.44,1.0,Uber,Black SUV
+23,22.5,3.22,1.0,Uber,Black
+1,8.0,2.82,1.0,Uber,UberPool
+14,26.0,0.55,1.0,Uber,Black SUV
+21,16.5,2.87,1.0,Lyft,Lyft XL
+10,16.0,2.17,1.0,Uber,UberXL
+2,9.5,1.46,1.0,Uber,WAV
+1,29.5,1.41,1.0,Uber,Black SUV
+18,9.0,0.76,1.0,Lyft,Lyft XL
+18,11.0,1.54,1.0,Lyft,Lyft XL
+22,7.0,0.66,1.0,Lyft,Lyft
+13,28.5,4.4,1.0,Uber,Black
+16,18.5,2.34,1.0,Uber,UberXL
+17,8.5,2.04,1.0,Uber,UberPool
+2,7.0,0.56,1.0,Uber,UberX
+1,27.5,5.34,1.0,Lyft,Lux
+0,16.5,2.9,1.0,Lyft,Lyft XL
+20,9.5,2.62,1.0,Uber,WAV
+18,9.0,2.43,1.0,Lyft,Lyft
+12,20.5,2.66,1.0,Uber,Black
+2,14.0,5.7,1.0,Uber,UberX
+10,30.0,5.41,1.0,Lyft,Lux
+9,13.5,4.73,1.0,Uber,WAV
+11,8.5,2.17,1.0,Uber,UberPool
+23,17.0,1.23,1.0,Uber,Black
+18,7.0,1.37,1.0,Lyft,Lyft
+15,12.5,2.38,1.0,Uber,UberX
+7,21.5,2.46,1.0,Uber,Black
+8,22.5,1.69,1.0,Lyft,Lux Black
+20,38.0,3.21,1.0,Lyft,Lux Black XL
+6,9.5,3.17,1.0,Uber,UberX
+12,19.5,2.01,1.0,Lyft,Lux Black
+8,14.0,1.5,1.0,Uber,Black
+23,10.5,0.99,1.0,Uber,UberX
+2,27.5,1.35,1.0,Uber,Black SUV
+2,22.5,2.83,1.0,Lyft,Lux
+5,16.5,2.28,1.0,Lyft,Lyft XL
+17,6.5,1.03,1.0,Uber,UberPool
+12,16.5,1.46,1.0,Lyft,Lux Black
+6,16.0,0.49,1.0,Uber,Black
+4,10.5,2.63,1.0,Uber,WAV
+16,11.5,1.21,1.0,Uber,UberXL
+7,7.0,1.38,1.0,Lyft,Lyft
+23,7.5,0.68,1.0,Uber,UberX
+22,13.5,5.44,1.0,Lyft,Lyft
+15,22.5,2.83,1.0,Lyft,Lux Black
+13,9.5,2.17,1.0,Uber,WAV
+14,9.5,1.8,1.0,Uber,UberPool
+18,10.0,2.66,1.0,Uber,UberPool
+20,6.5,1.3,1.0,Uber,UberPool
+19,3.5,0.62,1.0,Lyft,Shared
+4,9.0,2.07,1.0,Lyft,Lyft
+10,9.5,2.32,1.0,Uber,UberX
+18,7.5,2.61,1.0,Uber,UberPool
+2,7.0,1.02,1.0,Lyft,Lyft
+19,31.5,2.74,1.0,Uber,Black SUV
+22,16.5,1.16,1.0,Lyft,Lux Black
+22,19.5,3.29,1.0,Lyft,Lux
+10,18.5,2.27,1.0,Uber,Black
+18,27.5,1.16,1.0,Uber,Black SUV
+20,7.0,0.88,1.0,Lyft,Lyft
+12,16.5,1.02,1.0,Lyft,Lux Black
+11,18.5,2.32,1.0,Uber,Black
+13,21.5,2.25,1.0,Uber,Black
+7,10.0,1.46,1.0,Uber,UberPool
+14,8.0,1.41,1.0,Uber,WAV
+4,22.5,4.56,1.0,Lyft,Lyft XL
+8,16.5,2.88,1.0,Uber,UberXL
+22,11.5,1.8,1.0,Uber,UberX
+11,26.5,3.39,1.0,Uber,Black
+2,9.5,0.39,1.0,Uber,UberXL
+14,19.5,2.63,1.0,Lyft,Lux
+23,26.0,0.82,1.0,Uber,Black SUV
+11,26.0,0.89,1.0,Lyft,Lux Black XL
+9,22.5,2.23,1.5,Lyft,Lux
+3,7.0,0.65,1.0,Lyft,Lyft
+0,13.5,1.05,1.25,Lyft,Lyft XL
+14,3.0,2.98,1.0,Lyft,Shared
+18,27.5,2.82,1.0,Uber,UberXL
+7,7.0,0.56,1.0,Uber,UberX
+13,31.5,3.04,1.0,Uber,Black SUV
+11,22.5,2.57,1.0,Lyft,Lux Black
+13,16.5,1.08,1.0,Lyft,Lux Black
+16,8.5,1.89,1.0,Uber,UberX
+10,9.5,1.96,1.0,Uber,UberX
+19,5.0,1.86,1.0,Lyft,Shared
+4,32.5,3.36,1.0,Lyft,Lux Black XL
+23,8.5,2.19,1.0,Uber,UberX
+22,5.0,1.23,1.0,Lyft,Shared
+13,13.5,2.38,1.0,Lyft,Lyft XL
+0,33.0,3.39,1.0,Uber,Black SUV
+14,4.5,0.63,1.0,Uber,UberPool
+22,10.5,0.72,1.0,Lyft,Lux
+14,10.5,3.05,1.0,Uber,UberX
+22,11.5,2.58,1.0,Uber,UberX
+9,26.0,1.08,1.0,Uber,Black SUV
+15,7.5,0.62,1.0,Uber,UberX
+10,16.5,2.09,1.0,Lyft,Lux
+15,19.5,2.38,1.0,Lyft,Lux
+11,16.0,1.41,1.0,Uber,UberXL
+17,13.5,4.83,1.0,Lyft,Lyft
+4,35.0,2.62,1.0,Uber,Black SUV
+10,5.0,1.93,1.0,Lyft,Shared
+11,35.0,3.53,1.0,Uber,Black SUV
+6,7.5,1.04,1.0,Uber,UberPool
+8,22.5,1.5,1.0,Lyft,Lux Black
+0,17.5,1.94,1.0,Uber,Black
+11,19.5,3.07,1.0,Lyft,Lyft XL
+12,8.5,0.62,1.0,Uber,UberX
+1,13.5,1.26,1.0,Lyft,Lux
+7,6.5,1.57,1.0,Uber,UberPool
+23,13.5,1.37,1.0,Lyft,Lyft XL
+5,6.5,0.98,1.0,Uber,UberX
+1,16.5,2.01,1.0,Lyft,Lux
+19,27.5,0.68,1.0,Lyft,Lux Black XL
+4,5.0,1.0,1.0,Lyft,Shared
+0,7.0,1.01,1.0,Lyft,Lyft
+9,16.5,2.92,1.0,Lyft,Lyft XL
+15,8.5,0.35,1.0,Uber,UberXL
+12,40.5,4.4,1.0,Uber,Black SUV
+22,8.5,1.04,1.0,Uber,WAV
+1,9.5,1.16,1.0,Uber,WAV
+1,10.5,2.04,1.0,Uber,WAV
+10,13.0,1.5,1.0,Uber,UberXL
+20,10.5,1.22,1.0,Uber,UberXL
+19,9.5,1.41,1.0,Uber,UberX
+17,19.5,2.64,1.0,Lyft,Lyft XL
+7,7.0,2.39,1.0,Lyft,Shared
+19,30.0,1.72,1.0,Lyft,Lux Black XL
+1,8.5,1.35,1.0,Uber,UberX
+3,22.5,2.14,1.0,Lyft,Lux Black
+1,24.0,3.39,1.0,Uber,Black
+2,7.0,4.7,1.0,Lyft,Shared
+23,9.0,2.38,1.0,Uber,UberX
+16,9.5,1.04,1.0,Uber,UberX
+12,11.0,2.62,1.0,Uber,UberPool
+12,16.5,1.72,1.0,Lyft,Lux
+21,26.5,1.57,1.0,Uber,Black SUV
+21,7.0,2.87,1.0,Lyft,Shared
+18,11.5,0.63,1.0,Uber,UberXL
+18,10.5,1.5,1.0,Lyft,Lyft XL
+9,33.0,3.07,1.0,Uber,Black SUV
+3,7.5,0.61,1.0,Uber,UberX
+4,34.0,3.07,1.0,Lyft,Lux Black XL
+12,7.0,2.07,1.0,Lyft,Shared
+20,34.0,1.22,1.25,Lyft,Lux Black XL
+23,7.0,3.04,1.0,Lyft,Shared
+16,25.0,3.15,1.0,Uber,Black
+12,17.5,1.34,1.0,Uber,Black
+2,3.0,1.06,1.0,Lyft,Shared
+6,16.5,0.74,1.0,Lyft,Lux Black
+5,11.0,3.22,1.0,Lyft,Lyft
+6,23.0,2.5,1.0,Uber,Black
+18,28.5,2.8,1.0,Uber,Black SUV
+18,15.0,0.55,1.0,Uber,Black
+20,9.5,2.98,1.0,Uber,WAV
+19,19.5,3.11,1.25,Lyft,Lyft XL
+3,27.5,1.45,1.0,Lyft,Lux Black XL
+11,19.5,2.29,1.0,Lyft,Lux
+9,16.5,0.54,1.0,Lyft,Lux Black
+23,13.5,1.79,1.0,Lyft,Lyft XL
+6,8.5,1.61,1.0,Uber,UberX
+16,26.0,2.83,1.0,Lyft,Lux Black
+12,22.5,2.41,1.0,Lyft,Lux Black
+7,13.5,1.47,1.0,Lyft,Lyft XL
+2,16.5,3.09,1.0,Lyft,Lyft XL
+4,27.5,1.82,1.0,Lyft,Lux Black XL
+15,5.0,3.2,1.0,Lyft,Shared
+0,17.5,2.98,1.0,Uber,UberXL
+3,7.0,1.28,1.0,Lyft,Lyft
+7,16.5,2.68,1.0,Lyft,Lyft XL
+20,27.5,1.77,1.0,Lyft,Lux Black XL
+9,16.5,3.11,1.0,Lyft,Lyft XL
+8,32.5,3.07,1.0,Uber,Black SUV
+18,13.5,1.01,1.0,Lyft,Lux
+15,11.5,3.41,1.0,Uber,UberX
+6,12.0,1.5,1.0,Uber,UberXL
+22,16.5,2.96,1.0,Lyft,Lyft XL
+20,7.0,2.35,1.0,Lyft,Shared
+2,34.5,3.08,1.0,Uber,Black SUV
+22,16.5,0.43,1.0,Lyft,Lux Black
+10,7.0,3.0,1.0,Lyft,Shared
+18,22.5,2.85,1.0,Lyft,Lux
+19,20.5,2.17,1.0,Uber,Black
+15,9.0,2.43,1.0,Lyft,Lyft
+0,16.0,7.46,1.0,Uber,UberX
+20,21.5,4.42,1.0,Uber,UberXL
+16,10.5,0.61,1.0,Uber,UberXL
+19,7.0,1.09,1.0,Lyft,Lyft
+19,9.0,1.04,1.0,Uber,WAV
+13,18.5,3.05,1.0,Uber,UberXL
+19,7.0,3.17,1.0,Lyft,Shared
+15,9.0,2.46,1.0,Lyft,Lyft
+23,26.0,1.17,1.0,Lyft,Lux Black XL
+0,16.5,2.36,1.0,Lyft,Lux
+2,10.5,0.68,1.0,Lyft,Lyft XL
+7,25.0,7.24,1.0,Uber,UberXL
+19,19.5,1.41,1.0,Lyft,Lux Black
+12,26.0,3.39,1.0,Uber,Black
+1,10.5,2.32,1.0,Uber,UberX
+21,38.5,4.33,1.0,Lyft,Lux Black
+10,10.5,0.55,1.0,Lyft,Lyft XL
+5,6.5,1.47,1.0,Uber,UberPool
+21,14.0,2.14,1.0,Uber,UberXL
+22,10.5,3.3,1.0,Uber,UberX
+13,10.5,3.05,1.0,Uber,WAV
+2,7.0,1.09,1.0,Lyft,Lyft
+13,22.5,2.46,1.0,Lyft,Lux Black
+4,26.0,1.21,1.0,Uber,Black SUV
+17,33.5,2.84,1.0,Uber,Black SUV
+10,8.5,2.86,1.0,Uber,UberX
+11,11.0,2.78,1.0,Lyft,Lyft
+20,15.0,1.14,1.0,Uber,Black
+17,27.5,3.0,1.0,Lyft,Lux Black
+3,11.5,3.15,1.0,Uber,WAV
+4,7.5,1.3,1.0,Uber,UberPool
+3,3.0,1.32,1.0,Lyft,Shared
+22,22.5,3.07,1.0,Lyft,Lux Black
+8,18.5,2.84,1.0,Uber,UberXL
+5,15.0,1.22,1.0,Uber,Black
+12,24.0,1.71,1.0,Uber,UberXL
+1,7.0,3.31,1.0,Lyft,Shared
+23,36.0,3.61,1.0,Uber,UberXL
+23,6.5,1.34,1.0,Uber,UberPool
+8,7.0,0.94,1.0,Uber,UberX
+15,13.5,3.43,1.0,Lyft,Lyft
+0,15.0,0.99,1.0,Uber,Black
+19,13.0,0.8,1.0,Uber,UberXL
+4,7.5,0.56,1.0,Uber,WAV
+3,19.5,3.04,1.5,Lyft,Lyft
+14,3.0,2.72,1.0,Lyft,Shared
+17,16.5,1.39,1.0,Lyft,Lux Black
+16,11.5,0.92,1.0,Uber,UberXL
+13,32.5,2.53,1.0,Lyft,Lux Black XL
+0,7.0,3.22,1.0,Lyft,Shared
+15,17.5,3.3,1.0,Uber,UberXL
+10,14.0,1.79,1.0,Uber,UberXL
+16,11.5,3.39,1.0,Uber,UberX
+12,11.0,3.29,1.0,Lyft,Lyft
+23,7.5,0.62,1.0,Uber,UberPool
+6,16.5,1.37,1.0,Lyft,Lux Black
+15,38.5,3.54,1.0,Lyft,Lux Black XL
+23,23.5,2.66,1.0,Uber,Black
+17,9.5,1.72,1.0,Uber,UberX
+11,26.0,3.52,1.0,Lyft,Lux Black
+15,16.5,1.0,1.0,Lyft,Lux Black
+20,23.0,1.79,1.0,Uber,Black
+3,16.5,1.33,1.0,Lyft,Lux Black
+17,10.5,2.67,1.0,Uber,UberX
+17,29.0,4.48,1.0,Uber,Black
+22,10.5,3.53,1.0,Uber,UberX
+4,7.0,2.82,1.0,Lyft,Shared
+23,14.0,4.48,1.0,Uber,WAV
+13,30.5,1.41,1.0,Uber,Black SUV
+7,19.5,1.84,1.0,Uber,Black
+14,9.0,1.61,1.0,Uber,UberPool
+13,19.5,2.33,1.0,Uber,Black
+17,9.0,2.2,1.0,Uber,UberX
+19,13.0,2.84,1.0,Uber,UberX
+3,12.5,4.48,1.0,Uber,WAV
+23,9.5,2.79,1.0,Uber,UberX
+19,16.5,2.39,1.0,Lyft,Lux
+11,11.5,2.5,1.0,Uber,UberX
+18,10.5,1.46,1.0,Lyft,Lyft XL
+20,9.0,1.77,1.0,Lyft,Lyft
+0,13.5,1.27,1.0,Lyft,Lux
+0,33.5,2.32,1.0,Uber,Black SUV
+11,27.5,0.44,1.0,Lyft,Lux Black XL
+3,8.0,1.46,1.0,Uber,WAV
+16,35.0,2.2,1.0,Uber,Black SUV
+6,34.0,4.8,1.0,Lyft,Lux Black
+14,27.5,1.41,1.0,Uber,Black SUV
+8,9.0,1.57,1.0,Uber,UberPool
+13,15.0,1.46,1.0,Uber,UberXL
+17,16.5,1.29,1.0,Lyft,Lux Black
+3,28.0,3.39,1.0,Uber,Black
+21,9.5,2.66,1.0,Uber,WAV
+4,13.0,2.48,1.0,Uber,UberX
+21,9.5,1.35,1.0,Uber,WAV
+16,27.5,1.56,1.0,Uber,Black SUV
+8,18.0,3.08,1.0,Uber,UberXL
+14,13.0,2.99,1.0,Uber,UberPool
+17,8.5,1.56,1.0,Uber,WAV
+1,9.5,1.35,1.0,Uber,WAV
+12,36.0,3.04,1.0,Uber,Black SUV
+12,7.0,0.77,1.0,Lyft,Lyft
+1,7.0,0.9,1.0,Lyft,Lyft
+17,7.0,2.94,1.0,Lyft,Shared
+5,26.0,4.48,1.0,Uber,UberXL
+10,15.0,2.58,1.0,Uber,UberXL
+3,3.5,3.23,1.0,Lyft,Shared
+23,32.5,0.77,1.25,Lyft,Lux Black XL
+8,22.5,2.39,1.0,Lyft,Lux Black
+13,10.5,2.78,1.0,Lyft,Lyft
+21,18.5,2.67,1.0,Uber,UberXL
+6,19.5,1.91,1.0,Uber,Black
+7,17.5,3.55,1.0,Uber,UberXL
+23,8.5,1.11,1.0,Uber,UberX
+18,3.5,1.15,1.0,Lyft,Shared
+17,7.5,3.04,1.0,Uber,UberPool
+23,19.5,1.74,1.0,Lyft,Lux Black
+0,11.0,3.51,1.0,Lyft,Lyft
+23,7.0,1.1,1.0,Uber,UberX
+7,6.5,0.67,1.0,Uber,UberPool
+23,7.0,2.43,1.0,Lyft,Shared
+5,45.5,1.45,1.75,Lyft,Lux Black XL
+3,13.5,1.82,1.0,Lyft,Lyft XL
+23,16.0,0.39,1.0,Uber,Black
+21,15.5,0.54,1.0,Uber,Black
+6,7.0,2.82,1.0,Lyft,Shared
+5,10.5,1.24,1.0,Lyft,Lyft XL
+23,16.5,2.1,1.0,Lyft,Lux
+9,38.0,1.48,1.5,Lyft,Lux Black XL
+16,10.5,0.78,1.0,Lyft,Lyft XL
+23,10.5,0.62,1.0,Uber,UberXL
+13,30.0,3.48,1.0,Lyft,Lux Black
+22,19.5,2.29,1.0,Lyft,Lux
+15,16.5,1.45,1.0,Lyft,Lux Black
+10,18.5,2.46,1.0,Uber,Black
+2,27.5,1.53,1.0,Lyft,Lux Black XL
+10,26.0,1.82,1.0,Uber,Black SUV
+5,20.5,1.97,1.0,Uber,Black
+9,22.5,2.28,1.0,Lyft,Lux Black
+8,5.0,1.49,1.0,Lyft,Shared
+1,15.0,1.3,1.0,Uber,Black
+17,26.0,3.46,1.0,Lyft,Lux Black
+13,17.0,1.41,1.0,Uber,Black
+10,7.0,0.55,1.0,Uber,UberPool
+16,19.0,2.61,1.0,Uber,Black
+11,26.0,1.05,1.0,Lyft,Lux Black XL
+5,34.5,2.8,1.0,Uber,Black SUV
+12,11.5,1.35,1.0,Uber,UberXL
+9,20.5,2.56,1.0,Uber,Black
+11,7.0,0.63,1.0,Uber,WAV
+2,11.0,3.05,1.0,Uber,UberX
+5,9.0,1.52,1.0,Lyft,Lyft
+14,7.0,0.75,1.0,Lyft,Lyft
+2,10.5,2.79,1.0,Uber,UberX
+17,22.5,1.75,1.0,Lyft,Lux Black
+4,38.0,4.4,1.0,Uber,Black SUV
+23,9.5,0.61,1.0,Uber,UberXL
+13,19.5,2.15,1.0,Lyft,Lux Black
+2,15.5,2.38,1.0,Uber,UberXL
+9,13.5,1.13,1.0,Lyft,Lux
+21,9.0,2.44,1.0,Lyft,Lyft
+2,13.5,0.72,1.0,Lyft,Lux
+19,19.5,1.87,1.0,Lyft,Lux
+1,10.5,2.64,1.0,Lyft,Lyft
+6,15.0,1.21,1.0,Uber,Black
+12,33.0,2.8,1.0,Uber,Black SUV
+23,5.0,0.61,1.0,Lyft,Shared
+21,28.5,2.04,1.0,Uber,Black SUV
+0,22.5,5.41,1.0,Lyft,Lyft XL
+22,22.5,2.13,1.0,Lyft,Lux Black
+10,25.0,2.73,1.0,Uber,Black
+13,32.5,4.43,1.0,Lyft,Lux Black
+8,9.0,2.43,1.0,Lyft,Lyft
+14,19.5,3.21,1.0,Lyft,Lyft XL
+3,13.5,1.43,1.0,Lyft,Lux
+4,8.5,2.48,1.0,Uber,WAV
+6,11.0,0.74,1.0,Lyft,Lux
+2,3.0,2.45,1.0,Lyft,Shared
+15,17.5,2.86,1.0,Uber,UberXL
+18,17.5,2.46,1.0,Uber,UberXL
+10,7.0,0.72,1.0,Uber,WAV
+13,17.5,1.68,1.0,Uber,UberXL
+12,27.5,1.25,1.0,Uber,Black SUV
+4,26.0,0.67,1.0,Uber,Black SUV
+16,23.0,3.09,1.0,Uber,Black
+20,7.5,0.62,1.0,Uber,UberX
+15,27.0,1.43,1.0,Uber,Black SUV
+12,7.5,1.35,1.0,Uber,UberX
+23,8.0,2.63,1.0,Uber,UberPool
+6,3.0,0.78,1.0,Lyft,Shared
+20,9.0,1.96,1.0,Uber,UberPool
+13,16.0,0.49,1.0,Uber,Black
+13,15.0,0.98,1.0,Uber,Black
+21,19.5,1.05,1.25,Lyft,Lux Black
+7,7.0,1.12,1.0,Lyft,Lyft
+23,27.5,3.36,1.0,Lyft,Lux Black
+20,10.5,2.63,1.0,Lyft,Lyft
+22,10.5,2.66,1.0,Uber,UberX
+21,7.0,0.71,1.0,Lyft,Lyft
+7,8.5,1.61,1.0,Uber,UberPool
+1,30.5,2.56,1.0,Uber,Black SUV
+12,15.0,1.22,1.0,Uber,Black
+18,3.5,0.57,1.0,Lyft,Shared
+12,10.5,0.45,1.0,Lyft,Lux
+5,16.0,1.22,1.0,Uber,Black
+10,16.0,0.99,1.0,Uber,Black
+10,7.0,2.96,1.0,Lyft,Shared
+23,29.0,1.53,1.0,Uber,Black SUV
+6,11.5,3.22,1.0,Uber,WAV
+18,13.5,1.53,1.0,Lyft,Lyft XL
+14,5.0,1.45,1.0,Lyft,Shared
+8,27.5,0.73,1.0,Uber,Black SUV
+9,13.5,1.23,1.0,Lyft,Lyft XL
+20,30.0,2.7,1.0,Lyft,Lux Black XL
+6,8.0,2.19,1.0,Uber,UberPool
+7,3.0,1.49,1.0,Lyft,Shared
+17,13.5,1.14,1.0,Lyft,Lyft XL
+9,22.5,4.61,1.0,Lyft,Lyft XL
+3,7.0,2.01,1.0,Lyft,Shared
+4,7.0,0.56,1.0,Uber,WAV
+2,13.5,0.62,2.5,Lyft,Lyft
+2,9.5,1.61,1.0,Uber,UberX
+14,9.0,1.74,1.0,Lyft,Lyft
+2,19.5,2.61,1.0,Uber,Black
+19,19.5,1.48,1.0,Lyft,Lux Black
+11,7.5,0.99,1.0,Uber,UberPool
+20,10.5,2.32,1.0,Uber,UberX
+4,9.5,0.54,1.0,Uber,UberXL
+10,7.0,2.11,1.0,Lyft,Lyft
+10,18.5,3.22,1.0,Uber,UberXL
+18,55.0,4.66,1.25,Lyft,Lux Black XL
+6,12.0,1.34,1.0,Uber,UberXL
+3,30.5,2.65,1.0,Uber,Black SUV
+16,7.0,3.05,1.0,Lyft,Shared
+9,33.5,4.48,1.0,Uber,Black
+20,8.0,1.25,1.0,Uber,WAV
+23,10.5,1.34,1.0,Uber,UberXL
+4,27.5,3.27,1.0,Lyft,Lux Black
+3,28.0,2.56,1.0,Uber,Black SUV
+14,32.5,2.67,1.0,Uber,Black SUV
+3,34.0,3.48,1.0,Lyft,Lux Black XL
+0,11.0,0.55,1.0,Lyft,Lux
+1,33.0,2.62,1.0,Uber,Black SUV
+14,16.5,2.58,1.0,Lyft,Lux
+22,9.0,2.1,1.0,Lyft,Shared
+1,19.5,3.24,1.0,Lyft,Lyft XL
+22,7.5,2.14,1.0,Uber,UberX
+17,23.0,3.01,1.0,Uber,Black
+2,26.0,2.95,1.0,Lyft,Lux Black
+8,16.5,0.72,1.0,Lyft,Lux Black
+6,26.0,2.78,1.25,Lyft,Lux
+8,16.5,4.31,1.5,Lyft,Lyft
+17,7.0,1.97,1.0,Lyft,Shared
+12,7.5,0.61,1.0,Uber,UberX
+2,9.0,2.37,1.0,Lyft,Shared
+23,7.0,0.39,1.0,Uber,UberX
+0,34.0,2.84,1.0,Lyft,Lux Black XL
+18,9.0,0.71,1.0,Lyft,Lyft XL
+12,7.0,0.39,1.0,Uber,UberX
+10,19.0,3.18,1.0,Uber,WAV
+14,27.5,2.84,1.0,Lyft,Lux Black
+14,22.5,2.34,1.0,Lyft,Lux Black
+14,9.0,2.25,1.0,Lyft,Lyft
+5,11.0,2.83,1.0,Lyft,Lyft
+16,20.5,2.79,1.0,Uber,Black
+18,34.0,4.64,1.25,Lyft,Lux
+21,7.5,1.22,1.0,Uber,UberX
+8,13.5,1.72,1.0,Lyft,Lyft XL
+20,8.5,1.04,1.0,Uber,UberX
+13,8.5,1.81,1.0,Uber,UberX
+23,12.0,3.61,1.0,Uber,UberPool
+6,22.5,3.08,1.0,Lyft,Lux
+17,33.0,2.86,1.0,Uber,Black SUV
+1,7.5,1.16,1.0,Uber,UberPool
+4,13.5,1.13,1.0,Lyft,Lux
+12,5.0,0.74,1.0,Lyft,Shared
+19,16.5,0.48,1.0,Lyft,Lux Black
+11,25.0,3.45,1.0,Uber,Black
+9,16.5,2.33,1.0,Lyft,Lux
+16,5.0,1.08,1.0,Lyft,Shared
+2,10.5,3.44,1.0,Uber,WAV
+15,13.5,1.32,1.0,Lyft,Lux
+18,7.0,1.54,1.0,Lyft,Shared
+13,10.5,1.0,1.0,Uber,UberXL
+2,15.5,0.56,1.0,Uber,Black
+8,15.0,4.74,1.0,Uber,WAV
+12,29.5,2.79,1.0,Uber,Black SUV
+23,10.0,3.53,1.0,Uber,UberPool
+9,10.5,1.25,1.0,Lyft,Lyft XL
+16,10.5,2.15,1.0,Lyft,Lyft
+1,27.5,2.31,1.0,Lyft,Lux Black XL
+13,27.0,1.57,1.0,Uber,Black SUV
+20,19.0,3.79,1.0,Uber,UberXL
+9,16.0,1.5,1.0,Uber,UberXL
+14,47.5,5.42,1.0,Lyft,Lux Black XL
+17,9.5,1.81,1.0,Uber,UberX
+9,26.5,1.56,1.0,Uber,Black SUV
+2,17.5,2.88,1.0,Uber,UberXL
+20,31.5,2.48,1.0,Uber,Black SUV
+18,7.0,1.72,1.0,Lyft,Shared
+0,38.5,4.45,1.0,Lyft,Lux Black XL
+9,32.5,3.84,1.0,Lyft,Lux Black
+22,11.0,4.42,1.0,Uber,UberPool
+22,22.5,2.95,1.0,Lyft,Lux
+10,8.0,2.48,1.0,Uber,WAV
+14,16.5,1.45,1.0,Lyft,Lux Black
+10,8.0,1.51,1.0,Uber,WAV
+23,27.5,2.5,1.0,Uber,Black SUV
+18,6.5,1.23,1.0,Uber,UberPool
+4,3.5,4.21,1.0,Lyft,Shared
+7,9.5,2.32,1.0,Uber,UberX
+21,9.5,2.72,1.0,Uber,UberX
+2,16.5,2.61,1.0,Lyft,Lyft XL
+19,7.5,1.35,1.0,Uber,UberX
+7,7.0,1.43,1.0,Lyft,Lyft
+3,7.0,2.62,1.0,Lyft,Shared
+20,7.0,0.82,1.0,Uber,WAV
+10,29.5,2.84,1.0,Uber,Black SUV
+18,11.0,1.27,1.0,Lyft,Lyft XL
+12,16.5,0.72,1.0,Lyft,Lux Black
+6,10.5,3.32,1.0,Lyft,Lyft
+0,19.5,3.08,1.0,Lyft,Lux
+16,8.5,1.41,1.0,Uber,WAV
+3,27.5,1.04,1.0,Uber,Black SUV
+20,10.5,2.84,1.0,Uber,UberX
+8,16.5,2.49,1.0,Lyft,Lyft XL
+10,9.5,2.44,1.0,Uber,WAV
+20,16.5,1.99,1.0,Lyft,Lyft XL
+12,16.5,1.26,1.0,Lyft,Lux Black
+16,16.5,2.99,1.0,Lyft,Lyft XL
+15,15.0,1.56,1.0,Uber,Black
+3,12.0,1.23,1.0,Uber,UberXL
+13,9.0,3.04,1.0,Uber,UberPool
+19,7.0,1.13,1.0,Lyft,Lyft
+13,8.0,1.76,1.0,Uber,UberPool
+4,16.5,1.26,1.0,Lyft,Lux Black
+9,13.5,1.08,1.0,Lyft,Lux
+22,19.5,2.3,1.0,Lyft,Lux
+13,22.0,2.14,1.0,Uber,Black
+22,22.5,2.65,1.0,Lyft,Lux Black
+2,11.0,1.01,1.0,Lyft,Lyft XL
+2,7.0,0.54,1.0,Lyft,Lyft
+14,27.5,2.31,1.0,Lyft,Lux Black
+14,10.0,3.05,1.0,Uber,UberPool
+15,16.5,2.61,1.0,Lyft,Lyft XL
+16,10.0,2.84,1.0,Uber,UberPool
+3,9.5,2.25,1.0,Uber,WAV
+20,7.5,1.56,1.0,Uber,UberPool
+17,20.5,2.03,1.0,Uber,Black
+2,42.5,2.92,1.25,Lyft,Lux Black XL
+19,16.5,2.95,1.5,Lyft,Lyft
+7,7.5,0.61,1.0,Uber,WAV
+14,9.0,2.82,1.0,Uber,WAV
+10,16.0,2.84,1.0,Uber,UberXL
+0,7.5,1.61,1.0,Uber,UberPool
+19,16.5,3.13,1.0,Lyft,Lyft XL
+19,7.0,1.05,1.0,Lyft,Lyft
+20,10.0,2.62,1.0,Uber,UberPool
+5,30.5,2.27,1.0,Uber,Black SUV
+12,3.0,1.13,1.0,Lyft,Shared
+20,16.5,2.87,1.0,Lyft,Lyft XL
+11,7.0,1.0,1.0,Lyft,Lyft
+17,8.0,1.5,1.0,Uber,UberX
+5,10.5,3.45,1.0,Uber,WAV
+23,7.5,1.21,1.0,Uber,UberX
+11,5.0,1.04,1.0,Lyft,Shared
+18,5.5,0.72,1.0,Uber,UberPool
+17,7.5,0.8,1.0,Uber,UberPool
+3,16.5,1.64,1.0,Uber,Black
+13,17.0,1.35,1.0,Uber,Black
+17,3.0,2.57,1.0,Lyft,Shared
+16,7.5,1.34,1.0,Uber,WAV
+9,14.0,3.0,1.0,Uber,UberX
+11,40.5,4.72,1.0,Uber,Black SUV
+14,10.5,3.07,1.0,Lyft,Lyft
+16,26.0,0.55,1.0,Uber,Black SUV
+10,10.5,2.66,1.0,Uber,UberX
+10,11.0,2.8,1.0,Uber,UberPool
+6,16.5,2.44,1.0,Lyft,Lux
+8,10.5,1.46,1.0,Uber,WAV
+10,5.0,3.15,1.0,Lyft,Shared
+17,27.5,1.57,1.0,Uber,Black SUV
+14,13.5,1.47,1.0,Lyft,Lux
+4,8.0,1.71,1.0,Uber,UberPool
+0,26.5,1.8,1.0,Uber,Black SUV
+16,10.5,1.36,1.0,Lyft,Lyft XL
+7,47.5,2.18,1.5,Lyft,Lux Black XL
+19,10.5,1.25,1.0,Lyft,Lyft XL
+17,16.5,1.08,1.0,Lyft,Lux Black
+13,16.5,1.79,1.0,Lyft,Lux
+0,10.5,1.09,1.0,Lyft,Lyft XL
+17,7.0,2.44,1.0,Lyft,Shared
+1,7.5,2.14,1.0,Uber,UberPool
+17,26.0,2.29,1.0,Lyft,Lux Black
+0,9.5,2.32,1.0,Uber,UberX
+17,19.5,3.06,1.0,Lyft,Lux
+3,22.5,1.72,2.0,Lyft,Lyft XL
+5,27.5,1.35,1.0,Uber,Black SUV
+21,26.0,1.03,1.0,Lyft,Lux Black XL
+23,11.0,3.3,1.0,Uber,UberX
+2,13.5,4.34,1.0,Lyft,Lyft
+10,7.5,1.03,1.0,Uber,UberX
+9,10.5,2.56,1.0,Uber,UberX
+10,13.5,1.78,1.0,Uber,UberXL
+22,12.0,3.29,1.0,Uber,UberX
+5,9.5,3.04,1.0,Uber,UberX
+16,7.0,0.39,1.0,Uber,UberX
+20,18.5,3.39,1.0,Uber,UberXL
+21,9.0,2.75,1.0,Lyft,Lyft
+21,22.5,2.95,1.0,Lyft,Lux Black
+8,26.0,1.16,1.0,Uber,Black SUV
+4,22.5,2.75,1.0,Lyft,Lux Black
+18,26.0,3.05,1.0,Uber,Black
+2,26.0,4.48,1.25,Lyft,Lyft XL
+19,19.5,2.79,1.0,Lyft,Lux
+3,28.0,7.46,1.0,Uber,UberXL
+2,5.0,0.94,1.0,Lyft,Shared
+12,32.5,3.03,1.0,Lyft,Lux Black XL
+18,27.5,1.71,1.0,Lyft,Lux Black XL
+9,8.5,1.8,1.0,Uber,UberPool
+17,9.0,3.04,1.0,Uber,UberPool
+21,10.5,2.28,1.0,Lyft,Lyft
+18,13.0,1.41,1.0,Uber,UberXL
+5,8.0,3.22,1.0,Uber,UberPool
+13,10.0,3.01,1.0,Uber,UberPool
+13,26.0,3.16,1.0,Uber,Black
+20,9.0,3.16,1.0,Lyft,Lyft
+23,16.5,0.72,1.0,Lyft,Lux Black
+22,7.0,0.8,1.0,Uber,WAV
+20,16.5,2.81,1.0,Lyft,Lyft XL
+22,24.0,2.84,1.0,Uber,Black
+18,22.5,3.41,1.0,Lyft,Lux
+6,13.5,1.22,1.0,Lyft,Lyft XL
+19,10.5,2.62,1.0,Uber,UberX
+16,7.5,1.41,1.0,Uber,UberPool
+13,27.5,3.19,1.0,Lyft,Lux Black
+16,16.5,1.2,1.0,Lyft,Lux Black
+9,27.5,0.71,1.0,Lyft,Lux Black XL
+15,11.5,4.78,1.0,Uber,UberPool
+15,7.0,1.35,1.0,Uber,WAV
+14,10.5,3.01,1.0,Lyft,Lyft
+16,12.0,0.55,1.0,Uber,UberXL
+17,9.0,1.53,1.0,Lyft,Shared
+15,8.0,1.61,1.0,Uber,UberPool
+6,26.0,1.72,1.0,Lyft,Lux Black XL
+0,10.0,4.48,1.0,Uber,UberPool
+15,13.5,1.36,1.0,Uber,UberXL
+23,7.0,3.82,1.0,Lyft,Shared
+23,27.0,0.63,1.0,Uber,Black SUV
+4,12.5,4.48,1.0,Uber,UberX
+8,31.5,1.8,1.0,Uber,Black SUV
+12,16.5,2.99,1.0,Lyft,Lyft XL
+12,7.0,0.65,1.0,Lyft,Lyft
+14,7.5,2.84,1.0,Uber,UberPool
+20,8.5,2.2,1.0,Uber,WAV
+0,16.5,3.06,1.0,Lyft,Lyft XL
+6,27.5,2.48,1.0,Uber,Black SUV
+6,19.5,1.92,1.0,Uber,Black
+3,5.0,1.09,1.0,Lyft,Shared
+3,39.0,4.53,1.0,Uber,Black SUV
+7,16.5,0.76,1.0,Lyft,Lux Black
+5,9.5,0.65,1.0,Uber,UberXL
+11,9.5,2.79,1.0,Uber,UberX
+11,31.5,2.72,1.0,Uber,Black SUV
+2,42.5,3.46,1.5,Lyft,Lux Black
+16,19.5,2.82,1.0,Lyft,Lux
+17,3.5,0.73,1.0,Lyft,Shared
+18,13.5,1.53,1.0,Lyft,Lux
+7,11.0,2.66,1.0,Uber,WAV
+12,13.5,2.85,1.0,Lyft,Lyft XL
+0,16.5,2.4,1.0,Lyft,Lux
+9,26.0,2.95,1.0,Lyft,Lux Black
+13,9.0,1.9,1.0,Uber,UberPool
+16,13.5,1.24,1.0,Lyft,Lux
+6,10.5,0.99,1.0,Uber,UberXL
+20,22.5,1.54,1.0,Lyft,Lux Black
+7,37.5,4.44,1.0,Uber,UberXL
+20,9.0,0.46,1.0,Lyft,Lyft XL
+12,16.5,0.44,1.0,Lyft,Lux Black
+1,26.0,1.25,1.0,Uber,Black SUV
+1,16.5,1.48,1.0,Lyft,Lux Black
+0,16.5,1.23,1.0,Lyft,Lux Black
+22,13.5,2.35,1.0,Lyft,Lyft XL
+17,7.0,0.73,1.0,Lyft,Lyft
+2,9.0,2.81,1.0,Lyft,Lyft
+9,8.0,2.58,1.0,Uber,UberPool
+21,10.5,1.45,1.75,Lyft,Lyft
+1,19.5,2.46,1.0,Uber,Black
+21,10.5,3.05,1.0,Lyft,Lyft
+0,8.0,1.41,1.0,Uber,WAV
+8,22.5,2.63,1.0,Lyft,Lux Black
+23,16.5,0.71,1.0,Lyft,Lux Black
+15,5.0,1.23,1.0,Lyft,Shared
+0,10.5,0.82,1.0,Uber,UberXL
+8,38.5,3.2,1.0,Lyft,Lux Black XL
+0,22.0,2.67,1.0,Uber,Black
+13,16.5,1.95,1.0,Lyft,Lux
+19,7.5,0.92,1.0,Uber,WAV
+4,30.0,2.14,1.0,Lyft,Lux Black XL
+7,15.0,2.27,1.0,Uber,UberXL
+7,16.0,1.21,1.0,Uber,Black
+4,16.5,2.87,1.0,Lyft,Lyft XL
+23,17.0,2.84,1.0,Uber,UberXL
+9,16.5,2.66,1.0,Lyft,Lyft XL
+14,32.5,3.0,1.0,Lyft,Lux Black XL
+1,37.0,3.3,1.0,Uber,Black SUV
+7,9.0,1.74,1.0,Lyft,Lyft
+7,32.5,3.08,1.0,Lyft,Lux Black XL
+15,7.5,1.41,1.0,Uber,UberPool
+8,10.5,0.56,1.0,Uber,UberXL
+22,34.0,2.58,1.0,Lyft,Lux Black XL
+15,13.5,1.55,1.0,Lyft,Lyft XL
+10,27.5,1.96,1.5,Lyft,Lux Black
+12,16.5,0.69,1.0,Lyft,Lux Black
+15,8.0,1.34,1.0,Uber,WAV
+21,19.5,2.25,1.0,Lyft,Lux
+16,7.0,0.72,1.0,Uber,WAV
+5,15.5,2.32,1.0,Uber,UberXL
+4,22.5,2.44,1.0,Lyft,Lux Black
+1,27.0,1.46,1.0,Uber,Black SUV
+1,11.5,3.08,1.0,Uber,UberX
+23,13.0,3.39,1.0,Uber,WAV
+15,16.5,2.66,1.0,Lyft,Lyft XL
+2,16.5,2.56,1.0,Uber,UberXL
+23,5.0,1.51,1.0,Lyft,Shared
+7,9.0,1.39,1.0,Lyft,Lyft
+3,19.5,2.82,1.0,Lyft,Lux
+0,22.5,4.53,1.0,Lyft,Lyft XL
+19,19.5,2.88,1.0,Lyft,Lux
+23,27.5,3.49,1.0,Lyft,Lux Black
+13,5.0,1.86,1.0,Lyft,Shared
+10,7.5,0.72,1.0,Uber,UberX
+1,3.0,0.69,1.0,Lyft,Shared
+6,12.5,4.48,1.0,Uber,WAV
+11,34.0,4.4,1.0,Uber,Black
+20,27.5,1.04,1.0,Uber,Black SUV
+13,11.0,0.57,1.0,Lyft,Lux
+15,7.0,1.08,1.0,Lyft,Lyft
+10,26.0,0.71,1.0,Lyft,Lux Black XL
+13,13.5,1.19,1.0,Lyft,Lux
+21,8.0,2.32,1.0,Uber,WAV
+4,22.5,1.77,1.0,Lyft,Lux Black
+10,16.5,0.68,1.5,Lyft,Lux
+0,17.0,2.61,1.0,Uber,UberXL
+12,3.0,4.54,1.0,Lyft,Shared
+16,13.0,3.85,1.0,Uber,WAV
+15,15.5,1.64,1.0,Uber,Black
+10,10.5,1.89,1.0,Uber,UberX
+18,27.5,3.21,1.0,Lyft,Lux Black
+8,9.5,2.38,1.0,Uber,WAV
+8,26.0,3.06,1.0,Lyft,Lux Black
+21,34.0,4.55,1.0,Lyft,Lux Black
+9,19.0,2.01,1.0,Uber,Black
+23,34.0,3.04,1.0,Uber,Black SUV
+21,17.0,2.29,1.0,Uber,UberPool
+22,27.5,3.5,1.0,Lyft,Lux Black
+3,20.5,2.79,1.0,Uber,Black
+11,7.0,2.14,1.0,Lyft,Shared
+17,33.0,2.84,1.0,Uber,Black SUV
+19,27.5,2.52,1.0,Lyft,Lux Black
+16,7.0,2.83,1.0,Lyft,Shared
+11,13.5,1.46,1.0,Lyft,Lux
+2,5.0,1.26,1.0,Lyft,Shared
+11,3.0,1.07,1.0,Lyft,Shared
+10,10.5,0.53,1.0,Lyft,Lux
+7,22.5,2.27,1.0,Uber,Black
+23,22.0,2.63,1.0,Uber,Black
+21,8.5,1.11,1.0,Uber,UberX
+18,26.0,2.94,1.0,Lyft,Lux Black
+4,10.0,3.04,1.0,Uber,UberPool
+2,27.5,2.61,1.0,Uber,Black SUV
+15,11.0,2.58,1.0,Uber,UberPool
+10,22.5,2.34,1.0,Lyft,Lux Black
+5,27.5,1.49,1.0,Lyft,Lux Black XL
+15,9.5,2.14,1.0,Uber,UberX
+23,26.0,1.39,1.0,Lyft,Lux Black XL
+14,8.0,0.61,1.0,Uber,UberX
+17,23.5,1.97,1.0,Uber,UberXL
+15,7.0,2.4,1.0,Lyft,Shared
+17,19.5,3.2,1.0,Uber,UberXL
+16,9.5,1.8,1.0,Uber,WAV
+5,30.0,3.08,1.0,Lyft,Lux Black
+2,14.0,5.56,1.0,Uber,WAV
+8,7.0,2.86,1.0,Lyft,Shared
+5,22.5,3.19,2.0,Lyft,Lyft
+14,12.5,1.56,1.0,Uber,UberXL
+16,9.0,2.05,1.0,Lyft,Lyft
+2,26.0,1.49,1.0,Lyft,Lux Black XL
+7,8.5,1.25,1.0,Uber,UberX
+16,19.5,2.31,1.0,Lyft,Lux
+12,11.0,0.76,1.0,Lyft,Lux
+17,27.5,0.91,1.0,Uber,Black SUV
+1,9.0,1.85,1.0,Lyft,Lyft
+21,3.5,0.67,1.0,Lyft,Shared
+16,10.5,1.74,1.0,Lyft,Lyft
+6,16.0,2.44,1.0,Uber,UberXL
+15,30.0,2.4,1.0,Lyft,Lux Black XL
+7,9.0,1.07,1.0,Lyft,Lyft XL
+1,23.0,2.66,1.0,Uber,Black
+19,27.5,0.63,1.0,Uber,Black SUV
+20,10.5,3.06,1.0,Lyft,Lyft
+23,23.5,5.7,1.0,Uber,UberXL
+20,47.0,7.46,1.0,Uber,Black SUV
+2,9.0,2.42,1.0,Lyft,Lyft
+14,18.0,3.01,1.0,Uber,UberXL
+18,10.5,2.46,1.0,Uber,WAV
+3,9.0,0.65,1.25,Lyft,Lyft
+11,32.5,2.16,1.0,Lyft,Lux Black XL
+17,22.5,3.22,1.0,Lyft,Lux
+5,10.5,1.07,1.0,Uber,UberXL
+4,9.0,1.55,1.0,Lyft,Lyft
+16,9.0,4.57,1.0,Uber,UberPool
+2,26.0,0.63,1.0,Uber,Black SUV
+0,16.5,2.2,1.0,Uber,UberXL
+9,27.5,1.21,1.0,Uber,Black SUV
+18,7.5,2.46,1.0,Uber,UberPool
+22,12.0,4.48,1.0,Uber,WAV
+14,10.5,4.37,1.0,Lyft,Shared
+13,31.5,2.66,1.0,Uber,Black SUV
+21,10.5,0.77,1.0,Lyft,Lux
+17,16.5,1.73,1.0,Lyft,Lux
+9,34.0,2.8,1.0,Lyft,Lux Black XL
+13,8.0,1.81,1.0,Uber,WAV
+6,38.5,4.55,1.0,Lyft,Lux Black XL
+5,24.0,2.8,1.0,Uber,Black
+8,13.5,1.73,1.0,Lyft,Lyft XL
+15,26.0,1.47,1.0,Lyft,Lux Black XL
+10,5.0,0.54,1.0,Lyft,Shared
+12,22.5,1.8,1.0,Lyft,Lux Black
+23,32.5,3.68,1.0,Lyft,Lux Black
+9,16.5,2.43,1.0,Lyft,Lux
+19,5.5,0.92,1.0,Uber,UberPool
+3,8.5,1.58,1.0,Uber,UberX
+16,5.0,4.39,1.0,Lyft,Shared
+17,8.5,1.41,1.0,Uber,WAV
+0,9.0,0.44,1.0,Lyft,Lyft XL
+4,34.0,3.26,1.0,Lyft,Lux Black XL
+3,9.5,1.64,1.0,Uber,UberX
+17,7.0,2.34,1.0,Lyft,Shared
+22,10.5,1.25,1.0,Uber,UberXL
+21,19.5,2.27,1.0,Lyft,Lux
+23,9.5,2.72,1.0,Uber,WAV
+20,7.5,1.56,1.0,Uber,WAV
+16,17.0,3.3,1.0,Uber,UberXL
+2,16.5,3.22,1.0,Lyft,Lyft XL
+23,8.0,3.07,1.0,Uber,UberPool
+15,16.5,0.48,1.0,Lyft,Lux Black
+9,9.0,0.99,1.0,Lyft,Lyft XL
+9,16.0,0.92,1.0,Uber,Black
+12,16.5,3.31,1.0,Lyft,Lyft XL
+23,29.0,2.48,1.0,Uber,Black SUV
+12,11.5,3.44,1.0,Uber,UberPool
+5,22.5,2.37,1.0,Lyft,Lux Black
+7,8.5,2.43,1.0,Uber,UberX
+6,13.5,1.1,1.0,Lyft,Lux
+8,16.5,2.11,1.0,Lyft,Lux
+7,8.0,2.27,1.0,Uber,UberPool
+14,25.0,4.72,1.0,Uber,UberXL
+22,9.5,3.15,1.0,Uber,UberX
+0,27.5,1.17,1.0,Lyft,Lux Black XL
+20,27.5,3.43,1.0,Lyft,Lux Black
+12,8.0,1.92,1.0,Uber,UberPool
+16,11.0,3.1,1.0,Lyft,Lyft
+6,5.0,2.44,1.0,Lyft,Shared
+10,19.5,2.2,1.0,Lyft,Lux
+17,9.5,1.22,1.0,Uber,UberX
+15,18.0,3.04,1.0,Uber,UberXL
+2,29.0,2.58,1.0,Uber,Black SUV
+13,10.5,4.64,1.0,Lyft,Shared
+21,26.0,0.99,1.0,Lyft,Lux Black XL
+5,11.0,1.9,1.0,Uber,UberX
+14,7.0,1.22,1.0,Lyft,Lyft
+14,27.5,3.25,1.0,Lyft,Lux Black
+7,16.5,1.53,1.0,Lyft,Lux
+11,16.5,2.98,1.0,Uber,UberXL
+23,27.5,2.11,1.0,Lyft,Lux Black XL
+5,16.5,1.53,1.0,Lyft,Lux
+8,11.0,3.25,1.0,Lyft,Lyft
+14,9.0,5.29,1.0,Lyft,Shared
+4,11.0,3.16,1.0,Uber,UberX
+14,24.0,3.39,1.0,Uber,WAV
+10,11.5,2.58,1.0,Uber,UberX
+15,5.0,2.53,1.0,Lyft,Shared
+16,26.0,0.47,1.0,Lyft,Lux Black XL
+8,9.5,3.34,1.0,Uber,UberX
+17,8.5,1.61,1.0,Uber,UberX
+17,14.0,3.37,1.0,Uber,UberX
+21,23.0,3.15,1.0,Uber,Black
+19,16.5,2.31,1.0,Lyft,Lyft XL
+16,32.5,3.0,1.0,Lyft,Lux Black XL
+18,9.0,2.44,1.0,Lyft,Lyft
+7,33.0,6.26,1.0,Uber,Black
+9,9.5,2.86,1.0,Uber,UberX
+21,10.0,3.21,1.0,Uber,UberPool
+11,13.5,1.46,1.0,Lyft,Lux
+2,47.5,5.7,1.0,Uber,Black SUV
+1,9.5,2.72,1.0,Uber,UberX
+22,18.5,2.73,1.0,Uber,UberXL
+18,19.5,3.21,1.0,Lyft,Lyft XL
+23,7.0,1.05,1.0,Lyft,Lyft
+22,17.5,2.2,1.0,Uber,UberX
+0,17.5,3.04,1.0,Uber,UberXL
+20,9.0,3.48,1.0,Lyft,Shared
+10,29.5,4.48,1.0,Uber,UberXL
+5,9.5,1.76,1.0,Uber,UberPool
+1,17.5,2.84,1.0,Uber,UberXL
+14,7.0,0.49,1.0,Uber,UberX
+7,8.5,2.17,1.0,Uber,UberX
+16,30.0,2.01,1.0,Lyft,Lux Black XL
+23,16.5,1.08,1.0,Lyft,Lux Black
+13,19.5,2.57,1.0,Lyft,Lux
+8,30.5,1.96,1.0,Uber,Black SUV
+23,32.5,2.94,1.0,Lyft,Lux Black XL
+8,7.0,0.39,1.0,Uber,WAV
+3,26.0,0.57,1.0,Lyft,Lux Black XL
+21,3.0,1.46,1.0,Lyft,Shared
+20,16.0,1.57,1.0,Uber,Black
+16,10.5,1.72,1.0,Lyft,Lyft
+12,10.0,3.41,1.0,Uber,UberPool
+4,3.5,0.45,1.0,Lyft,Shared
+20,5.0,3.12,1.0,Lyft,Shared
+23,7.0,2.28,1.0,Lyft,Shared
+18,10.0,2.54,1.0,Uber,UberPool
+1,7.0,0.49,1.0,Uber,WAV
+10,26.0,1.57,1.0,Uber,Black SUV
+9,36.0,4.42,1.0,Uber,Black SUV
+4,22.5,2.66,1.0,Lyft,Lux Black
+23,8.0,1.89,1.0,Uber,UberPool
+12,10.5,0.76,1.0,Lyft,Lyft XL
+0,7.0,3.04,1.0,Lyft,Shared
+9,27.5,5.36,1.0,Lyft,Lux
+10,7.0,0.76,1.0,Lyft,Lyft
+11,19.5,3.3,1.0,Lyft,Lyft XL
+5,42.5,4.48,1.0,Uber,Black SUV
+20,9.0,3.3,1.0,Uber,UberPool
+13,36.0,5.56,1.0,Uber,Black
+12,10.5,3.15,1.0,Uber,UberX
+19,28.0,2.19,1.0,Uber,Black SUV
+18,9.5,2.48,1.0,Uber,WAV
+23,22.5,3.21,1.0,Lyft,Lux
+1,7.5,2.58,1.0,Uber,UberPool
+6,17.0,1.44,1.0,Uber,Black
+10,28.5,2.81,1.0,Uber,Black SUV
+1,9.0,1.53,1.0,Lyft,Lyft
+14,16.5,1.76,1.0,Lyft,Lux
+0,16.5,3.21,1.0,Lyft,Lyft XL
+17,10.5,1.15,1.0,Lyft,Lyft XL
+8,8.5,2.17,1.0,Uber,WAV
+7,9.0,2.75,1.0,Lyft,Shared
+5,9.0,0.73,1.0,Lyft,Lyft XL
+11,6.5,2.79,1.0,Uber,UberPool
+13,29.5,2.61,1.0,Uber,Black SUV
+11,10.5,2.25,1.0,Uber,WAV
+10,21.5,1.89,1.0,Uber,Black
+5,16.5,1.55,1.0,Lyft,Lux
+4,16.5,2.0,1.0,Lyft,Lux
+0,18.5,3.07,1.0,Uber,UberXL
+2,8.5,1.08,1.0,Uber,UberX
+18,19.5,3.15,1.0,Lyft,Lux
+23,7.0,3.13,1.0,Lyft,Shared
+23,9.5,1.57,1.0,Uber,WAV
+22,38.0,3.22,1.5,Lyft,Lux Black
+17,7.0,1.02,1.0,Lyft,Lyft
+11,8.5,2.32,1.0,Uber,WAV
+9,7.0,2.83,1.0,Lyft,Shared
+4,32.0,3.04,1.0,Uber,Black SUV
+10,7.0,3.06,1.0,Lyft,Shared
+22,5.5,0.39,1.0,Uber,UberPool
+12,14.0,2.27,1.0,Uber,UberXL
+0,34.0,1.37,1.25,Lyft,Lux Black XL
+11,27.0,1.25,1.0,Uber,Black SUV
+1,10.5,3.35,1.0,Lyft,Lyft
+5,19.5,3.12,1.0,Lyft,Lux
+22,24.0,3.53,1.0,Uber,Black
+7,10.5,2.96,1.0,Uber,WAV
+10,9.5,0.56,1.0,Uber,UberXL
+20,26.0,1.02,1.0,Lyft,Lux Black XL
+18,19.5,2.16,1.0,Lyft,Lux
+6,10.5,3.07,1.0,Lyft,Lyft
+15,13.5,1.43,1.0,Lyft,Lux
+15,8.5,1.18,1.0,Uber,WAV
+18,26.0,3.2,1.0,Lyft,Lux Black
+0,28.0,2.48,1.0,Uber,Black SUV
+9,16.0,1.25,1.0,Uber,Black
+14,19.5,2.62,1.0,Lyft,Lyft XL
+15,11.5,1.89,1.0,Uber,WAV
+6,37.0,2.93,1.0,Uber,Black SUV
+16,20.5,2.45,1.0,Uber,Black
+14,9.0,1.35,1.0,Uber,UberPool
+1,6.5,0.61,1.0,Uber,UberPool
+11,7.0,1.64,1.0,Uber,UberPool
+15,8.5,1.61,1.0,Uber,UberPool
+22,9.0,2.61,1.0,Lyft,Shared
+16,55.0,3.07,1.75,Lyft,Lux Black
+5,7.5,0.72,1.0,Uber,UberX
+4,30.0,2.0,1.0,Lyft,Lux Black XL
+22,7.0,0.99,1.0,Uber,WAV
+6,7.0,0.74,1.0,Lyft,Lyft
+1,30.0,2.47,1.0,Lyft,Lux Black XL
+15,9.5,2.79,1.0,Uber,WAV
+12,13.0,2.34,1.0,Uber,WAV
+4,10.5,2.38,1.0,Lyft,Lyft
+18,33.5,2.8,1.0,Uber,Black SUV
+6,10.0,2.8,1.0,Uber,UberPool
+18,32.5,3.15,1.0,Lyft,Lux Black XL
+4,7.0,3.29,1.0,Lyft,Shared
+11,10.5,1.4,1.0,Uber,WAV
+15,18.5,3.3,1.0,Uber,UberXL
+23,7.0,1.47,1.0,Lyft,Lyft
+17,34.0,2.3,2.0,Lyft,Lux
+0,19.5,3.22,1.0,Uber,UberXL
+15,7.5,2.33,1.0,Uber,UberPool
+0,17.0,1.21,1.0,Uber,Black
+11,12.5,1.41,1.0,Uber,UberXL
+20,11.0,3.8,1.0,Uber,UberX
+11,23.0,2.8,1.0,Uber,Black
+14,9.0,2.32,1.0,Uber,WAV
+18,6.5,1.25,1.0,Uber,UberPool
+10,26.0,0.61,1.0,Lyft,Lux Black XL
+11,7.0,2.14,1.0,Uber,WAV
+10,29.5,2.48,1.0,Uber,Black SUV
+21,13.5,4.7,1.0,Lyft,Lyft
+23,9.0,2.46,1.0,Uber,UberPool
+0,16.5,2.9,1.0,Lyft,Lyft XL
+8,16.5,1.08,1.0,Lyft,Lux Black
+18,19.5,2.05,1.0,Lyft,Lux Black
+19,8.5,2.38,1.0,Uber,UberPool
+19,30.5,2.58,1.0,Uber,Black SUV
+21,27.5,4.58,1.0,Lyft,Lux
+15,11.5,4.4,1.0,Uber,UberPool
+6,34.0,2.88,1.0,Uber,Black SUV
+23,16.0,2.66,1.0,Uber,UberXL
+20,26.0,0.62,1.0,Uber,Black SUV
+11,30.0,5.37,1.25,Lyft,Lyft XL
+3,16.0,0.56,1.0,Uber,Black
+8,9.5,2.72,1.0,Uber,UberX
+13,19.5,3.37,1.0,Lyft,Lux
+0,13.5,1.64,1.0,Lyft,Lux
+13,22.5,3.05,1.0,Uber,Black
+3,7.0,0.67,1.0,Uber,WAV
+17,11.0,1.07,1.0,Lyft,Lyft XL
+23,9.0,1.1,1.0,Uber,UberX
+12,9.5,2.66,1.0,Uber,WAV
+22,13.5,4.79,1.0,Lyft,Lyft
+10,10.5,3.0,1.0,Lyft,Lyft
+5,10.5,1.22,1.0,Uber,UberXL
+4,27.5,1.06,1.0,Lyft,Lux Black XL
+11,65.0,5.2,1.5,Lyft,Lux Black XL
+4,8.5,1.44,1.0,Uber,UberX
+6,7.5,1.61,1.0,Uber,UberPool
+22,26.0,3.04,1.0,Lyft,Lux Black
+11,13.0,1.64,1.0,Uber,UberXL
+21,9.0,2.52,1.0,Lyft,Lyft
+11,5.5,0.56,1.0,Uber,UberPool
+15,17.5,3.2,1.0,Uber,UberXL
+14,16.0,3.07,1.0,Uber,UberXL
+8,34.0,3.08,1.0,Uber,Black SUV
+17,10.5,0.69,1.0,Lyft,Lyft XL
+15,13.5,3.67,1.0,Lyft,Lyft
+0,14.0,4.76,1.0,Uber,WAV
+20,9.5,1.28,1.0,Uber,WAV
+18,15.0,0.49,1.0,Uber,Black
+19,10.5,0.46,1.0,Lyft,Lux
+10,29.5,1.61,1.0,Uber,Black SUV
+5,11.0,1.1,1.0,Lyft,Lyft XL
+20,7.0,3.26,1.0,Lyft,Shared
+23,16.0,0.91,1.0,Uber,Black
+11,16.0,2.14,1.0,Uber,UberXL
+7,10.0,4.72,1.0,Uber,UberPool
+9,9.5,1.5,1.0,Uber,UberX
+4,16.5,1.17,1.0,Lyft,Lux Black
+10,16.0,2.67,1.0,Uber,UberXL
+1,9.0,2.32,1.0,Uber,UberPool
+5,27.5,2.38,1.0,Lyft,Lux Black XL
+1,16.5,1.41,1.0,Lyft,Lux Black
+22,18.5,1.64,1.0,Uber,Black
+18,11.0,2.56,1.0,Lyft,Lyft
+16,5.0,4.69,1.0,Lyft,Shared
+18,27.5,0.58,1.0,Uber,Black SUV
+1,38.5,3.22,1.0,Lyft,Lux Black XL
+11,26.0,1.44,1.0,Lyft,Lux Black XL
+11,14.0,1.3,1.0,Uber,UberXL
+11,13.0,5.56,1.0,Uber,UberX
+14,7.5,0.49,1.0,Uber,UberPool
+16,14.0,1.6,1.0,Uber,UberXL
+11,7.0,1.11,1.0,Lyft,Lyft
+12,11.0,2.42,1.0,Lyft,Lyft
+1,19.5,3.04,1.0,Lyft,Lyft XL
+22,15.5,1.63,1.0,Uber,UberXL
+6,10.5,3.08,1.0,Uber,UberX
+10,20.5,2.72,1.0,Uber,Black
+19,3.5,1.1,1.0,Lyft,Shared
+4,11.5,3.39,1.0,Uber,WAV
+15,14.0,4.55,1.0,Uber,WAV
+4,19.5,2.5,1.0,Lyft,Lux
+18,38.5,4.35,1.0,Lyft,Lux Black XL
+18,7.5,0.61,1.0,Uber,WAV
+15,39.0,4.4,1.0,Uber,Black SUV
+1,55.0,2.69,1.75,Lyft,Lux Black XL
+23,9.0,3.01,1.0,Lyft,Shared
+18,28.5,2.14,1.0,Uber,Black SUV
+3,14.0,1.56,1.0,Uber,UberXL
+21,11.5,1.25,1.0,Uber,UberXL
+22,27.5,0.64,1.0,Lyft,Lux Black XL
+0,7.0,1.06,1.0,Lyft,Lyft
+17,38.0,3.22,1.0,Lyft,Lux Black XL
+20,8.5,0.62,1.0,Uber,UberX
+20,38.5,3.08,1.0,Lyft,Lux Black XL
+4,31.5,3.42,1.0,Uber,Black SUV
+14,38.5,3.0,1.0,Lyft,Lux Black XL
+17,32.5,2.47,1.0,Lyft,Lux Black XL
+1,26.0,2.62,1.0,Lyft,Lux Black
+3,16.5,2.58,1.0,Lyft,Lux
+21,13.5,1.51,1.0,Lyft,Lyft XL
+3,24.0,5.7,1.0,Uber,UberXL
+15,8.5,1.3,1.0,Uber,WAV
+2,16.5,2.92,1.0,Lyft,Lyft XL
+3,11.0,0.58,1.0,Uber,UberXL
+4,16.5,2.37,1.0,Lyft,Lux
+16,12.0,1.61,1.0,Uber,WAV
+13,11.0,3.31,1.0,Lyft,Lyft
+17,7.0,4.62,1.0,Lyft,Shared
+11,10.5,3.11,1.0,Lyft,Lyft
+14,16.5,1.74,1.0,Lyft,Lux
+9,27.5,2.43,1.5,Lyft,Lux
+16,27.5,1.46,1.0,Uber,Black SUV
+6,22.0,3.72,1.0,Uber,UberXL
+0,9.5,0.58,1.0,Uber,UberXL
+18,32.5,3.23,1.0,Lyft,Lux Black XL
+20,12.0,4.55,1.0,Uber,UberX
+2,27.5,1.52,1.0,Lyft,Lux Black XL
+9,13.5,2.39,1.0,Lyft,Lyft XL
+10,13.5,2.98,1.0,Uber,WAV
+18,5.0,1.75,1.0,Lyft,Shared
+12,11.0,1.4,1.0,Lyft,Lyft XL
+22,19.5,1.97,1.0,Lyft,Lux
+9,16.5,2.54,1.0,Lyft,Lyft XL
+17,16.5,2.09,1.0,Lyft,Lux
+1,7.5,1.02,1.0,Uber,WAV
+15,10.5,2.62,1.0,Uber,UberX
+3,32.5,2.44,1.0,Lyft,Lux Black XL
+16,32.5,2.98,1.0,Uber,Black SUV
+20,26.0,1.42,1.0,Lyft,Lux Black XL
+19,16.5,1.76,1.0,Lyft,Lyft XL
+19,3.0,1.02,1.0,Lyft,Shared
+17,17.5,3.39,1.0,Uber,UberXL
+0,19.5,2.75,1.0,Uber,UberXL
+12,16.5,1.47,1.25,Lyft,Lux
+10,27.0,2.66,1.0,Uber,Black SUV
+9,7.0,2.39,1.0,Lyft,Shared
+14,26.0,0.59,1.0,Lyft,Lux Black XL
+1,5.0,1.45,1.0,Lyft,Shared
+17,32.5,2.88,1.0,Lyft,Lux Black XL
+19,22.5,4.33,1.0,Lyft,Lyft XL
+14,22.5,3.03,1.0,Lyft,Lux Black
+15,30.5,0.54,1.0,Uber,Black SUV
+21,9.5,2.27,1.0,Uber,UberX
+19,11.5,2.84,1.0,Uber,UberX
+11,51.5,7.46,1.0,Uber,Black SUV
+5,38.5,2.1,1.5,Lyft,Lux Black XL
+5,9.0,1.95,1.0,Lyft,Lyft
+14,9.0,3.28,1.0,Lyft,Shared
+9,9.5,1.71,1.0,Uber,UberX
+14,10.0,4.74,1.0,Uber,UberPool
+16,29.5,4.48,1.0,Uber,Black
+5,19.5,1.32,1.0,Lyft,Lux Black
+4,11.0,3.07,1.0,Uber,WAV
+23,15.0,1.34,1.0,Uber,Black
+1,55.0,4.79,1.25,Lyft,Lux Black XL
+12,22.5,3.46,1.0,Lyft,Lux
+2,9.0,1.73,1.0,Lyft,Lyft
+13,13.5,3.47,1.25,Lyft,Lyft
+7,27.5,3.19,1.0,Lyft,Lux Black
+11,9.0,3.23,1.0,Lyft,Shared
+15,16.5,0.58,1.0,Lyft,Lux Black
+12,13.0,4.48,1.0,Uber,WAV
+13,26.5,1.34,1.0,Uber,Black SUV
+8,13.5,1.73,1.0,Lyft,Lyft XL
+5,20.5,2.32,1.0,Uber,Black
+0,27.5,3.08,1.0,Lyft,Lux Black
+4,26.0,3.07,1.0,Lyft,Lux Black
+14,10.0,2.8,1.0,Uber,UberPool
+8,9.5,1.41,1.0,Uber,WAV
+11,9.5,2.46,1.0,Uber,UberX
+23,7.0,2.13,1.0,Lyft,Shared
+11,27.5,0.76,1.0,Lyft,Lux Black XL
+19,16.5,0.53,1.0,Lyft,Lux Black
+16,22.5,1.68,1.0,Lyft,Lux Black
+2,27.0,0.54,1.0,Uber,Black SUV
+11,10.5,3.05,1.0,Uber,UberX
+6,30.0,3.41,1.0,Lyft,Lux Black
+0,27.5,1.35,1.0,Uber,Black SUV
+17,5.5,1.05,1.0,Uber,UberPool
+21,22.0,2.98,1.0,Uber,Black
+16,32.5,2.69,1.0,Lyft,Lux Black XL
+18,7.0,1.5,1.0,Lyft,Lyft
+20,15.0,1.41,1.0,Uber,UberXL
+3,34.0,3.05,1.0,Uber,Black SUV
+20,27.0,3.3,1.0,Uber,Black
+12,13.5,1.08,1.0,Lyft,Lux
+21,16.5,2.74,1.0,Lyft,Lyft XL
+15,26.0,0.56,1.0,Uber,Black SUV
+4,7.0,1.07,1.0,Lyft,Lyft
+3,11.0,3.3,1.0,Uber,UberPool
+18,30.5,2.48,1.0,Uber,Black SUV
+1,10.0,3.29,1.0,Uber,UberPool
+16,16.5,3.13,1.0,Lyft,Lyft XL
+20,13.0,4.57,1.0,Uber,UberX
+6,29.5,4.55,1.0,Uber,Black
+18,11.0,3.21,1.0,Lyft,Shared
+17,23.0,3.39,1.0,Uber,Black
+2,19.5,3.07,1.0,Lyft,Lux
+0,22.5,1.84,1.0,Lyft,Lux Black
+0,9.5,2.27,1.0,Uber,WAV
+20,16.5,2.13,1.0,Lyft,Lyft XL
+22,6.5,0.56,1.0,Uber,UberPool
+18,18.5,3.04,1.0,Uber,UberXL
+2,11.5,2.15,1.0,Uber,WAV
+0,11.0,0.56,1.0,Lyft,Lux
+7,28.5,2.61,1.0,Uber,Black SUV
+23,27.5,1.48,1.0,Lyft,Lux Black XL
+17,17.0,3.42,1.0,Uber,UberXL
+0,10.5,1.85,1.0,Uber,WAV
+17,9.0,2.32,1.0,Lyft,Lyft
+5,26.5,1.0,1.0,Uber,Black SUV
+8,16.0,2.86,1.0,Uber,UberXL
+3,16.5,3.13,1.0,Lyft,Lyft XL
+6,16.5,1.28,1.0,Lyft,Lux Black
+4,34.5,2.98,1.0,Uber,Black SUV
+0,33.0,2.66,1.0,Uber,Black SUV
+7,9.5,2.98,1.0,Uber,UberX
+3,17.0,1.64,1.0,Uber,Black
+15,16.5,2.43,1.0,Lyft,Lyft XL
+16,13.0,2.2,1.0,Uber,UberPool
+17,8.5,1.79,1.0,Uber,WAV
+21,12.5,3.07,1.0,Uber,UberPool
+10,19.5,2.66,1.0,Lyft,Lux
+23,7.0,0.73,1.0,Lyft,Lyft
+6,13.5,1.18,1.0,Lyft,Lux
+8,38.0,3.71,1.0,Lyft,Lux Black XL
+9,18.5,2.48,1.0,Uber,Black
+17,19.5,2.27,1.0,Uber,Black
+6,10.5,2.44,1.0,Lyft,Lyft
+8,22.5,3.13,1.0,Lyft,Lux
+19,19.5,1.41,1.0,Lyft,Lux Black
+4,13.5,2.08,1.0,Lyft,Lyft XL
+1,9.0,3.39,1.0,Uber,UberPool
+14,10.5,2.66,1.0,Uber,WAV
+1,16.5,0.44,1.0,Lyft,Lux Black
+11,10.5,0.64,2.0,Lyft,Lyft
+16,11.5,1.21,1.0,Uber,UberXL
+22,8.5,2.27,1.0,Uber,WAV
+6,11.5,2.66,1.0,Uber,UberX
+1,26.0,1.28,1.0,Lyft,Lux Black XL
+9,7.0,2.82,1.0,Lyft,Shared
+0,29.0,1.68,1.0,Uber,Black SUV
+23,9.0,2.84,1.0,Lyft,Lyft
+9,8.5,1.34,1.0,Uber,WAV
+19,8.5,2.82,1.0,Uber,UberX
+0,20.5,4.42,1.0,Uber,UberXL
+5,16.5,3.18,1.0,Lyft,Lyft XL
+14,9.5,1.3,1.0,Uber,UberX
+0,22.5,2.63,1.0,Lyft,Lux Black
+6,19.5,2.14,1.0,Uber,Black
+19,28.5,1.8,1.0,Uber,Black SUV
+2,28.5,2.17,1.0,Uber,Black SUV
+1,9.0,3.79,1.0,Lyft,Shared
+12,13.5,1.53,1.0,Lyft,Lyft XL
+12,7.5,1.22,1.0,Uber,UberPool
+7,27.5,0.74,1.0,Lyft,Lux Black XL
+4,5.5,1.25,1.0,Uber,UberPool
+11,14.0,3.37,1.0,Uber,UberX
+4,29.5,2.79,1.0,Uber,Black SUV
+22,20.5,2.48,1.0,Uber,Black
+12,32.5,4.52,1.0,Lyft,Lux Black
+15,15.0,2.72,1.0,Uber,UberXL
+5,28.5,2.61,1.0,Uber,Black SUV
+22,25.0,1.64,1.0,Uber,Black SUV
+0,31.5,2.66,1.0,Uber,Black SUV
+7,10.5,2.14,1.0,Uber,WAV
+13,8.0,1.25,1.0,Uber,WAV
+14,27.5,3.21,1.0,Lyft,Lux Black
+17,25.0,3.16,1.0,Uber,UberX
+3,16.0,1.34,1.0,Uber,Black
+9,22.5,4.53,1.0,Lyft,Lyft XL
+19,20.5,2.32,1.0,Uber,Black
+23,10.5,3.05,1.0,Uber,UberX
+10,19.5,2.49,1.0,Lyft,Lux
+9,7.5,1.25,1.0,Uber,WAV
+14,14.0,1.64,1.0,Uber,Black
+5,13.5,2.08,1.0,Lyft,Lyft XL
+1,14.0,2.3,1.0,Uber,UberXL
+1,19.5,2.93,2.0,Lyft,Lyft
+11,13.5,5.34,1.0,Lyft,Lyft
+4,13.0,1.61,1.0,Uber,UberXL
+11,8.0,1.96,1.0,Uber,UberPool
+22,7.0,1.19,1.0,Lyft,Lyft
+16,7.0,3.27,1.0,Lyft,Shared
+17,7.0,1.0,1.0,Uber,UberX
+4,7.5,1.05,1.0,Uber,UberX
+22,19.5,2.42,1.0,Lyft,Lux Black
+7,9.5,1.45,1.0,Uber,UberX
+4,8.5,1.35,1.0,Uber,UberPool
+8,45.5,0.46,1.75,Lyft,Lux Black XL
+23,16.5,0.58,1.0,Lyft,Lux Black
+2,16.0,5.56,1.0,Uber,WAV
+15,5.0,1.58,1.0,Lyft,Shared
+20,14.0,1.41,1.0,Uber,UberXL
+4,16.5,1.72,1.0,Lyft,Lux
+15,7.5,1.23,1.0,Uber,UberX
+21,20.5,2.32,1.0,Uber,Black
+7,22.5,4.53,1.0,Lyft,Lyft XL
+9,7.5,1.04,1.0,Uber,UberPool
+10,14.0,1.65,1.0,Uber,UberXL
+0,16.0,7.46,1.0,Uber,UberX
+6,38.5,3.48,1.0,Lyft,Lux Black XL
+22,39.5,4.42,1.0,Uber,Black SUV
+17,30.0,2.16,1.0,Lyft,Lux Black XL
+11,11.0,2.68,1.0,Uber,WAV
+11,11.5,1.8,1.0,Uber,UberPool
+23,22.5,2.79,1.0,Uber,Black
+6,8.5,3.96,1.0,Uber,UberPool
+14,9.0,1.71,1.0,Uber,UberPool
+10,15.0,2.27,1.0,Uber,UberXL
+0,19.5,2.18,1.0,Lyft,Lux Black
+11,16.5,2.07,1.0,Lyft,Lux
+17,36.5,5.56,1.0,Uber,Black
+1,7.0,1.23,1.0,Uber,UberX
+15,9.5,3.01,1.0,Uber,UberPool
+14,10.5,2.5,1.0,Lyft,Shared
+17,8.0,1.5,1.0,Uber,UberPool
+8,26.0,2.15,1.0,Lyft,Lux Black XL
+8,34.0,2.67,1.0,Lyft,Lux Black XL
+16,26.0,0.63,1.0,Lyft,Lux Black XL
+19,26.0,1.08,1.0,Uber,Black SUV
+0,22.5,1.49,1.25,Lyft,Lux Black
+2,13.5,3.08,1.0,Uber,UberPool
+18,16.5,1.72,1.0,Lyft,Lux
+3,10.5,2.84,1.0,Uber,WAV
+7,16.0,3.01,1.0,Uber,UberX
+17,13.5,4.43,1.0,Lyft,Lyft
+9,7.5,1.61,1.0,Uber,UberX
+10,22.5,0.58,1.25,Lyft,Lux Black
+15,38.5,4.42,1.0,Lyft,Lux Black
+10,8.5,1.79,1.0,Uber,UberPool
+19,9.0,2.84,1.0,Lyft,Lyft
+3,7.5,1.97,1.0,Uber,UberPool
+18,3.5,1.49,1.0,Lyft,Shared
+8,26.5,1.56,1.0,Uber,Black SUV
+8,11.0,2.94,1.25,Lyft,Lyft
+14,13.5,1.55,1.0,Lyft,Lyft XL
+2,42.5,3.07,2.0,Lyft,Lux
+13,22.5,2.22,1.0,Lyft,Lux Black
+13,13.5,1.37,1.0,Lyft,Lux
+22,7.0,1.52,1.0,Lyft,Lyft
+14,7.5,2.48,1.0,Uber,UberPool
+12,13.5,2.49,1.0,Lyft,Lyft XL
+2,17.0,1.34,1.0,Uber,Black
+16,7.5,1.36,1.0,Uber,UberPool
+16,7.5,1.35,1.0,Uber,WAV
+7,22.5,2.37,1.0,Lyft,Lux Black
+23,7.0,1.07,1.0,Uber,UberPool
+3,51.5,3.3,1.0,Uber,Black SUV
+6,13.5,1.74,1.0,Lyft,Lyft XL
+15,11.0,2.85,1.0,Lyft,Lyft
+1,26.5,3.01,1.0,Uber,Black
+3,19.5,2.03,1.0,Lyft,Lux
+5,10.5,1.08,1.0,Lyft,Lyft XL
+8,14.0,1.35,1.0,Uber,UberXL
+9,16.5,2.37,1.0,Lyft,Lyft XL
+17,14.5,1.5,1.0,Uber,UberXL
+10,7.0,2.82,1.0,Lyft,Shared
+22,16.5,2.66,1.0,Lyft,Lux
+11,7.0,1.22,1.0,Uber,UberX
+21,26.0,1.22,1.0,Lyft,Lux Black XL
+0,7.5,1.0,1.0,Uber,UberPool
+11,26.5,1.34,1.0,Uber,Black SUV
+17,16.5,2.98,1.0,Lyft,Lyft XL
+10,16.0,1.57,1.0,Uber,Black
+13,13.5,1.14,1.0,Lyft,Lux
+20,9.5,2.31,1.0,Uber,UberPool
+18,5.0,5.41,1.0,Lyft,Shared
+18,8.0,1.23,1.0,Uber,UberPool
+5,17.5,1.61,1.0,Uber,Black
+22,18.5,2.34,1.0,Uber,UberXL
+3,26.0,1.03,1.0,Lyft,Lux Black XL
+6,16.5,2.46,1.0,Lyft,Lux
+15,3.0,0.95,1.0,Lyft,Shared
+5,25.0,1.56,1.0,Uber,Black SUV
+15,16.5,1.51,1.0,Lyft,Lyft XL
+14,7.0,0.8,1.0,Uber,WAV
+14,29.5,1.97,1.0,Uber,Black SUV
+13,7.5,0.6,1.0,Uber,UberPool
+18,16.5,1.23,1.0,Lyft,Lux Black
+9,11.0,3.55,1.0,Lyft,Lyft
+1,31.0,2.04,1.0,Uber,Black SUV
+4,11.0,0.59,1.0,Lyft,Lyft XL
+23,10.0,1.84,1.0,Uber,UberPool
+0,11.0,2.68,1.25,Lyft,Lyft
+0,27.5,1.37,1.0,Lyft,Lux Black XL
+11,9.0,3.14,1.0,Lyft,Shared
+2,11.5,0.62,1.0,Uber,UberXL
+14,29.5,1.78,1.0,Uber,Black SUV
+17,9.5,2.51,1.0,Uber,WAV
+11,20.5,2.86,1.0,Uber,Black
+10,27.5,3.44,1.0,Lyft,Lux Black
+13,19.5,1.54,1.0,Lyft,Lux Black
+5,10.5,1.06,1.0,Lyft,Lux
+19,10.5,1.3,1.0,Lyft,Lyft XL
+21,27.5,1.36,1.0,Uber,Black SUV
+13,9.5,0.65,1.0,Uber,UberXL
+20,13.5,1.22,1.0,Lyft,Lux
+0,38.5,3.35,1.0,Lyft,Lux Black XL
+18,27.5,3.01,1.0,Lyft,Lux Black
+7,16.5,2.38,1.0,Lyft,Lux
+21,8.0,2.19,1.0,Uber,UberPool
+20,7.0,2.22,1.0,Lyft,Shared
+16,31.5,1.96,1.0,Uber,Black SUV
+22,22.5,2.43,1.0,Lyft,Lux Black
+8,22.5,2.94,1.25,Lyft,Lyft XL
+11,7.0,0.49,1.0,Uber,UberX
+1,10.5,1.34,1.0,Uber,UberX
+23,20.5,2.84,1.0,Uber,Black
+22,11.0,0.6,1.0,Lyft,Lux
+19,9.0,0.46,1.25,Lyft,Lyft
+15,7.0,1.57,1.0,Uber,WAV
+6,11.5,0.92,1.0,Uber,UberXL
+15,7.0,2.58,1.0,Uber,UberPool
+1,19.5,1.86,1.0,Lyft,Lux Black
+14,7.0,2.75,1.0,Lyft,Shared
+9,33.0,2.98,1.0,Uber,Black SUV
+23,11.5,2.32,1.0,Uber,WAV
+17,16.5,2.81,1.0,Uber,UberXL
+19,26.0,1.27,1.0,Lyft,Lux Black XL
+9,22.5,3.3,1.0,Lyft,Lux
+15,13.5,1.25,1.0,Uber,UberXL
+5,32.0,2.61,1.0,Uber,Black SUV
+9,13.0,2.45,1.0,Uber,WAV
+9,7.0,1.0,1.0,Lyft,Lyft
+6,5.0,4.61,1.0,Lyft,Shared
+12,19.5,1.54,1.0,Lyft,Lux Black
+16,26.0,1.12,1.0,Lyft,Lux Black XL
+18,29.5,2.17,1.0,Uber,Black SUV
+3,42.5,4.48,1.0,Lyft,Lux Black XL
+21,38.5,7.46,1.0,Uber,Black
+15,16.0,2.66,1.0,Uber,UberXL
+5,27.5,1.94,1.0,Lyft,Lux Black XL
+13,7.5,1.22,1.0,Uber,UberPool
+7,7.0,0.65,1.0,Lyft,Lyft
+18,22.5,2.79,1.0,Uber,Black
+20,7.0,1.5,1.0,Lyft,Lyft
+18,22.5,4.18,1.0,Lyft,Lyft XL
+0,32.0,4.55,1.0,Uber,Black
+18,15.0,7.34,1.0,Uber,UberX
+19,45.5,5.42,1.0,Lyft,Lux Black XL
+8,7.5,2.37,1.0,Uber,UberPool
+18,27.5,0.39,1.0,Uber,Black SUV
+15,13.5,1.14,1.0,Lyft,Lux
+17,8.5,1.04,1.0,Uber,UberPool
+18,27.5,1.72,1.25,Lyft,Lux Black
+13,7.0,2.04,1.0,Lyft,Shared
+11,17.0,2.58,1.0,Uber,WAV
+11,8.0,1.94,1.0,Uber,WAV
+2,9.5,2.37,1.0,Uber,UberPool
+21,26.0,1.06,1.0,Lyft,Lux Black XL
+23,27.5,1.43,1.0,Lyft,Lux Black XL
+4,16.5,2.56,1.0,Lyft,Lux
+2,8.5,1.57,1.0,Uber,WAV
+18,13.5,2.27,1.0,Lyft,Lyft XL
+8,31.5,2.79,1.0,Uber,Black SUV
+6,17.0,1.36,1.0,Uber,Black
+9,9.0,2.04,1.0,Lyft,Lyft
+7,27.5,0.68,1.0,Uber,Black SUV
+9,26.5,1.41,1.0,Uber,Black SUV
+10,22.5,1.8,1.0,Lyft,Lux Black
+0,15.5,0.99,1.0,Uber,Black
+22,13.5,2.41,1.0,Lyft,Lyft XL
+4,30.0,2.25,1.0,Uber,Black SUV
+1,17.0,2.52,1.0,Uber,UberXL
+16,38.5,3.27,1.25,Lyft,Lux Black
+15,9.5,1.62,1.0,Uber,UberX
+6,8.5,1.79,1.0,Uber,UberX
+1,16.5,2.86,1.0,Uber,UberXL
+11,17.0,3.22,1.0,Uber,UberXL
+6,11.0,0.66,1.25,Lyft,Lyft XL
+22,9.5,2.66,1.0,Uber,WAV
+18,22.5,2.66,1.0,Uber,Black
+1,9.5,2.66,1.0,Uber,UberPool
+6,10.5,3.3,1.0,Lyft,Lyft
+9,9.0,2.23,1.0,Lyft,Lyft
+2,14.0,2.48,1.0,Uber,UberXL
+21,16.5,1.01,1.0,Lyft,Lux Black
+20,11.0,3.61,1.0,Uber,UberPool
+12,13.5,3.22,1.0,Lyft,Lyft
+2,17.0,2.62,1.0,Uber,UberXL
+13,9.0,1.8,1.0,Uber,UberX
+20,30.0,3.28,1.0,Lyft,Lux Black
+19,7.0,1.46,1.0,Lyft,Shared
+6,7.0,0.49,1.0,Uber,UberX
+6,9.0,2.62,1.0,Uber,UberPool
+9,34.0,3.14,1.25,Lyft,Lux Black
+14,34.0,2.94,1.0,Lyft,Lux Black XL
+20,30.5,2.66,1.0,Uber,Black SUV
+23,9.5,1.62,1.0,Uber,WAV
+1,17.0,1.4,1.0,Uber,Black
+9,10.5,2.8,1.0,Lyft,Lyft
+6,8.5,1.34,1.0,Uber,UberX
+11,17.5,1.36,1.0,Uber,Black
+20,8.5,1.57,1.0,Uber,UberX
+20,13.5,3.44,1.0,Lyft,Lyft
+21,9.5,2.29,1.0,Uber,UberX
+7,7.0,1.17,1.0,Lyft,Lyft
+17,18.5,1.61,1.0,Uber,Black
+12,31.5,3.08,1.0,Uber,Black SUV
+14,16.5,2.45,1.0,Lyft,Lux
+21,13.5,1.25,1.0,Lyft,Lux
+18,13.5,1.69,1.0,Lyft,Lux
+23,10.5,2.33,1.0,Lyft,Lyft
+3,27.5,3.26,1.0,Lyft,Lux Black
+14,26.0,0.67,1.0,Lyft,Lux Black XL
+3,47.5,1.33,1.5,Lyft,Lux Black XL
+18,22.0,4.72,1.0,Uber,UberXL
+14,16.5,1.38,1.0,Lyft,Lux Black
+20,18.5,3.07,1.0,Uber,UberXL
+17,9.0,2.71,1.0,Uber,UberPool
+15,11.0,2.88,1.0,Lyft,Lyft
+23,7.0,1.46,1.0,Uber,UberPool
+11,9.5,2.84,1.0,Uber,WAV
+5,13.5,1.11,1.0,Uber,UberXL
+1,14.5,1.08,1.0,Uber,Black
+9,16.5,0.97,1.0,Lyft,Lux Black
+12,16.5,1.28,1.25,Lyft,Lux
+6,9.0,2.72,1.0,Uber,UberPool
+12,26.0,3.47,1.0,Lyft,Lux Black
+6,25.0,4.43,1.0,Uber,UberXL
+10,17.5,1.35,1.0,Uber,Black
+3,26.0,0.65,1.0,Lyft,Lux Black XL
+22,8.5,2.27,1.0,Uber,WAV
+1,9.5,2.79,1.0,Uber,UberX
+12,32.5,1.34,1.25,Lyft,Lux Black XL
+16,13.5,2.31,1.0,Lyft,Lyft XL
+8,11.0,0.99,1.0,Uber,UberXL
+10,11.0,1.2,1.0,Lyft,Lyft XL
+20,7.0,0.99,1.0,Uber,WAV
+15,27.5,3.16,1.0,Lyft,Lux Black
+6,23.0,1.89,1.0,Uber,Black
+20,52.5,3.22,1.75,Lyft,Lux Black
+8,30.0,2.42,1.0,Lyft,Lux Black XL
+22,9.0,3.3,1.0,Uber,UberPool
+7,22.5,2.46,1.25,Lyft,Lyft XL
+15,10.0,3.79,1.0,Uber,UberPool
+10,27.5,3.26,1.0,Lyft,Lux Black
+11,9.0,1.3,1.0,Uber,UberX
+17,19.5,2.89,1.0,Lyft,Lux
+12,18.5,3.05,1.0,Uber,UberXL
+12,7.0,4.25,1.0,Lyft,Shared
+17,13.5,2.94,1.0,Uber,UberPool
+15,15.0,1.16,1.0,Uber,UberXL
+0,10.0,2.32,1.0,Uber,UberX
+4,18.0,2.8,1.0,Uber,UberXL
+5,42.5,4.53,1.0,Lyft,Lux Black XL
+10,22.5,1.86,1.0,Lyft,Lux Black
+4,9.0,1.72,1.0,Uber,WAV
+1,45.5,4.29,1.0,Lyft,Lux Black XL
+12,11.0,1.12,1.0,Lyft,Lyft XL
+20,15.0,1.35,1.0,Uber,UberXL
+16,16.5,0.89,1.0,Lyft,Lux Black
+14,16.0,2.37,1.0,Uber,UberXL
+9,27.5,1.07,1.0,Lyft,Lux Black XL
+11,32.5,2.93,1.0,Lyft,Lux Black XL
+22,7.5,1.16,1.0,Uber,UberX
+22,27.5,2.47,1.0,Lyft,Lux Black XL
+11,15.0,1.89,1.0,Uber,UberXL
+7,7.0,1.8,1.0,Lyft,Shared
+10,16.5,1.76,1.0,Lyft,Lyft XL
+19,13.5,1.73,1.0,Lyft,Lux
+14,27.5,1.28,1.0,Lyft,Lux Black XL
+13,19.5,2.29,1.0,Lyft,Lux
+1,36.0,2.33,1.0,Uber,UberXL
+20,22.5,2.36,1.0,Lyft,Lux Black
+12,8.5,1.57,1.0,Uber,UberPool
+20,26.0,0.72,1.0,Uber,Black SUV
+23,15.5,0.54,1.0,Uber,Black
+1,22.5,3.27,1.0,Lyft,Lux
+8,7.5,2.32,1.0,Uber,UberPool
+19,10.5,2.7,1.0,Lyft,Lyft
+1,33.5,3.01,1.0,Uber,Black SUV
+17,6.5,0.39,1.0,Uber,UberPool
+14,30.0,2.46,1.0,Lyft,Lux Black XL
+10,7.5,0.72,1.0,Uber,UberPool
+20,9.0,2.67,1.0,Uber,UberPool
+2,34.0,3.04,1.0,Uber,Black SUV
+16,27.5,1.1,1.0,Lyft,Lux Black XL
+12,8.5,1.68,1.0,Uber,WAV
+12,21.0,2.58,1.0,Uber,Black
+19,31.5,2.66,1.0,Uber,Black SUV
+17,14.0,2.48,1.0,Uber,UberXL
+19,13.5,1.74,1.0,Lyft,Lux
+0,9.5,3.05,1.0,Uber,UberPool
+22,13.5,4.12,1.0,Lyft,Lyft
+7,9.0,0.39,1.0,Uber,UberPool
+20,17.0,2.79,1.0,Uber,UberXL
+10,7.0,1.77,1.0,Lyft,Shared
+1,19.0,2.29,1.0,Uber,Black
+11,16.5,2.37,1.25,Lyft,Lyft XL
+11,19.5,1.54,1.0,Lyft,Lux Black
+11,19.5,2.72,1.0,Uber,UberXL
+14,7.0,1.08,1.0,Uber,UberX
+18,11.0,1.39,1.0,Lyft,Lyft XL
+14,11.5,0.55,1.0,Uber,UberXL
+2,10.5,3.02,1.0,Lyft,Lyft
+15,19.5,2.17,1.0,Lyft,Lux Black
+3,16.5,2.38,1.0,Lyft,Lyft XL
+7,31.0,1.89,1.0,Uber,Black SUV
+14,27.5,1.22,1.0,Lyft,Lux Black XL
+20,55.0,3.06,1.75,Lyft,Lux Black XL
+12,10.5,3.07,1.0,Uber,WAV
+9,9.0,2.43,1.0,Lyft,Lyft
+5,27.5,0.58,1.0,Lyft,Lux Black XL
+17,11.0,2.57,1.0,Lyft,Lyft
+6,26.0,2.71,1.0,Lyft,Lux Black
+8,55.0,7.46,1.0,Uber,Black SUV
+22,11.0,1.13,1.0,Lyft,Lyft XL
+4,9.0,3.08,1.0,Uber,UberPool
+11,16.5,2.51,1.0,Lyft,Lux
+16,9.0,1.35,1.0,Uber,UberPool
+13,31.5,4.42,1.0,Uber,Black
+2,5.0,0.61,1.0,Lyft,Shared
+11,9.5,2.86,1.0,Uber,WAV
+12,8.5,0.39,1.0,Uber,WAV
+17,10.5,3.2,1.0,Lyft,Lyft
+20,9.5,3.39,1.0,Uber,UberX
+15,16.5,0.63,1.0,Lyft,Lux Black
+0,10.0,3.05,1.0,Uber,UberPool
+11,5.0,1.43,1.0,Lyft,Shared
+14,9.0,1.75,1.0,Lyft,Lyft
+19,3.0,1.28,1.0,Lyft,Shared
+4,10.0,2.3,1.0,Uber,UberPool
+12,8.5,1.21,1.0,Uber,UberX
+2,13.5,2.82,1.0,Lyft,Lyft
+3,32.5,3.19,1.25,Lyft,Lux Black
+18,15.0,0.58,1.0,Uber,Black
+2,26.0,2.14,1.0,Lyft,Lux Black
+6,19.5,2.45,1.0,Uber,UberXL
+4,11.0,1.04,1.0,Lyft,Lyft XL
+22,23.5,3.2,1.0,Uber,Black
+18,19.5,4.4,1.0,Uber,UberXL
+0,7.0,1.25,1.0,Uber,UberX
+10,10.5,2.12,1.0,Uber,UberX
+2,16.5,0.77,1.0,Lyft,Lux Black
+22,9.0,4.67,1.0,Lyft,Shared
+18,13.5,1.53,1.0,Lyft,Lux
+16,9.5,0.91,1.0,Uber,UberX
+10,36.0,4.73,1.0,Uber,Black SUV
+6,11.5,3.3,1.0,Uber,UberX
+3,10.5,3.52,1.0,Lyft,Lyft
+23,22.5,2.72,1.0,Lyft,Lux Black
+19,34.0,3.17,1.0,Lyft,Lux Black XL
+7,7.0,0.92,1.0,Uber,UberX
+11,11.5,1.22,1.0,Uber,UberXL
+14,38.5,2.93,1.0,Lyft,Lux Black XL
+18,25.0,3.16,1.0,Uber,WAV
+15,18.5,7.46,1.0,Uber,UberX
+21,35.0,3.05,1.0,Uber,Black SUV
+10,11.0,0.54,1.0,Uber,UberXL
+14,26.0,1.25,1.0,Lyft,Lux Black XL
+9,7.0,0.74,1.0,Lyft,Lyft
+15,9.0,0.53,1.0,Lyft,Lyft XL
+4,8.0,1.04,1.0,Uber,UberPool
+8,21.5,2.32,1.0,Uber,Black
+14,22.0,2.62,1.0,Uber,UberXL
+18,25.0,1.64,1.0,Uber,Black SUV
+23,8.0,1.7,1.0,Uber,UberX
+18,10.5,0.99,1.0,Uber,UberXL
+13,32.5,3.02,1.5,Lyft,Lyft XL
+6,10.5,2.88,1.0,Lyft,Lyft
+0,18.0,1.1,1.0,Uber,Black
+22,29.5,2.46,1.0,Uber,Black SUV
+13,8.5,2.98,1.0,Uber,UberPool
+0,8.5,1.84,1.0,Uber,WAV
+15,15.0,0.72,1.0,Uber,Black
+1,9.0,2.32,1.0,Uber,WAV
+12,38.5,3.31,1.0,Lyft,Lux Black XL
+16,26.0,3.17,1.0,Lyft,Lux Black
+5,16.5,3.07,1.0,Lyft,Lyft XL
+20,26.0,0.61,1.0,Lyft,Lux Black XL
+15,30.5,2.5,1.0,Uber,Black SUV
+22,9.5,0.56,1.0,Uber,UberXL
+11,10.5,1.79,1.0,Uber,UberX
+13,29.5,2.62,1.0,Uber,Black SUV
+18,16.5,3.06,1.0,Lyft,Lyft XL
+2,12.0,2.17,1.0,Uber,WAV
+10,36.0,3.01,1.0,Uber,Black SUV
+15,9.0,0.62,1.0,Lyft,Lyft XL
+6,22.5,2.43,1.0,Lyft,Lux Black
+18,8.5,2.66,1.0,Uber,UberPool
+2,3.0,2.16,1.0,Lyft,Shared
+11,13.0,1.79,1.0,Uber,UberXL
+22,9.0,1.79,1.0,Lyft,Lyft
+14,9.0,2.48,1.0,Uber,WAV
+23,19.5,3.07,1.0,Lyft,Lux
+1,22.5,4.66,1.0,Lyft,Lyft XL
+0,7.0,3.1,1.0,Lyft,Shared
+0,27.5,1.11,1.0,Lyft,Lux Black XL
+23,11.0,3.48,1.0,Lyft,Lyft
+19,16.5,1.43,1.25,Lyft,Lux
+23,22.5,3.1,1.0,Lyft,Lux
+16,7.5,1.18,1.0,Uber,UberPool
+0,7.0,0.56,1.0,Lyft,Lyft
+6,20.5,2.03,1.0,Uber,Black
+8,13.5,1.07,1.0,Lyft,Lyft XL
+8,11.5,1.21,1.0,Uber,UberXL
+7,7.5,2.14,1.0,Uber,WAV
+22,10.5,3.01,1.0,Uber,UberX
+18,27.5,2.62,1.0,Uber,Black SUV
+12,33.0,2.98,1.0,Uber,Black SUV
+11,16.5,3.52,1.5,Lyft,Lyft
+1,16.5,1.13,1.0,Lyft,Lux Black
+4,17.5,1.3,1.0,Uber,Black
+14,20.5,1.68,1.0,Uber,Black
+19,5.0,1.4,1.0,Lyft,Shared
+2,30.5,2.48,1.0,Uber,Black SUV
+17,13.5,1.95,1.0,Lyft,Lyft XL
+22,19.5,2.02,1.0,Lyft,Lux
+7,33.0,3.04,1.0,Uber,Black SUV
+23,32.5,2.36,1.0,Lyft,Lux Black XL
+9,7.0,1.34,1.0,Lyft,Lyft
+17,7.0,2.1,1.0,Lyft,Shared
+11,16.5,1.77,1.0,Lyft,Lux
+19,8.5,3.04,1.0,Uber,WAV
+5,7.0,1.08,1.0,Uber,WAV
+16,13.5,2.72,1.0,Lyft,Lyft XL
+2,10.5,3.47,1.0,Uber,WAV
+6,28.5,1.41,1.0,Uber,Black SUV
+16,18.5,1.3,1.0,Uber,Black
+2,13.5,1.46,1.0,Lyft,Lux
+4,7.0,2.91,1.0,Lyft,Shared
+21,10.5,3.07,1.0,Uber,UberX
+22,34.0,3.04,1.0,Uber,Black SUV
+11,14.5,1.1,1.0,Uber,Black
+12,7.0,0.72,1.0,Uber,UberX
+8,16.5,2.64,1.0,Lyft,Lyft XL
+15,9.0,4.19,1.0,Lyft,Shared
+13,10.0,2.19,1.0,Uber,UberPool
+5,22.5,2.47,1.0,Lyft,Lux Black
+17,8.0,1.28,1.0,Uber,UberX
+17,34.0,3.17,1.0,Lyft,Lux Black XL
+19,24.0,3.3,1.0,Uber,Black
+10,19.5,1.91,1.5,Lyft,Lyft XL
+8,32.5,2.93,1.0,Lyft,Lux Black XL
+11,13.5,1.42,1.0,Lyft,Lux
+1,15.0,0.68,1.0,Uber,Black
+22,13.5,1.46,1.0,Lyft,Lux
+16,17.5,1.57,1.0,Uber,Black
+13,10.5,3.08,1.0,Uber,WAV
+19,11.0,2.66,1.0,Uber,UberPool
+1,16.5,0.43,1.0,Lyft,Lux Black
+3,10.5,3.05,1.0,Lyft,Lyft
+4,19.5,3.23,1.0,Lyft,Lux
+13,32.5,2.47,1.0,Lyft,Lux Black XL
+17,16.5,2.98,1.0,Lyft,Lyft XL
+8,17.0,1.61,1.0,Uber,Black
+2,19.5,3.04,1.0,Lyft,Lux
+13,7.0,1.49,1.0,Lyft,Lyft
+16,14.0,3.1,1.0,Uber,WAV
+9,13.5,1.71,1.0,Lyft,Lyft XL
+11,9.0,3.02,1.0,Lyft,Shared
+4,12.5,1.21,1.0,Uber,UberXL
+10,11.5,1.25,1.0,Uber,UberXL
+9,11.0,0.59,1.0,Lyft,Lux
+1,6.5,0.54,1.0,Uber,UberPool
+22,10.0,3.45,1.0,Uber,UberPool
+16,34.0,3.24,1.0,Lyft,Lux Black XL
+20,8.0,1.72,1.0,Uber,WAV
+3,8.0,1.16,1.0,Uber,UberX
+21,7.0,1.26,1.0,Lyft,Lyft
+22,10.0,4.48,1.0,Uber,UberPool
+20,23.0,1.41,1.0,Uber,Black SUV
+5,37.0,3.18,1.0,Uber,Black SUV
+19,22.5,2.26,1.0,Lyft,Lux Black
+1,13.5,2.27,1.0,Lyft,Lyft XL
+4,22.5,2.14,1.0,Lyft,Lux Black
+1,19.5,4.4,1.0,Uber,UberXL
+10,12.5,3.53,1.0,Uber,WAV
+23,32.5,2.81,1.0,Lyft,Lux Black XL
+3,17.5,1.56,1.0,Uber,Black
+11,13.5,1.48,1.0,Lyft,Lux
+0,15.0,0.39,1.0,Uber,Black
+15,27.5,1.62,1.0,Lyft,Lux Black XL
+0,16.5,2.46,1.0,Lyft,Lux
+18,30.0,2.42,1.0,Lyft,Lux Black XL
+21,13.5,2.43,1.0,Lyft,Lyft XL
+4,16.5,1.46,1.0,Lyft,Lux Black
+11,34.0,3.16,1.0,Lyft,Lux Black XL
+4,11.5,3.01,1.0,Uber,WAV
+4,8.0,1.44,1.0,Uber,UberX
+23,13.5,3.85,1.0,Uber,UberX
+0,26.0,3.15,1.0,Uber,Black
+13,10.0,3.39,1.0,Uber,UberPool
+2,62.5,4.75,2.0,Lyft,Lux Black
+18,34.0,1.74,1.25,Lyft,Lux Black XL
+10,10.5,1.4,1.0,Uber,UberX
+13,13.5,4.48,1.0,Uber,UberX
+10,9.0,2.72,1.0,Uber,UberPool
+18,17.5,3.01,1.0,Uber,UberXL
+20,30.0,4.58,1.0,Lyft,Lux Black
+1,39.0,4.4,1.0,Uber,Black SUV
+8,7.0,2.62,1.0,Lyft,Shared
+1,12.0,1.34,1.0,Uber,UberXL
+8,16.5,2.08,1.0,Lyft,Lux
+21,18.0,2.61,1.0,Uber,UberXL
+13,3.0,0.76,1.0,Lyft,Shared
+14,19.5,2.94,1.0,Lyft,Lux
+15,26.0,0.54,1.0,Uber,Black SUV
+11,27.5,2.37,2.0,Lyft,Lyft XL
+9,38.5,4.52,1.0,Uber,Black SUV
+15,22.5,2.47,1.0,Lyft,Lux Black
+3,13.5,2.42,1.0,Lyft,Lyft XL
+0,26.0,1.21,1.0,Uber,Black SUV
+15,19.5,1.55,1.0,Lyft,Lux Black
+1,8.0,1.44,1.0,Uber,UberPool
+0,7.5,0.55,1.0,Uber,UberPool
+13,22.5,2.08,1.75,Lyft,Lyft XL
+0,27.5,3.26,1.0,Lyft,Lux Black
+15,5.5,0.61,1.0,Uber,UberPool
+15,9.0,3.49,1.0,Lyft,Shared
+16,11.5,1.08,1.0,Uber,UberXL
+23,26.0,5.56,1.0,Uber,UberXL
+18,7.0,1.21,1.0,Uber,UberPool
+23,7.0,1.1,1.0,Lyft,Lyft
+8,10.5,1.05,1.0,Lyft,Lux
+11,22.0,2.32,1.0,Uber,Black
+8,32.5,1.78,1.0,Lyft,Lux Black XL
+0,9.5,3.01,1.0,Uber,UberX
+4,16.5,1.97,1.0,Lyft,Lux
+21,22.5,1.99,1.0,Lyft,Lux Black
+0,38.0,0.6,1.5,Lyft,Lux Black XL
+18,20.5,4.4,1.0,Uber,UberXL
+14,25.0,3.3,1.0,Uber,Black
+1,16.5,2.03,1.0,Lyft,Lyft XL
+17,29.5,4.72,1.0,Uber,Black
+5,11.5,1.22,1.0,Uber,UberXL
+20,10.0,2.8,1.0,Uber,UberPool
+0,13.0,1.56,1.0,Uber,UberXL
+4,38.5,3.3,1.0,Uber,Black SUV
+23,10.5,3.2,1.0,Uber,WAV
+13,15.0,1.03,1.0,Uber,Black
+16,34.0,2.53,2.0,Lyft,Lux
+11,11.5,1.21,1.0,Uber,UberXL
+18,3.5,1.73,1.0,Lyft,Shared
+18,7.5,0.56,1.0,Uber,UberPool
+16,34.0,2.6,1.0,Lyft,Lux Black XL
+11,10.5,2.67,1.0,Lyft,Lyft
+17,22.5,1.34,1.0,Lyft,Lux Black
+10,10.5,2.5,1.0,Uber,UberX
+8,15.0,2.62,1.0,Uber,UberXL
+1,26.0,1.05,1.0,Lyft,Lux Black XL
+7,18.5,3.07,1.0,Uber,UberXL
+5,17.0,1.41,1.0,Uber,UberXL
+3,10.5,3.3,1.0,Lyft,Shared
+18,10.5,1.22,1.0,Lyft,Lyft XL
+8,19.5,1.22,1.0,Lyft,Lux Black
+12,9.0,1.75,1.0,Lyft,Lyft
+22,16.5,1.22,1.0,Lyft,Lux Black
+12,19.5,1.51,1.0,Lyft,Lux Black
+6,19.0,1.8,1.0,Uber,Black
+22,32.5,3.1,1.0,Lyft,Lux Black XL
+6,22.5,3.2,1.0,Lyft,Lux
+17,12.5,1.16,1.0,Uber,UberXL
+2,10.0,3.53,1.0,Uber,UberPool
+0,28.5,1.97,1.0,Uber,Black SUV
+8,23.0,2.8,1.0,Uber,Black
+21,3.5,1.04,1.0,Lyft,Shared
+17,7.0,0.56,1.0,Lyft,Lyft
+12,11.5,2.04,1.0,Uber,WAV
+12,26.0,2.62,1.0,Uber,UberXL
+13,10.5,2.66,1.0,Uber,UberX
+1,9.5,1.57,1.0,Uber,WAV
+1,18.0,1.34,1.0,Uber,Black
+14,22.5,4.64,1.0,Lyft,Lyft XL
+1,12.0,2.48,1.0,Uber,UberX
+7,22.5,2.05,1.0,Lyft,Lux Black
+2,8.0,1.7,1.0,Uber,UberX
+19,13.5,1.97,1.0,Uber,UberXL
+20,15.0,2.61,1.0,Uber,UberXL
+13,21.5,2.32,1.0,Uber,Black
+16,27.5,1.05,1.0,Lyft,Lux Black XL
+16,13.5,1.19,1.0,Lyft,Lux
+21,7.5,1.11,1.0,Uber,UberPool
+10,13.5,1.57,1.0,Lyft,Lux
+9,11.5,4.48,1.0,Uber,UberX
+22,11.0,1.25,1.0,Lyft,Lyft XL
+22,11.0,2.98,1.0,Uber,UberX
+14,9.5,3.04,1.0,Uber,UberX
+8,34.0,3.22,1.0,Uber,Black SUV
+5,26.0,4.58,1.0,Lyft,Lux
+19,39.5,4.55,1.0,Uber,Black SUV
+3,10.5,2.66,1.0,Uber,UberX
+2,11.0,3.44,1.0,Uber,UberPool
+11,10.5,2.84,1.0,Uber,UberX
+2,30.0,2.84,1.0,Lyft,Lux Black
+21,9.0,2.08,1.0,Lyft,Lyft
+1,10.5,3.3,1.0,Uber,UberX
+16,17.5,1.41,1.0,Uber,Black
+17,21.5,2.46,1.0,Uber,Black
+9,7.0,1.12,1.0,Lyft,Lyft
+6,12.5,3.61,1.0,Uber,WAV
+0,13.5,1.76,1.0,Lyft,Lyft XL
+0,27.5,3.19,1.0,Lyft,Lux Black
+18,19.5,2.88,1.0,Lyft,Lux
+12,8.5,1.8,1.0,Uber,UberX
+19,10.0,1.61,1.0,Uber,UberPool
+10,28.5,2.61,1.0,Uber,Black SUV
+21,32.5,3.08,1.0,Lyft,Lux Black XL
+18,6.5,1.25,1.0,Uber,UberPool
+0,22.5,3.45,1.0,Lyft,Lux
+1,10.5,0.91,1.0,Uber,UberXL
+14,10.5,0.48,1.0,Lyft,Lux
+9,5.0,0.95,1.0,Lyft,Shared
+15,7.5,0.56,1.0,Uber,UberX
+16,26.0,1.44,1.0,Lyft,Lux Black XL
+12,15.0,3.96,1.0,Uber,UberX
+6,7.0,1.45,1.0,Lyft,Lyft
+0,10.5,2.84,1.0,Uber,WAV
+3,9.0,2.9,1.0,Lyft,Shared
+14,8.5,2.46,1.0,Uber,WAV
+12,11.0,3.5,1.0,Lyft,Lyft
+7,32.5,2.14,1.0,Lyft,Lux Black XL
+18,12.5,3.51,1.0,Uber,WAV
+21,7.5,1.5,1.0,Uber,WAV
+19,45.5,1.17,1.75,Lyft,Lux Black XL
+18,23.0,1.22,1.0,Uber,Black SUV
+14,8.0,1.64,1.0,Uber,UberX
+22,10.5,1.23,1.0,Lyft,Lyft XL
+10,11.5,1.64,1.0,Uber,UberXL
+13,8.0,2.79,1.0,Uber,UberPool
+6,16.0,2.62,1.0,Uber,UberXL
+16,27.0,3.34,1.0,Uber,Black
+15,7.0,2.84,1.0,Lyft,Shared
+0,28.5,2.8,1.0,Uber,Black SUV
+9,26.5,1.08,1.0,Uber,Black SUV
+13,11.5,3.01,1.0,Uber,UberX
+9,9.5,2.17,1.0,Uber,UberX
+14,8.0,2.04,1.0,Uber,UberPool
+16,7.0,0.75,1.0,Lyft,Lyft
+12,26.0,1.5,1.0,Uber,Black SUV
+1,16.0,1.5,1.0,Uber,Black
+21,11.5,1.34,1.0,Uber,UberXL
+0,9.0,2.64,1.0,Lyft,Shared
+1,10.5,2.79,1.0,Uber,UberX
+8,27.5,5.3,1.0,Lyft,Lyft XL
+11,22.0,2.45,1.0,Uber,Black
+13,19.0,3.3,1.0,Uber,UberXL
+23,19.5,3.06,1.0,Lyft,Lux
+1,8.0,2.14,1.0,Uber,WAV
+17,7.0,1.03,1.0,Uber,WAV
+9,8.5,1.34,1.0,Uber,UberX
+1,13.5,1.15,1.0,Lyft,Lyft XL
+12,9.5,2.37,1.0,Uber,WAV
+12,10.5,2.8,1.0,Uber,WAV
+7,26.0,1.41,1.0,Uber,Black SUV
+13,10.5,0.78,1.0,Lyft,Lyft XL
+8,8.5,1.08,1.0,Uber,UberX
+5,22.5,2.29,1.0,Lyft,Lux Black
+20,38.5,4.4,1.0,Uber,Black SUV
+21,26.5,1.21,1.0,Uber,Black SUV
+4,7.0,0.63,1.0,Uber,WAV
+13,7.0,1.53,1.0,Lyft,Lyft
+22,26.0,2.72,1.0,Lyft,Lux Black
+7,16.0,1.61,1.0,Uber,Black
+10,22.5,1.52,1.0,Lyft,Lux Black
+2,41.5,4.48,1.0,Uber,Black SUV
+16,34.0,3.27,1.0,Lyft,Lux Black XL
+14,8.0,2.14,1.0,Uber,WAV
+1,16.5,2.23,1.0,Lyft,Lux
+8,38.5,3.32,1.0,Uber,Black SUV
+23,32.5,2.8,1.0,Lyft,Lux Black XL
+19,9.5,1.44,1.0,Uber,UberPool
+5,21.5,2.38,1.0,Uber,Black
+10,27.5,2.37,1.0,Lyft,Lux Black XL
+8,7.0,0.49,1.0,Uber,WAV
+18,26.0,0.67,1.0,Lyft,Lux Black XL
+0,27.5,1.35,1.0,Uber,Black SUV
+0,10.5,2.86,1.0,Uber,WAV
+20,14.0,2.32,1.0,Uber,UberXL
+23,19.5,1.79,1.0,Lyft,Lux Black
+22,7.0,0.69,1.0,Lyft,Lyft
+23,32.5,2.67,1.0,Lyft,Lux Black XL
+15,16.5,1.53,1.0,Lyft,Lux
+15,13.0,1.56,1.0,Uber,UberXL
+14,9.5,0.49,1.0,Uber,UberXL
+17,16.5,1.45,1.0,Lyft,Lux Black
+18,27.5,3.02,1.0,Lyft,Lux Black
+23,15.0,0.29,1.0,Uber,Black
+17,13.5,1.74,1.0,Lyft,Lyft XL
+4,10.5,3.49,1.0,Lyft,Lyft
+8,27.5,1.12,1.0,Lyft,Lux Black XL
+15,19.5,2.27,1.0,Uber,Black
+9,7.0,0.65,1.0,Uber,WAV
+12,45.5,4.51,1.0,Lyft,Lux Black XL
+18,9.0,1.92,1.0,Lyft,Lyft
+23,45.5,4.36,1.0,Lyft,Lux Black XL
+23,7.0,0.39,1.0,Uber,WAV
+18,10.0,4.55,1.0,Uber,UberPool
+19,19.5,3.31,1.0,Lyft,Lux
+15,29.5,2.46,1.0,Uber,Black SUV
+5,9.5,2.29,1.0,Uber,UberX
+8,16.5,2.36,1.0,Lyft,Lux
+8,5.0,2.96,1.0,Lyft,Shared
+8,42.5,3.28,1.25,Lyft,Lux Black XL
+8,32.5,2.88,1.0,Lyft,Lux Black XL
+22,11.0,3.18,1.0,Uber,UberPool
+7,6.5,1.5,1.0,Uber,UberPool
+18,12.5,1.7,1.0,Uber,UberXL
+17,26.5,1.06,1.0,Uber,Black SUV
+0,30.0,2.42,1.0,Lyft,Lux Black XL
+21,15.0,0.61,1.0,Uber,Black
+20,30.5,2.31,1.0,Uber,Black SUV
+0,11.5,2.72,1.0,Uber,UberX
+17,10.5,1.14,1.0,Lyft,Lyft XL
+14,22.5,5.36,1.0,Lyft,Lyft XL
+1,28.5,2.9,1.0,Uber,Black SUV
+16,17.0,1.64,1.0,Uber,Black
+13,13.5,1.54,1.0,Lyft,Lyft XL
+15,7.0,0.43,1.0,Lyft,Lyft
+1,15.0,0.55,1.0,Uber,Black
+22,22.5,3.04,1.0,Lyft,Lux Black
+22,10.5,2.82,1.0,Lyft,Lyft
+23,17.0,1.92,1.0,Uber,Black
+22,11.0,1.03,1.0,Lyft,Lux
+14,10.0,3.01,1.0,Uber,UberPool
+21,28.0,2.62,1.0,Uber,Black SUV
+18,10.5,2.38,1.0,Lyft,Lyft
+17,13.5,4.12,1.0,Lyft,Lyft
+1,9.0,1.41,1.0,Uber,UberX
+22,22.5,2.67,1.0,Lyft,Lux Black
+21,22.5,2.56,1.0,Lyft,Lux Black
+23,22.5,1.97,1.0,Lyft,Lux Black
+12,10.5,2.45,1.0,Uber,WAV
+1,10.5,2.67,1.0,Uber,UberX
+17,11.0,2.46,1.0,Lyft,Lyft
+14,8.5,2.48,1.0,Uber,UberX
+2,32.5,2.58,1.0,Lyft,Lux Black XL
+20,10.5,3.05,1.0,Uber,WAV
+22,26.5,1.5,1.0,Uber,Black SUV
+22,13.5,2.35,1.0,Uber,UberX
+16,7.5,1.94,1.0,Uber,UberPool
+16,5.0,1.51,1.0,Lyft,Shared
+17,13.5,1.14,1.0,Lyft,Lyft XL
+16,16.0,0.39,1.0,Uber,Black
+1,13.5,2.4,1.0,Lyft,Lyft XL
+22,22.5,3.07,1.0,Lyft,Lux Black
+19,10.5,1.91,1.0,Uber,WAV
+8,24.0,3.04,1.0,Uber,Black
+1,9.0,0.7,1.0,Lyft,Lyft XL
+7,7.0,1.04,1.0,Uber,UberPool
+13,19.5,1.9,1.0,Uber,Black
+21,7.0,2.96,1.0,Lyft,Shared
+23,10.5,3.11,1.0,Lyft,Lyft
+22,32.5,1.25,2.0,Lyft,Lux Black
+12,34.0,2.42,1.5,Lyft,Lux Black
+13,16.5,2.59,1.0,Lyft,Lyft XL
+3,7.5,1.16,1.0,Uber,UberX
+22,19.5,2.7,1.0,Lyft,Lux
+18,10.5,3.15,1.0,Lyft,Lyft
+8,10.5,3.05,1.0,Uber,WAV
+19,16.0,2.3,1.0,Uber,UberXL
+0,15.0,2.56,1.0,Uber,UberXL
+13,7.0,2.46,1.0,Lyft,Shared
+16,34.0,3.35,1.0,Lyft,Lux Black XL
+1,10.5,3.16,1.0,Lyft,Lyft
+8,17.0,1.61,1.0,Uber,Black
+4,40.5,4.48,1.0,Uber,Black SUV
+4,9.0,4.69,1.0,Lyft,Shared
+11,5.0,1.26,1.0,Lyft,Shared
+18,26.0,3.13,1.0,Lyft,Lux Black
+10,7.5,2.14,1.0,Uber,WAV
+2,27.5,1.94,1.0,Lyft,Lux Black XL
+3,32.5,2.46,1.0,Uber,Black SUV
+22,19.5,2.36,1.25,Lyft,Lux
+9,11.0,1.27,1.0,Lyft,Lyft XL
+15,10.5,3.31,1.0,Lyft,Lyft
+10,16.5,2.16,1.0,Lyft,Lyft XL
+8,9.0,4.53,1.0,Lyft,Shared
+19,12.5,1.3,1.0,Uber,UberXL
+23,27.5,1.18,1.0,Uber,Black SUV
+9,7.5,1.06,1.0,Uber,WAV
+20,26.0,1.44,1.0,Lyft,Lux Black XL
+23,9.5,2.32,1.0,Uber,UberX
+2,3.5,1.03,1.0,Lyft,Shared
+21,19.5,2.11,1.0,Lyft,Lux Black
+13,9.5,2.46,1.0,Uber,WAV
+1,14.0,2.66,1.0,Uber,UberX
+15,10.5,3.44,1.0,Uber,WAV
+5,9.0,1.93,1.0,Lyft,Lyft
+13,8.5,1.3,1.0,Uber,WAV
+16,9.0,3.3,1.0,Lyft,Shared
+6,22.5,5.4,1.0,Lyft,Lyft XL
+5,27.0,1.36,1.0,Uber,Black SUV
+18,30.0,1.91,1.0,Lyft,Lux Black XL
+9,14.0,7.38,1.0,Uber,UberX
+23,17.0,0.91,1.0,Uber,Black
+10,9.0,2.67,1.0,Uber,UberPool
+17,22.5,2.46,1.0,Lyft,Lux Black
+7,14.0,3.22,1.0,Uber,UberX
+19,17.5,1.41,1.0,Uber,Black
+1,7.0,0.54,1.0,Uber,UberX
+19,18.5,3.3,1.0,Uber,UberXL
+16,7.0,3.16,1.0,Lyft,Shared
+14,34.0,3.17,1.0,Lyft,Lux Black XL
+13,9.5,2.84,1.0,Uber,UberX
+7,10.5,2.94,1.0,Lyft,Lyft
+5,9.0,2.39,1.0,Lyft,Lyft
+6,7.5,0.56,1.0,Uber,UberPool
+2,10.5,3.05,1.0,Uber,WAV
+17,26.0,1.25,1.0,Uber,Black SUV
+4,22.5,2.12,1.0,Lyft,Lux
+7,16.0,2.81,1.0,Uber,UberXL
+19,33.0,3.37,1.0,Uber,Black SUV
+13,30.0,0.64,2.0,Lyft,Lux Black
+17,9.0,2.62,1.0,Uber,UberPool
+18,16.0,0.62,1.0,Uber,Black
+18,11.5,3.07,1.0,Uber,UberX
+13,9.5,2.79,1.0,Uber,WAV
+14,16.0,1.25,1.0,Uber,Black
+11,38.5,3.09,1.0,Lyft,Lux Black XL
+8,32.5,2.65,1.0,Lyft,Lux Black XL
+18,8.5,1.81,1.0,Uber,UberPool
+16,9.0,3.8,1.0,Lyft,Shared
+6,9.5,3.53,1.0,Uber,WAV
+9,26.0,1.53,1.0,Lyft,Lux Black XL
+7,18.5,3.39,1.0,Uber,UberXL
+14,2.5,0.65,1.0,Lyft,Shared
+0,18.5,2.84,1.0,Uber,UberXL
+13,9.0,1.53,1.0,Lyft,Lyft
+11,13.5,1.74,1.0,Lyft,Lux
+10,19.5,1.06,1.0,Lyft,Lux Black
+19,22.0,4.57,1.0,Uber,UberXL
+5,19.5,2.37,1.0,Lyft,Lux
+2,11.5,3.07,1.0,Uber,WAV
+7,10.5,3.39,1.0,Uber,WAV
+15,30.0,2.67,1.0,Lyft,Lux Black XL
+22,7.5,1.04,1.0,Uber,WAV
+6,27.5,2.87,1.0,Lyft,Lux Black
+1,9.5,2.79,1.0,Uber,WAV
+12,7.0,0.46,1.0,Lyft,Lyft
+2,27.5,1.3,1.0,Uber,Black SUV
+0,30.0,4.18,1.0,Lyft,Lux Black
+14,9.0,1.04,1.0,Uber,WAV
+23,27.0,1.9,1.0,Uber,Black SUV
+15,10.5,2.93,1.0,Lyft,Lyft
+17,13.0,1.28,1.0,Uber,UberX
+7,11.5,1.5,1.0,Uber,UberXL
+7,27.5,3.26,1.0,Lyft,Lux Black
+17,11.5,3.16,1.0,Uber,UberX
+14,27.5,1.65,1.0,Uber,Black SUV
+17,27.5,1.06,1.0,Lyft,Lux Black XL
+0,38.5,3.23,1.0,Lyft,Lux Black XL
+0,20.5,2.38,1.0,Uber,Black
+12,27.5,1.21,1.0,Uber,Black SUV
+22,19.0,2.72,1.0,Uber,Black
+13,10.5,2.67,1.0,Lyft,Lyft
+6,31.5,2.86,1.0,Uber,Black SUV
+6,16.5,2.55,1.0,Lyft,Lyft XL
+10,26.0,1.97,2.0,Lyft,Lyft XL
+8,22.5,3.31,1.0,Lyft,Lux
+12,26.0,0.65,1.0,Lyft,Lux Black XL
+1,12.0,3.96,1.0,Uber,UberPool
+22,19.5,2.32,1.0,Lyft,Lux
+1,19.5,2.55,1.0,Lyft,Lux
+16,27.5,1.46,1.0,Uber,Black SUV
+15,7.5,1.57,1.0,Uber,UberPool
+21,7.0,2.48,1.0,Lyft,Lyft
+0,32.5,2.41,1.0,Lyft,Lux Black XL
+10,11.0,1.02,1.0,Lyft,Lyft XL
+21,9.5,1.61,1.0,Uber,WAV
+7,13.5,3.01,1.0,Uber,UberPool
+7,22.0,4.48,1.0,Uber,UberXL
+8,9.0,0.49,1.0,Lyft,Lyft XL
+1,13.5,4.61,1.0,Lyft,Lyft
+13,13.5,4.57,1.0,Lyft,Lyft
+15,5.0,1.52,1.0,Lyft,Shared
+1,10.5,2.94,1.0,Lyft,Lyft
+20,22.5,3.02,1.0,Lyft,Lux
+22,10.5,3.01,1.0,Uber,UberX
+2,42.5,4.33,1.0,Lyft,Lux Black XL
+23,9.5,1.41,1.0,Uber,UberX
+23,5.0,1.58,1.0,Lyft,Shared
+15,8.5,2.72,1.0,Uber,WAV
+9,9.5,2.24,1.0,Uber,UberX
+21,13.5,2.33,1.0,Uber,UberX
+15,7.0,3.5,1.0,Lyft,Shared
+17,26.0,1.32,1.0,Lyft,Lux Black XL
+17,11.0,0.63,1.0,Lyft,Lyft XL
+21,26.5,1.64,1.0,Uber,Black SUV
+17,7.5,1.16,1.0,Uber,UberX
+22,11.5,1.16,1.0,Uber,UberXL
+8,30.5,2.27,1.0,Uber,Black SUV
+11,9.5,1.41,1.0,Uber,UberX
+22,3.5,1.38,1.0,Lyft,Shared
+10,27.5,3.08,1.0,Lyft,Lux Black
+6,16.5,4.47,1.5,Lyft,Lyft
+6,18.5,2.73,1.0,Uber,UberXL
+8,27.5,1.1,1.0,Lyft,Lux Black XL
+13,19.5,2.95,1.0,Lyft,Lux
+22,23.0,2.33,1.0,Uber,Black
+20,34.0,2.67,1.0,Uber,Black SUV
+7,16.5,2.47,1.0,Lyft,Lyft XL
+5,7.0,1.1,1.0,Lyft,Lyft
+4,7.5,0.56,1.0,Uber,UberX
+23,17.0,2.46,1.0,Uber,UberXL
+1,19.5,3.14,1.0,Lyft,Lyft XL
+6,17.0,2.87,1.0,Uber,UberXL
+6,13.5,1.82,1.0,Lyft,Lyft XL
+16,9.5,1.71,1.0,Uber,WAV
+15,11.5,2.84,1.0,Uber,UberX
+17,3.0,1.46,1.0,Lyft,Shared
+5,27.5,0.56,1.0,Uber,Black SUV
+12,9.0,2.84,1.0,Uber,UberPool
+10,8.5,1.16,1.0,Uber,UberPool
+12,42.5,3.68,1.25,Lyft,Lux Black
+11,22.5,2.42,1.0,Lyft,Lux Black
+16,16.5,2.83,1.0,Lyft,Lyft XL
+22,27.0,1.34,1.0,Uber,Black SUV
+19,26.0,0.68,1.0,Lyft,Lux Black XL
+7,10.5,2.93,1.0,Lyft,Lyft
+12,9.5,3.45,1.0,Uber,UberX
+11,55.0,3.11,1.75,Lyft,Lux Black XL
+9,7.0,1.81,1.0,Lyft,Shared
+15,10.5,2.88,1.0,Lyft,Lyft
+20,28.5,1.68,1.0,Uber,UberXL
+0,13.5,1.08,1.0,Lyft,Lyft XL
+0,13.5,2.35,1.0,Lyft,Lyft XL
+20,8.0,1.34,1.0,Uber,UberPool
+10,7.5,0.55,1.0,Uber,UberPool
+1,26.0,1.64,1.0,Uber,Black SUV
+14,30.0,1.51,1.0,Lyft,Lux Black XL
+6,28.5,3.01,1.0,Uber,Black
+2,26.5,1.7,1.0,Uber,Black SUV
+0,27.5,0.99,1.0,Lyft,Lux Black XL
+4,26.5,1.35,1.0,Uber,Black SUV
+16,27.5,2.5,1.0,Lyft,Lux Black
+13,29.5,3.05,1.0,Uber,Black SUV
+4,19.0,2.62,1.0,Uber,UberXL
+1,3.0,3.14,1.0,Lyft,Shared
+18,22.5,2.58,1.0,Uber,Black
+20,13.5,1.23,1.0,Lyft,Lyft XL
+23,10.5,1.02,1.0,Lyft,Lux
+6,16.5,2.62,1.0,Uber,UberXL
+9,9.0,2.37,1.0,Lyft,Lyft
+10,26.0,3.46,1.0,Lyft,Lux Black
+2,9.0,2.48,1.0,Uber,UberPool
+8,23.0,3.22,1.0,Uber,Black
+12,27.5,3.05,1.0,Lyft,Lux Black
+20,32.5,2.8,1.0,Lyft,Lux Black XL
+21,19.5,3.04,1.0,Lyft,Lux
+3,26.0,0.7,1.0,Lyft,Lux Black XL
+6,7.5,2.84,1.0,Uber,UberPool
+15,27.5,0.62,1.0,Lyft,Lux Black XL
+23,7.5,1.91,1.0,Uber,UberPool
+2,26.0,0.88,1.0,Lyft,Lux Black XL
+16,10.5,2.95,1.0,Lyft,Lyft
+10,10.5,2.84,1.0,Uber,WAV
+1,26.0,1.5,1.0,Uber,Black SUV
+1,7.0,1.45,1.0,Lyft,Lyft
+16,5.0,1.32,1.0,Lyft,Shared
+22,22.5,1.91,1.0,Lyft,Lux Black
+18,8.5,4.72,1.0,Uber,UberPool
+7,48.0,5.56,1.0,Uber,Black SUV
+18,26.0,0.75,1.0,Lyft,Lux Black XL
+17,8.5,2.98,1.0,Uber,UberPool
+6,32.5,2.99,1.0,Lyft,Lux Black
+14,9.5,1.71,1.0,Uber,WAV
+3,7.0,0.75,1.0,Lyft,Lyft
+3,11.0,3.21,1.0,Uber,WAV
+3,11.0,0.54,1.0,Lyft,Lux
+2,7.0,0.54,1.0,Uber,WAV
+10,11.0,1.35,1.0,Uber,UberX
+6,26.5,0.91,1.0,Uber,Black SUV
+8,16.5,1.1,1.0,Lyft,Lux Black
+4,3.0,1.3,1.0,Lyft,Shared
+6,7.0,0.63,1.0,Uber,UberX
+19,26.0,1.45,1.0,Lyft,Lux Black XL
+15,9.0,1.21,1.0,Uber,UberX
+2,22.5,3.2,1.0,Lyft,Lux
+7,34.0,3.14,1.0,Lyft,Lux Black XL
+1,45.5,4.13,1.0,Lyft,Lux Black XL
+14,7.0,1.0,1.0,Uber,UberX
+23,9.5,3.42,1.0,Uber,WAV
+21,19.5,2.32,1.0,Uber,Black
+10,13.5,2.31,1.0,Lyft,Lyft XL
+6,10.5,2.56,1.0,Uber,UberX
+17,9.0,1.53,1.0,Lyft,Lyft
+1,9.5,2.79,1.0,Uber,WAV
+14,5.0,1.77,1.0,Lyft,Shared
+10,27.5,1.7,1.0,Uber,Black SUV
+14,16.5,1.99,1.0,Lyft,Lyft XL
+19,13.5,1.27,1.0,Lyft,Lux
+2,26.0,1.2,1.0,Lyft,Lux Black XL
+0,22.5,3.48,1.0,Lyft,Lux
+18,32.5,2.56,1.0,Lyft,Lux Black XL
+3,16.5,2.42,1.0,Lyft,Lux
+15,13.5,1.08,1.25,Lyft,Lyft XL
+19,27.5,5.45,1.0,Lyft,Lux
+15,22.5,1.06,2.0,Lyft,Lux
+7,5.0,1.39,1.0,Lyft,Shared
+13,27.5,2.96,1.0,Lyft,Lux Black
+5,16.0,1.92,1.0,Uber,UberXL
+14,10.5,3.01,1.0,Uber,UberX
+8,11.0,2.62,1.0,Uber,UberX
+10,16.5,0.62,1.0,Lyft,Lux Black
+23,29.5,2.27,1.0,Uber,Black SUV
+14,13.5,1.44,1.0,Lyft,Lyft XL
+11,36.0,3.3,1.0,Uber,Black SUV
+18,12.5,1.35,1.0,Uber,UberXL
+14,16.0,2.38,1.0,Uber,UberXL
+10,9.0,2.23,1.0,Uber,UberPool
+9,9.0,3.74,1.0,Lyft,Shared
+20,10.5,2.62,1.0,Uber,WAV
+8,30.0,1.54,1.0,Lyft,Lux Black XL
+8,7.0,0.63,1.0,Uber,WAV
+11,25.0,1.5,1.0,Uber,Black SUV
+2,9.0,2.46,1.0,Uber,WAV
+11,30.0,2.53,1.0,Lyft,Lux Black XL
+6,13.5,1.17,1.0,Lyft,Lux
+0,23.0,2.72,1.0,Uber,Black
+4,13.5,1.52,1.0,Lyft,Lux
+15,26.0,1.36,1.0,Lyft,Lux Black XL
+3,9.0,2.3,1.0,Lyft,Shared
+18,8.5,1.16,1.0,Uber,WAV
+22,12.0,1.23,1.0,Uber,UberXL
+16,3.0,2.84,1.0,Lyft,Shared
+3,12.0,6.26,1.0,Uber,UberPool
+12,7.5,0.91,1.0,Uber,UberPool
+18,11.0,1.15,1.0,Lyft,Lyft XL
+23,7.5,0.49,1.0,Uber,UberPool
+14,28.0,2.19,1.0,Uber,Black SUV
+6,5.0,0.61,1.0,Lyft,Shared
+19,10.5,3.05,1.0,Uber,UberX
+9,7.0,0.43,1.0,Lyft,Lyft
+21,12.0,4.42,1.0,Uber,UberX
+3,9.5,2.32,1.0,Uber,WAV
+14,7.0,0.63,1.0,Uber,UberX
+12,19.5,1.56,1.0,Lyft,Lux Black
+11,21.5,1.8,1.0,Uber,Black
+18,18.0,3.05,1.0,Uber,UberXL
+12,8.5,1.0,1.0,Uber,WAV
+9,9.0,1.71,1.0,Lyft,Lyft
+4,13.5,1.15,1.0,Lyft,Lux
+2,7.5,2.14,1.0,Uber,UberPool
+15,11.0,3.2,1.0,Lyft,Lyft
+9,9.0,4.36,1.0,Lyft,Shared
+20,16.5,1.78,1.0,Lyft,Lux
+22,8.0,1.21,1.0,Uber,UberX
+6,31.5,3.16,1.0,Uber,Black SUV
+3,9.5,2.29,1.0,Uber,WAV
+22,22.5,3.06,1.0,Lyft,Lux
+22,13.0,3.1,1.0,Uber,WAV
+14,26.5,2.27,1.0,Uber,Black SUV
+12,26.0,1.44,1.0,Lyft,Lux Black XL
+11,10.5,3.45,1.0,Uber,UberX
+21,9.5,2.32,1.0,Uber,WAV
+11,15.0,0.54,1.0,Uber,Black
+2,17.5,1.61,1.0,Uber,Black
+0,9.0,2.27,1.0,Uber,UberPool
+12,22.5,3.32,1.0,Lyft,Lux
+19,19.0,3.42,1.0,Uber,UberXL
+5,15.0,1.71,1.0,Uber,UberXL
+16,22.5,3.19,1.0,Lyft,Lux
+1,10.5,0.72,1.0,Lyft,Lyft XL
+3,31.0,2.82,1.0,Uber,Black SUV
+0,8.5,1.04,1.0,Uber,UberX
+10,7.5,1.35,1.0,Uber,UberPool
+4,27.5,1.94,1.0,Lyft,Lux Black XL
+17,26.0,1.69,1.0,Lyft,Lux Black XL
+20,16.0,1.21,1.0,Uber,Black
+22,15.0,1.25,1.0,Uber,Black
+8,27.5,0.69,1.0,Lyft,Lux Black XL
+19,10.0,2.5,1.0,Uber,WAV
+9,6.5,1.56,1.0,Uber,UberPool
+21,20.5,2.66,1.0,Uber,Black
+6,26.0,1.36,1.0,Uber,Black SUV
+15,13.5,4.52,1.0,Lyft,Lyft
+3,8.0,0.92,1.0,Uber,WAV
+0,13.5,1.46,1.0,Lyft,Lyft XL
+23,16.5,2.79,1.0,Uber,UberXL
+16,10.5,3.74,1.0,Lyft,Shared
+8,7.5,1.16,1.0,Uber,UberPool
+7,8.0,1.35,1.0,Uber,UberPool
+13,19.5,1.45,1.0,Lyft,Lux Black
+2,7.5,0.9,1.0,Uber,UberX
+15,29.5,4.55,1.0,Uber,Black
+6,10.5,1.21,1.0,Uber,UberXL
+2,18.0,1.41,1.0,Uber,Black
+18,7.5,2.79,1.0,Uber,UberPool
+14,7.0,1.16,1.0,Uber,WAV
+16,7.0,0.67,1.0,Lyft,Lyft
+16,9.5,1.8,1.0,Uber,WAV
+4,7.0,1.68,1.0,Lyft,Lyft
+13,9.0,0.48,1.0,Lyft,Lyft XL
+16,16.5,1.92,1.0,Lyft,Lux
+4,7.5,0.56,1.0,Uber,UberX
+22,26.0,2.89,1.0,Lyft,Lux Black
+20,27.5,3.33,1.0,Lyft,Lux Black
+14,27.5,1.71,1.0,Lyft,Lux Black XL
+22,38.0,3.56,1.75,Lyft,Lyft XL
+14,13.5,5.43,1.0,Lyft,Shared
+0,16.5,0.58,1.0,Lyft,Lux Black
+3,19.5,1.46,1.0,Lyft,Lux Black
+10,9.5,1.75,1.0,Uber,UberX
+10,40.5,4.55,1.0,Uber,Black SUV
+20,8.5,1.56,1.0,Uber,UberX
+16,8.5,1.44,1.0,Uber,WAV
+10,19.5,1.11,1.0,Uber,UberXL
+11,11.5,2.37,1.0,Uber,UberX
+8,16.5,2.99,1.0,Lyft,Lyft XL
+15,5.5,0.39,1.0,Uber,UberPool
+11,7.0,0.98,1.0,Uber,WAV
+5,10.5,2.93,1.0,Lyft,Lyft
+0,33.0,3.1,1.0,Uber,Black SUV
+1,15.0,2.46,1.0,Uber,UberXL
+8,7.5,1.59,1.0,Uber,WAV
+4,13.5,1.23,1.0,Lyft,Lyft XL
+18,18.5,2.84,1.0,Uber,UberXL
+18,12.5,1.08,1.0,Uber,UberXL
+0,26.0,4.42,1.0,Uber,Black
+4,11.0,1.03,1.0,Uber,UberPool
+9,41.5,4.74,1.0,Uber,Black SUV
+10,18.5,3.08,1.0,Uber,UberXL
+4,5.0,1.06,1.0,Lyft,Lyft
+19,10.5,2.65,1.0,Lyft,Lyft
+11,9.0,1.17,1.25,Lyft,Lyft
+4,16.5,1.11,1.0,Lyft,Lux Black
+11,16.5,1.92,1.0,Lyft,Lyft XL
+10,13.5,1.15,1.0,Lyft,Lux
+12,9.5,2.32,1.0,Uber,WAV
+10,30.0,1.94,1.0,Lyft,Lux Black XL
+4,12.0,2.68,1.0,Uber,UberPool
+3,27.5,0.6,1.0,Uber,Black SUV
+7,8.5,2.74,1.0,Uber,UberPool
+5,11.0,3.53,1.0,Uber,UberX
+0,13.5,0.95,1.0,Lyft,Lux
+19,26.5,1.34,1.0,Uber,Black SUV
+3,19.5,1.36,1.0,Lyft,Lux Black
+15,20.5,2.27,1.0,Uber,Black
+12,19.5,1.49,1.0,Uber,Black
+12,9.5,2.37,1.0,Uber,WAV
+6,31.5,3.04,1.0,Uber,Black SUV
+15,10.5,3.22,1.0,Uber,UberX
+5,16.5,2.79,1.0,Lyft,Lyft XL
+5,9.0,4.45,1.0,Lyft,Shared
+17,14.0,2.32,1.0,Uber,UberXL
+15,38.0,2.86,1.0,Lyft,Lux Black XL
+15,13.5,3.45,1.0,Lyft,Lyft
+19,16.5,1.41,1.5,Lyft,Lyft XL
+11,13.5,1.12,1.0,Lyft,Lux
+1,12.5,1.25,1.0,Uber,UberXL
+11,42.5,2.43,1.5,Lyft,Lux Black XL
+22,28.5,4.48,1.0,Uber,UberXL
+17,7.0,1.0,1.0,Lyft,Lyft
+13,10.0,2.3,1.0,Uber,WAV
+15,27.5,0.91,1.0,Lyft,Lux Black XL
+2,27.5,1.72,1.0,Lyft,Lux Black XL
+0,13.0,1.41,1.0,Uber,UberXL
+12,13.5,3.21,1.0,Lyft,Lyft
+18,7.5,0.49,1.0,Uber,UberX
+19,7.5,1.56,1.0,Uber,UberX
+2,31.0,4.73,1.0,Uber,UberXL
+11,17.0,1.56,1.0,Uber,Black
+15,26.0,1.53,1.0,Lyft,Lux Black XL
+7,7.0,0.63,1.0,Uber,WAV
+0,7.0,1.49,1.0,Uber,WAV
+9,28.0,1.68,1.0,Uber,Black SUV
+1,13.5,2.02,1.0,Lyft,Lyft XL
+10,27.5,1.03,1.0,Uber,Black SUV
+5,9.5,3.45,1.0,Uber,UberX
+13,27.0,0.39,1.0,Uber,Black SUV
+19,29.5,2.5,1.0,Uber,Black SUV
+17,36.0,4.42,1.0,Uber,Black SUV
+5,27.5,3.07,1.0,Lyft,Lux Black
+15,8.5,1.16,1.0,Uber,WAV
+19,16.5,2.36,1.25,Lyft,Lyft XL
+8,14.0,2.17,1.0,Uber,UberXL
+4,13.5,1.3,1.0,Uber,UberXL
+18,21.5,2.33,1.0,Uber,Black
+23,33.0,3.98,1.0,Uber,Black
+0,8.5,2.48,1.0,Uber,UberX
+23,22.5,2.44,1.0,Lyft,Lux Black
+13,17.5,1.46,1.0,Uber,Black
+21,13.5,0.95,1.0,Lyft,Lux
+14,34.0,2.62,1.0,Lyft,Lux Black XL
+0,30.0,1.55,1.0,Lyft,Lux Black XL
+8,10.5,3.05,1.0,Uber,WAV
+4,16.5,0.62,1.0,Lyft,Lux Black
+4,10.5,3.04,1.0,Lyft,Lyft
+0,20.5,2.98,1.0,Uber,UberXL
+1,19.5,1.73,1.0,Lyft,Lux Black
+10,19.5,3.45,1.0,Uber,UberXL
+16,19.5,3.0,1.0,Lyft,Lux
+9,27.5,1.26,1.0,Lyft,Lux Black XL
+14,7.5,1.56,1.0,Uber,WAV
+21,13.5,2.42,1.0,Lyft,Lyft XL
+18,16.0,1.56,1.0,Uber,Black
+4,8.5,2.86,1.0,Uber,UberPool
+8,27.5,0.71,1.0,Lyft,Lux Black XL
+16,9.5,0.39,1.0,Uber,UberXL
+11,27.5,7.2,1.0,Uber,UberX
+12,9.0,0.59,1.0,Lyft,Lyft XL
+9,12.5,3.22,1.0,Uber,UberPool
+17,36.5,3.39,1.0,Uber,Black SUV
+4,8.0,1.5,1.0,Uber,UberX
+15,12.5,1.11,1.0,Uber,UberXL
+5,9.0,3.05,1.0,Uber,UberPool
+6,7.0,1.08,1.0,Uber,UberPool
+1,3.5,1.09,1.0,Lyft,Shared
+23,19.0,3.39,1.0,Uber,UberXL
+15,15.0,1.64,1.0,Uber,Black
+7,12.0,1.22,1.0,Uber,UberXL
+13,26.0,2.49,1.0,Uber,Black
+15,10.5,0.65,1.0,Lyft,Lyft XL
+2,10.5,2.77,1.0,Lyft,Lyft
+16,22.5,2.37,1.0,Lyft,Lux Black
+21,7.0,0.52,1.0,Lyft,Lyft
+6,10.0,2.73,1.0,Uber,UberPool
+11,10.5,3.07,1.0,Lyft,Lyft
+2,21.5,1.84,1.0,Uber,UberXL
+14,10.5,2.66,1.0,Lyft,Lyft
+9,22.5,2.44,1.0,Lyft,Lux Black
+22,5.5,0.39,1.0,Uber,UberPool
+3,11.0,0.53,1.0,Lyft,Lux
+20,7.5,1.25,1.0,Uber,UberX
+20,19.5,1.75,1.0,Lyft,Lux Black
+1,9.0,0.66,1.0,Lyft,Lyft XL
+21,27.5,3.67,1.0,Lyft,Lux
+0,13.5,1.51,1.0,Lyft,Lux
+20,16.5,3.13,1.0,Lyft,Lyft XL
+23,11.0,3.61,1.0,Uber,UberX
+16,34.0,2.84,1.0,Lyft,Lux Black XL
+2,7.0,0.63,1.0,Uber,WAV
+18,9.5,0.72,1.0,Uber,UberXL
+12,3.0,2.95,1.0,Lyft,Shared
+0,31.5,3.15,1.0,Uber,Black SUV
+3,9.5,2.72,1.0,Uber,WAV
+18,22.5,4.11,1.0,Lyft,Lux
+23,8.5,1.5,1.0,Uber,UberX
+13,8.5,1.08,1.0,Uber,WAV
+20,16.5,0.9,1.0,Lyft,Lux Black
+20,11.0,2.32,1.0,Uber,UberX
+20,7.5,1.23,1.0,Uber,UberPool
+9,8.5,1.57,1.0,Uber,WAV
+7,18.5,1.68,1.0,Uber,Black
+9,20.5,3.61,1.0,Uber,UberXL
+0,17.0,2.23,1.0,Uber,UberXL
+6,27.0,1.5,1.0,Uber,Black SUV
+13,26.0,4.21,1.25,Lyft,Lyft XL
+10,11.5,1.7,1.0,Uber,UberX
+6,18.5,1.51,1.0,Uber,Black
+18,38.0,3.15,1.0,Lyft,Lux Black XL
+4,18.0,2.84,1.0,Uber,UberXL
+22,7.0,1.23,1.0,Lyft,Lyft
+12,26.0,1.78,1.0,Lyft,Lux Black XL
+16,3.0,2.72,1.0,Lyft,Shared
+19,10.5,2.85,1.0,Uber,UberX
+7,22.5,2.82,1.0,Lyft,Lux Black
+19,18.5,2.17,1.0,Uber,Black
+7,5.5,0.56,1.0,Uber,UberPool
+21,12.5,3.26,1.0,Uber,UberX
+15,24.0,3.53,1.0,Uber,Black
+9,7.0,1.27,1.0,Lyft,Lyft
+3,10.0,2.27,1.0,Uber,UberPool
+4,7.0,3.0,1.0,Lyft,Shared
+3,9.0,0.77,1.0,Lyft,Lyft XL
+11,11.5,1.25,1.0,Uber,UberXL
+11,8.5,1.8,1.0,Uber,UberX
+3,22.5,2.14,1.0,Lyft,Lux Black
+14,16.0,2.21,1.0,Uber,UberXL
+12,10.5,1.01,1.0,Lyft,Lyft XL
+20,42.5,4.8,1.0,Lyft,Lux Black XL
+20,15.0,3.07,1.0,Uber,WAV
+10,27.5,1.45,1.0,Uber,Black SUV
+5,22.5,2.72,1.0,Lyft,Lux Black
+14,10.5,2.84,1.0,Uber,WAV
+2,13.0,1.64,1.0,Uber,UberXL
+5,34.0,2.83,1.0,Lyft,Lux Black XL
+11,11.5,2.98,1.0,Uber,WAV
+12,3.0,1.09,1.0,Lyft,Shared
+0,30.0,2.41,1.0,Lyft,Lux Black XL
+11,7.0,1.66,1.0,Lyft,Lyft
+9,5.5,0.56,1.0,Uber,UberPool
+12,12.5,3.66,1.0,Uber,UberX
+14,13.5,1.25,1.0,Lyft,Lyft XL
+8,10.5,2.79,1.0,Uber,UberX
+5,6.5,0.56,1.0,Uber,UberPool
+10,13.0,3.29,1.0,Uber,WAV
+2,13.5,1.64,1.0,Uber,UberXL
+22,25.0,3.2,1.0,Uber,Black
+6,9.0,1.57,1.0,Uber,WAV
+16,13.5,2.44,1.0,Lyft,Lyft XL
+21,15.0,1.51,1.0,Uber,Black
+6,19.5,3.09,1.0,Lyft,Lyft XL
+12,10.0,3.3,1.0,Uber,UberPool
+1,3.0,1.05,1.0,Lyft,Shared
+12,19.5,3.19,1.0,Lyft,Lux
+16,7.5,1.59,1.0,Uber,WAV
+21,9.0,3.41,1.0,Uber,UberPool
+10,7.0,2.05,1.0,Lyft,Shared
+12,11.5,1.81,1.0,Uber,UberX
+6,7.0,0.56,1.0,Uber,WAV
+19,27.5,1.25,1.0,Uber,Black SUV
+20,16.5,1.54,1.0,Lyft,Lux
+18,13.5,1.28,1.0,Lyft,Lux
+23,32.5,2.74,1.0,Uber,Black SUV
+9,9.0,1.18,1.0,Lyft,Lyft
+9,32.5,2.04,1.0,Uber,Black SUV
+0,9.0,2.39,1.0,Lyft,Lyft
+17,10.5,0.71,1.75,Lyft,Lyft
+10,19.0,1.25,1.0,Uber,Black
+7,58.0,3.37,1.0,Uber,Black
+9,22.5,2.27,1.0,Lyft,Lux Black
+16,9.0,2.38,1.0,Lyft,Lyft
+12,13.5,2.73,1.5,Lyft,Lyft
+4,16.5,1.72,1.0,Lyft,Lux
+16,7.0,0.54,1.0,Lyft,Lyft
+0,32.5,2.91,1.0,Lyft,Lux Black XL
+5,6.5,0.92,1.0,Uber,UberPool
+15,9.5,2.84,1.0,Uber,UberX
+14,16.5,1.55,1.0,Lyft,Lux Black
+2,16.5,1.01,1.0,Lyft,Lux Black
+15,22.5,4.48,1.0,Uber,UberXL
+22,7.0,1.08,1.0,Lyft,Lyft
+20,11.0,3.39,1.0,Uber,WAV
+0,22.5,4.14,1.0,Lyft,Lux
+23,11.0,1.39,1.0,Lyft,Lyft XL
+8,22.5,1.73,1.0,Lyft,Lux Black
+15,16.5,2.25,1.0,Lyft,Lyft XL
+19,11.5,1.89,1.0,Uber,UberX
+14,10.5,1.46,1.25,Lyft,Lyft
+1,8.5,2.25,1.0,Uber,UberPool
+21,15.0,1.25,1.0,Uber,Black
+2,10.5,0.63,1.0,Lyft,Lyft XL
+14,7.0,1.04,1.0,Lyft,Lyft
+19,22.5,2.62,1.0,Uber,Black
+13,11.0,3.45,1.0,Uber,UberPool
+20,30.0,1.79,1.0,Lyft,Lux Black XL
+15,11.0,1.07,1.0,Lyft,Lyft XL
+11,11.5,3.31,1.0,Uber,UberX
+18,22.5,2.1,1.0,Lyft,Lux Black
+11,9.5,4.4,1.0,Uber,UberPool
+7,16.0,2.32,1.0,Uber,UberXL
+12,7.5,1.51,1.0,Uber,WAV
+2,28.0,4.55,1.0,Uber,Black
+17,22.5,2.4,1.0,Lyft,Lux Black
+12,19.5,1.09,1.0,Lyft,Lux Black
+4,9.0,1.41,1.0,Uber,WAV
+2,9.0,0.55,1.0,Uber,UberXL
+2,16.5,1.97,1.0,Lyft,Lyft XL
+21,12.5,1.21,1.0,Uber,UberXL
+10,7.0,0.61,1.0,Lyft,Lyft
+6,9.0,1.36,1.0,Uber,UberX
+12,10.5,3.05,1.0,Uber,UberX
+14,15.5,2.63,1.0,Uber,UberXL
+10,16.5,1.83,1.0,Lyft,Lux
+6,7.5,1.04,1.0,Uber,WAV
+11,9.0,2.99,1.0,Lyft,Lyft
+1,11.0,0.62,1.0,Lyft,Lux
+19,38.5,3.42,1.0,Lyft,Lux Black XL
+17,13.5,1.14,1.0,Lyft,Lux
+16,7.0,0.66,1.0,Lyft,Lyft
+3,19.5,2.32,1.0,Uber,Black
+18,26.0,0.54,1.0,Lyft,Lux Black XL
+10,14.0,1.89,1.0,Uber,UberX
+13,9.0,2.08,1.0,Lyft,Lyft
+4,22.5,2.36,1.0,Uber,Black
