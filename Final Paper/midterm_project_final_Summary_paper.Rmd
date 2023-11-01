@@ -256,6 +256,7 @@ ggplot(df, aes(x = factor(surge_multiplier), y = price)) +  # Convert surge_mult
        fill = "Surge Multiplier Categories") +
   theme_minimal()
 ```
+
 After observing the visualized data, we conclude：
 As the surge multiplier increases, there's a general trend of increasing median price. This is expected since a higher surge multiplier means higher fare.
 There are outliers in the 1x multiplier category, indicating that even without surge pricing, there are instances where rides can be quite expensive. This could be due to other factors like distance, duration, or additional fees.
