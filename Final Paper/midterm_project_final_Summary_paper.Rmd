@@ -397,7 +397,9 @@ Based on the results of this Chi-Squared Test, we can draw the following conclus
 There is a significant correlation between Cab_company and Cab_type. A p-Value close to zero indicates that the relationship between the two categorical variables is unlikely to occur by chance but is caused by some systematic association.
 A Chi-Squared value of 6000 indicates that the observed and expected data deviate significantly. This means that the distribution varies significantly between taxi companies and taxi types.
 Taken together, the results of this Chi-Squared Test indicate that the relationship between taxi companies and taxi types is significant and deserves further research and analysis.
-## Linear Regression Analysis for distance & surge_multiplier & hour
+
+
+# Linear Regression Analysis for distance & surge_multiplier & hour
 
 Finally, we chose linear regression analysis to explore the relationship between the three independent variables distance, surge_multiplier and hour and price.
 We will explore whether distance, surge_multiplier and time have a linear relationship with price, and how these independent variables explain price changes.
