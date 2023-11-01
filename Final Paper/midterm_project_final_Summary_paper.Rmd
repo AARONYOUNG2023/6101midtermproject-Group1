@@ -158,6 +158,12 @@ hist(df$price[df$cab_company == "Uber"], col="blue", xlab="Price", ylab="Frequen
 # Add legend to the figure
 legend("topright", legend=c("Uber", "Lyft"), fill=c("blue", "orange"))
 ```
+From both of the histograms of prices by cab company, we can have an overall sight of the relationship between prices and cab company in terms of Uber and Lyft.
+For cab company Lyft, there is a distribution that is right-skewed. It seems that most of the trip prices of Lyft are distributed between 5 to 30 dollars. The frequency peaks above 600 when the prices fall in 10 to 15 dollars. 
+For cab company Uber, there is a distribution that is more right-skewed. It seems that most of the trip prices of Uber are distributed between 5 to 20 dollars. The frequency peaks above 900 when the prices fall in 5 to 10 dollars. 
+In comparison, the prices for Uber are more concentrated than the prices for Lyft. The average prices of Uber rides are also lower than the average prices of Lyft rides. 
+Therefore, there is an obvious difference between the riding price of two ride-sharing companies. In the later data EDA, we will have a deeper look at the relationship between cab company and prices to see whether they are also affacted by the cab types.
+
 
 **Cab types vs Price**
 
@@ -363,6 +369,9 @@ heatmap.2(cor_matrix,
           col = colorRampPalette(c("blue", "white", "red"))(100)  # set color
 )
 ```
+From the correlation heatmap for numeric data, looking at the rightest column, distance variable has the highest correlation with price which is 0.35. Surge_multiplier variable has the second highest correlation with price which is 0.26. However, for hour variable, it has the lowest correlation with price which is -0.04.
+Therefore, the hour variable has the lowest relationship with price. In the later research, linear regression analysis, we are not going to choose hour as a deciding variable in terms of predicting the price.
+
 
 ## Chi-Squared Test for Cab_company & Cab_type
 
