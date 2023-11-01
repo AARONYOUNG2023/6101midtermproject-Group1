@@ -158,6 +158,8 @@ hist(df$price[df$cab_company == "Uber"], col="blue", xlab="Price", ylab="Frequen
 # Add legend to the figure
 legend("topright", legend=c("Uber", "Lyft"), fill=c("blue", "orange"))
 ```
+
+
 From both of the histograms of prices by cab company, we can have an overall sight of the relationship between prices and cab company in terms of Uber and Lyft.
 For cab company Lyft, there is a distribution that is right-skewed. It seems that most of the trip prices of Lyft are distributed between 5 to 30 dollars. The frequency peaks above 600 when the prices fall in 10 to 15 dollars. 
 For cab company Uber, there is a distribution that is more right-skewed. It seems that most of the trip prices of Uber are distributed between 5 to 20 dollars. The frequency peaks above 900 when the prices fall in 5 to 10 dollars. 
@@ -369,6 +371,8 @@ heatmap.2(cor_matrix,
           col = colorRampPalette(c("blue", "white", "red"))(100)  # set color
 )
 ```
+
+
 From the correlation heatmap for numeric data, looking at the rightest column, distance variable has the highest correlation with price which is 0.35. Surge_multiplier variable has the second highest correlation with price which is 0.26. However, for hour variable, it has the lowest correlation with price which is -0.04.
 Therefore, the hour variable has the lowest relationship with price. In the later research, linear regression analysis, we are not going to choose hour as a deciding variable in terms of predicting the price.
 
@@ -386,6 +390,13 @@ chisq_result <- chisq.test(df$cab_company, df$cab_type)
 chisq_result
 ```
 
+Chi-Squared Value: Chi-Squared (X-squared) value is 6000. This value represents a statistic calculated by the chi-square test that measures the deviation between observed and expected data. Large Chi-Squared values usually indicate significant differences between observed and expected values.
+Degrees of Freedom (df) is 11. In the Chi-Squared test, the degrees of freedom represent the amount of independent information used to calculate the chi-square value. In this case, there are 11 degrees of freedom, which are related to the relationship between different companies and car types.
+p-Value: p-Value is less than 2e-16, which is close to zero. p-Value measures whether the difference between observed and expected data is significant. Here, a p-Value close to zero indicates that the observed differences are significant, i.e., the relationship between taxi company and taxi type is unlikely to arise by chance.
+Based on the results of this Chi-Squared Test, we can draw the following conclusions:
+There is a significant correlation between Cab_company and Cab_type. A p-Value close to zero indicates that the relationship between the two categorical variables is unlikely to occur by chance but is caused by some systematic association.
+A Chi-Squared value of 6000 indicates that the observed and expected data deviate significantly. This means that the distribution varies significantly between taxi companies and taxi types.
+Taken together, the results of this Chi-Squared Test indicate that the relationship between taxi companies and taxi types is significant and deserves further research and analysis.
 ## Linear Regression Analysis for distance & surge_multiplier & hour
 
 Finally, we chose linear regression analysis to explore the relationship between the three independent variables distance, surge_multiplier and hour and price.
@@ -398,7 +409,25 @@ linear_model <- lm(price~distance + surge_multiplier,data = df)
 summary(linear_model)
 ```
 
+This is the result of a set of linear regression analysis used to explore the relationship between price, distance and surge_multiplier.
 
+A regression model is used to predict prices using distance and doubling of the number of passengers during peak hours as independent variables.
+Coefficient estimate:
+Intercept's estimated value is -12.9730.
+The coefficient estimate for distance is 2.8232, indicating that each unit increase in distance will cause the price to increase by approximately 2.8232 units.
+The coefficient estimate for surge_multiplier is 22.8997, indicating that each unit multiplier will cause the price to increase by approximately 22.8997 units.
+The p-value is less than 2e-16 (close to zero). This means that all independent variables explain prices in a statistically significant way.
+Residuals statistics show the fit of the model, including minimum value, quartile, median and maximum value.
+The standard deviation of the residuals is 8.52, which indicates the dispersion of the model's residuals.
+Model explainability:
+The Multiple R-squared is 0.184, indicating that the model can explain 18.4% of the price variation.
+The Adjusted R-squared is 0.183, which takes into account the degree of freedom of the model and also illustrates the explanatory ability of the model.
+The F statistic is 674 and the degrees of freedom are 2 and 5997. The p-value is also close to zero (<2e-16), indicating that the model is statistically significant overall.
+The results of this linear regression analysis show:
+There is a significant linear relationship between distance and the doubling of peak-hour passenger numbers and price.
+The positive coefficient for distance indicates that as distance increases, price increases.
+A positive coefficient for doubling the number of passengers during peak hours indicates that doubling peak hours significantly increases prices.
+The overall model is statistically significant, indicating that the independent variables explain the price significantly.
 
 
 # Summary
