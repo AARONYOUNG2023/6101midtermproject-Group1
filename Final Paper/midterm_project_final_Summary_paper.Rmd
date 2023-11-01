@@ -399,6 +399,7 @@ A Chi-Squared value of 6000 indicates that the observed and expected data deviat
 Taken together, the results of this Chi-Squared Test indicate that the relationship between taxi companies and taxi types is significant and deserves further research and analysis.
 
 
+
 # Linear Regression Analysis for distance & surge_multiplier & hour
 
 Finally, we chose linear regression analysis to explore the relationship between the three independent variables distance, surge_multiplier and hour and price.
