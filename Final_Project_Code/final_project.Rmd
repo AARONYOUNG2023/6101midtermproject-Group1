@@ -42,6 +42,13 @@ The next sections of our paper will bridge the gap between our mid-term and fina
 
 # 2. The Gap between Mid-term and Final project
 
+## 2.1 Mid-Term Project Description
+
+In the mid-term project, our exploration hinged on three pivotal statistical concepts: standard deviation, normality tests, and chi-squared tests. By scrutinizing the standard deviation, we probed the variability and consistency within the pricing data of the shared transportation domain. This metric was pivotal in discerning the price volatility under various conditions, offering a window into the data's stability and reliability. The normality tests were instrumental in determining the data distribution's alignment with a normal curve, a step that is vital for the selection of appropriate statistical techniques and for the accurate interpretation of outcomes. The chi-squared test was adeptly employed to delve into the association between two categorical variables — Cab_company and Cab_type. The findings from this test were particularly telling, with a chi-squared value of 6000, degrees of freedom standing at 11, and an exceptionally low p-value, all of which collectively underscored a strong correlation between the type of cab service provided and the company offering it. The outcomes pointed to a significant interplay between these variables, suggesting a systematic relationship rather than independent variability.
+
+## 2.2 Gap Analysis Between Mid-Term and Final Project
+
+Transitioning to the final project, we expanded our analytical horizon by incorporating models such as Linear Regression, Principal Component Regression (PCR), and Tree Models. The introduction of Linear Regression aimed to quantitatively dissect the relationship between price and its influencing factors like time and distance. PCR was anticipated to address multicollinearity by marrying principal component analysis with linear regression, thus enhancing the model's interpretability. Meanwhile, the Tree Model was set to offer a non-linear viewpoint, capable of unraveling intricate patterns within the data that linear models may overlook. The rich dataset, now expanded to 693,071 records across 57 variables, provided a comprehensive canvas, capturing nuanced details of ride-hailing services, including time, location, price, distance, and even meteorological variables. This breadth of data allowed for a multifaceted analysis, going beyond the mid-term project's scope by applying these sophisticated statistical methods to extract deeper insights into the dynamics of ride-hailing prices. Such insights are poised to refine our understanding of pricing strategies in shared mobility services, enriching the knowledge base for consumers and service providers alike.
 
 # 3. Exploratory Data Analysis
 
@@ -79,62 +86,47 @@ options(scientific=T, digits = 3)
 
 ## 3.1 Dataset Overview 
 
+The dataset, sourced from Kaggle, includes ride-hailing information from Uber and Lyft in Boston, MA, along with concurrent weather conditions. Despite numerous NA values, its simplicity makes it ideal for linear regression analysis to examine patterns between variables like time and pricing. Key weather-related attributes include temperature, wind conditions, and sunset times, offering additional layers for predictive modeling.
+
 The dataset contains 693,071 records and 57 variables, capturing various aspects of ride-hailing services. The data includes hour, destination, location coordinates, pricing, distance, and weather conditions among other variables.
 
 ## 3.2 Smart Questions
 
 1. Is there any relationship between price and hour?
 
-2. Is there any other factors to affect the final price of Uber and Lyft?
+2. Is there any relationship between price and cabin types?
 
 3. Do the weather factors, like temperature, wind, and sunset affect the final price?
 
-## 3.2 Data Describe
-
-
-
-## 3.3 Data Clearning and Preprocessing
-
-## 3.4 Data Visulazition
-
-## 3.5 Hypothesis Testing
-
-## 3.6 Summary
-
-# 4. Modeling
-
-## 4.1 Linear Model
-
-## 4.2 PCR Model
-
-## 4.3 Tree Model
-
-# 5 Conclusion
-
-
-
-## Select Data
-
-
-## Loading the Data from Csv File
+## 3.3 Descriptive Statistics
 
 ```{r, results='markup', echo=TRUE}
 df <- data.frame(read.csv('rideshare_kaggle.csv'))
 head(df)
 ```
-## Data EDA
-**Get summary from the data**
 
+```{r, results = 'markup', echo=TRUE}
+summary(df)
+```
+
+In the summary graph, it is evident that the surge_multiplier consistently remains at 1. This indicates that the majority of customers either tip only $1 or do not tip the rider at all.
+
+## 3.4 Data Cleaning and Preprocessing
+
+### 3.4.1 Data Cleaning
+
+Before proceeding with further exploratory data analysis (EDA) and modeling, the initial step involves data cleaning. This entails removing all null values from the dataset to obtain a refined version.
 
 ```{r, results='markup', echo=TRUE}
-summary(df) # descriptive stats
-sum(is.na(df)) # check null values
+# check null values
+sum(is.na(df)) 
 # Drop NA values
 df <- na.omit(df)
-
 ```
-**Alter column names**
 
+### 3.4.2 Data Preprocessing
+
+Within our dataset, it is necessary to modify certain column names to facilitate subsequent steps in EDA and modeling.
 
 ```{r, results='markup', echo=TRUE}
 #alter col names
@@ -143,7 +135,6 @@ colnames(df)[colnames(df) == "name"] <- "cab_type"
 head(df)
 ```
 
-**Check for unique values in catgorial columns**
 
 For cab_company, we can see there are 2 unique values.
 ```{r, results='markup', echo=TRUE}
@@ -156,18 +147,26 @@ unique(df$cab_type) #see unique values in cab_type
 ```
 
 ```{r, results='markup', echo=TRUE}
+# Filter the data for each company
+df_lyft <- df[df$cab_company == "Lyft",]
+df_uber <- df[df$cab_company == "Uber",]
+```
+
+
+## 3.5 Data Visulazition
+
+### 3.5.1 Boxplot for Price and Destination
+
+```{r, results='markup', echo=TRUE}
 # Categorical boxplot
 ggplot(df, aes(x = destination, y = price, fill = cab_company)) +
   geom_boxplot() +
   theme_minimal(base_size = 18)
 ```
 
-## Data Visualization
-**Hour vs Mean_Price**
+The boxplot comparison between Lyft and Uber indicates that Lyft's median prices are consistently higher than Uber's for the same destinations. This pattern suggests that Lyft may employ a pricing strategy that places its services at a premium compared to Uber across various routes.
 
-
-
-
+### 3.5.2 Time Series Analysis for Hour and Price
 
 ```{r, results='markup', echo=TRUE}
 
@@ -200,16 +199,14 @@ ggplot(data = cab_data, aes(x = hour, y = price, color = cab_company, group = ca
   scale_color_manual(values = c("blue", "red")) +
   theme_minimal()
 ```
+The first graph illustrates fluctuations in Uber prices throughout the day, with notable peaks occurring during early morning hours, as well as during typical morning and evening rush hours, indicating a correlation between price surges and high-demand times.
+
+The second graphical analysis indicates that Lyft's pricing experiences a notable peak at 1 a.m., possibly reflecting a surge pricing mechanism in response to nightlife transit demand. Contrary to a typical diurnal pattern, Lyft's pricing does not exhibit a clear, consistent trend across the 24-hour cycle, suggesting a more complex interplay of factors influencing fare changes beyond mere temporal demand.
+
+The composite time series graph illustrates a comparative analysis of Uber and Lyft pricing across various hours. The visual data suggests that Lyft's pricing structure exhibits greater variability and higher pricing peaks when compared to Uber. This may be indicative of Lyft's dynamic pricing strategy, which appears to be more sensitive to fluctuations in demand or other operational variables within the same temporal framework.
 
 
-
-
-
-
-
-**Company vs price**
-
-
+### 3.5.3 Histogram of Price by cab_company
 
 ```{r, results='markup', echo=TRUE}
 # Create a figure with two subplots
@@ -225,11 +222,9 @@ hist(df$price[df$cab_company == "Uber"], col="blue", xlab="Price", ylab="Frequen
 legend("topright", legend=c("Uber", "Lyft"), fill=c("blue", "orange"))
 ```
 
+The orange histogram represents Lyft, showing a peak in the lower price range, indicating a high frequency of rides at lower prices. The blue histogram for Uber also shows a high frequency in the lower price range but with a greater spread in the distribution of prices, suggesting a wider variation in Uber's ride prices compared to Lyft. 
 
-
-
-**Cab types vs Price**
-
+### 3.5.4 Boxplot of Prices by cab_type
 
 ```{r, results='markup', echo=TRUE}
 df_lyft <- df[df$cab_company == "Lyft",]
@@ -264,16 +259,11 @@ p_combined <- ggplot(df_combined, aes(x = cab_type, y = price, fill = cab_compan
 
 # Print the combined plot with modified aesthetics
 p_combined
-
-
 ```
 
+The boxplot presents a comparison of median prices by cab type for Lyft and Uber. Lux Black XL, Black SUV, and Lux Black are the most expensive options with Lyft generally showing higher median prices than Uber. The cheapest options like UberPool and Shared show much lower median prices. This visual suggests a distinct price range based on the luxury level of the cab type selected.
 
-
-
-**Distance vs Price**
-
-
+### 3.5.5 Scatter Plot for Distance and Price
 
 ```{r, results='markup', echo=TRUE}
 # Scatter plot: Examine the relationship between price and distance
@@ -286,11 +276,10 @@ ggplot(df, aes(x = distance, y = price)) +
   theme_minimal()                                   # Use a minimalistic theme
 ```
 
+The scatter plot indicates a wide range of ride prices across varying distances. The densest cluster of data points suggests that most rides are concentrated within a shorter distance range with prices mainly below $50. There are visible outliers representing longer trips with higher prices, demonstrating that as the distance increases, the potential for higher ride prices also increases.
 
 
-**Surge_multiplier vs Price**
-
-
+### 3.5.6 Boxplot for surge_multiplier and price
 
 ```{r, results='markup', echo=TRUE}
 # Box plot: Examine the distribution of price across different surge multipliers
@@ -303,13 +292,9 @@ ggplot(df, aes(x = factor(surge_multiplier), y = price)) +  # Convert surge_mult
   theme_minimal()
 ```
 
+The boxplot showcases the distribution of prices across different surge multiplier categories for a ride-hailing service. The median prices tend to increase with higher surge multipliers, indicating a direct relationship between price surges and increased costs. The spread and outliers within each category suggest variability in pricing even within the same surge multiplier level.
 
-
-
-**Plot a 3D scatter plot with arguements hour, distance, price**
-
-
-
+### 3.5.7 3D Scatter plot for Hour, Distance, and Price
 ```{r, results='markup', echo=TRUE}
 # Create a 3D scatter plot
 plot_ly(data = df, x = ~hour, y = ~distance, z = ~price, type = "scatter3d", mode = "markers", marker = list(size = 1)) %>%
@@ -317,76 +302,10 @@ plot_ly(data = df, x = ~hour, y = ~distance, z = ~price, type = "scatter3d", mod
 
 ```
 
+The three-dimensional scatter plot offers a comprehensive view of how price correlates with both distance and time. While there is a visible concentration of data suggesting a foundational fare, the dispersion across hours and distances highlights the complexity of pricing dynamics in ride-hailing services.
 
 
-
-## Description Statistics
-
-
-
-**Show standard deviations**
-
-```{r, results='markup', echo=TRUE}
-# measure of variance
-sd(df$price)
-sd(df$distance)
-sd(df$surge_multiplier)
-```
-
-**Test normality**
-
-For hour
-```{r, results='markup', echo=TRUE}
-# Create a histogram
-hist(df$hour)
-
-# Create a Q-Q plot
-qqnorm(df$hour)
-qqline(df$hour)
-
-# Create a density plot
-plot(density(df$hour))
-```
-
-For price
-
-```{r, results='markup', echo=TRUE}
-# Create a histogram
-hist(df$price)
-
-# Create a Q-Q plot
-qqnorm(df$price)
-qqline(df$price)
-plot(density(df$price))
-```
-
-For distance
-
-```{r, results='markup', echo=TRUE}
-# Create a histogram
-hist(df$distance)
-
-# Create a Q-Q plot
-qqnorm(df$distance)
-qqline(df$distance)
-plot(density(df$distance))
-```
-
-For surge_multiplier
-
-```{r, results='markup', echo=TRUE}
-# Create a histogram
-hist(df$surge_multiplier)
-
-# Create a Q-Q plot
-qqnorm(df$surge_multiplier)
-qqline(df$surge_multiplier)
-plot(density(df$surge_multiplier))
-```
-
-## Correlation Heatmap for Numeric Colmns
-
-
+### 3.5.8 Heatmap for All Variables
 
 ```{r, results='markup', echo=TRUE}
 # Correlation heatmap
@@ -404,68 +323,113 @@ heatmap.2(corr_all,
 )
 ```
 
+From this correlation heatmap, we are able to filter out some irrelevant variables for price. Surge_multiplier and distance have the highest correlation with price at 0.24 and 0.35. The hour and weekday have a relatively low correlation with price. Other variables such as weather condition like humidity and visibility are having 0 correlation with price.
 
+## 3.6 Test normality
 
-
-## Chi-Squared Test for Cab_company & Cab_type
-
+```{r, results='markup', echo=TRUE}
+# measure of variance
+sd(df$price)
+sd(df$distance)
+sd(df$surge_multiplier)
+```
 
 
 ```{r, results='markup', echo=TRUE}
-# Chi-squared test
+# Create a histogram
+hist(df$hour)
+
+# Create a Q-Q plot
+qqnorm(df$hour)
+qqline(df$hour)
+
+# Create a density plot
+plot(density(df$hour))
+```
+
+The histogram indicates a roughly uniform distribution with a slight decrease towards the higher end. The Q-Q plot suggests the data deviate from normality, particularly at lower and higher quantiles. Lastly, the density plot shows a multimodal distribution with several peaks, suggesting certain hours have higher frequencies.
+
+```{r, results='markup', echo=TRUE}
+# Create a histogram
+hist(df$price)
+
+# Create a Q-Q plot
+qqnorm(df$price)
+qqline(df$price)
+plot(density(df$price))
+```
+
+The three graphs collectively suggest that the distribution of prices is not normal; there is a skew towards lower prices with frequent spikes. The histogram shows a right-skewed distribution with most prices clustered at the lower end. The Q-Q plot indicates deviation from normality, especially at the higher quantiles. The density plot reveals multiple peaks, indicating potential groupings or tiers in pricing structure.
+
+```{r, results='markup', echo=TRUE}
+# Create a histogram
+hist(df$distance)
+
+# Create a Q-Q plot
+qqnorm(df$distance)
+qqline(df$distance)
+plot(density(df$distance))
+```
+
+The histogram of 'df$distance' displays a right-skewed distribution, indicating that shorter trips are more frequent. The Q-Q plot also shows deviation from normality, especially for longer trips, while the density plot reveals multiple peaks, which may represent common travel distances.
+
+```{r, results='markup', echo=TRUE}
+# Create a histogram
+hist(df$surge_multiplier)
+
+# Create a Q-Q plot
+qqnorm(df$surge_multiplier)
+qqline(df$surge_multiplier)
+plot(density(df$surge_multiplier))
+```
+
+The histogram and density plot for `df$surge_multiplier` show a highly skewed distribution with most values concentrated at 1, indicating that surge pricing is infrequently applied. The Q-Q plot further illustrates that surge multipliers do not follow a normal distribution, with a steep departure from the theoretical line.
+
+## 3.7 Hypothesis Testing
+
+```{r}
+# Chi-squared test for cab_company and cab_type
 chisq_result <- chisq.test(df$cab_company, df$cab_type)
 
 chisq_result
+
 ```
 
+With a Chi-squared value (X-squared) of 600,000 and a degrees of freedom (df) of 11, the test result is highly significant (p-value < 2e-16). This suggests that there is a statistically significant association between the cab company (e.g., Lyft or Uber) and the type of cab service offered (e.g., shared, Lux, Lyft, etc.). In other words, the type of cab service is not independent of the cab company; there's a strong relationship between these two variables in the dataset.
 
+```{r, results='markup',echo=TRUE}
+# Perform T-test to compare prices between two cab companies
+t_test_result <- t.test(price ~ cab_company, data = df)
 
-
-
-# Linear Regression Analysis for distance & surge_multiplier & hour
-
-Finally, we chose linear regression analysis to explore the relationship between the three independent variables distance, surge_multiplier and hour and price.
-
-We will explore whether distance, surge_multiplier and time have a linear relationship with price, and how these independent variables explain price changes.
-
-Linear regression analysis will help us quantify the extent to which these factors affect prices.
-
-```{r, results='markup', echo=TRUE}
-#linear regression analysis
-linear_model <- lm(price~distance + surge_multiplier,data = df)
-summary(linear_model)
+# Print the results
+print(t_test_result)
 ```
 
-This is the result of a set of linear regression analysis used to explore the relationship between price, distance and surge_multiplier.
+With a t-value of 66 and degrees of freedom approximately 600,000, the test shows a highly significant p-value (<2e-16), indicating that the average prices of Lyft and Uber are statistically different. The 95% confidence interval for the difference in means ranges from 1.51 to 1.60, suggesting that, on average, Lyft's prices are higher than Uber's by this amount. The mean price for Lyft is 17.4 and for Uber is 15.8, reinforcing this conclusion.
 
-A regression model is used to predict prices using distance and doubling of the number of passengers during peak hours as independent variables.
+## 3.8 Summary and Answer Smart Questions
 
-Coefficient estimate:
-Intercept's estimated value is -12.9730.
+### 3.8.1 Summary
 
-The coefficient estimate for distance is 2.8232, indicating that each unit increase in distance will cause the price to increase by approximately 2.8232 units.
+The EDA of a dataset comprising ride-hailing data from Uber and Lyft in Boston, MA, along with concurrent weather conditions, yielded insightful findings. After cleaning and preprocessing the data, we delved into data visualization techniques. Boxplots indicated that Lyft consistently had higher median prices than Uber for the same destinations, suggesting a pricing strategy premium. Time series analysis unveiled price surges during high-demand hours for both Uber and Lyft. Histograms and boxplots revealed that Lyft generally had higher median prices than Uber, with distinct price ranges for different cab types. A scatter plot depicted a wide range of prices for varying distances. A boxplot illustrated the direct relationship between surge pricing and increased costs. A 3D scatter plot highlighted the complexity of price correlations with distance and time. The chi-squared test revealed a significant association between cab company and cab type, while a t-test confirmed Lyft's higher average prices.
 
-The coefficient estimate for surge_multiplier is 22.8997, indicating that each unit multiplier will cause the price to increase by approximately 22.8997 units.
+### 3.8.2 Answer Smart Questions
 
-The p-value is less than 2e-16 (close to zero). This means that all independent variables explain prices in a statistically significant way.
+1. Is there any relationship between price and hour?
+Yes, there is a relationship between price and hour. Both Uber and Lyft experience price surges during high-demand hours, such as early morning and rush hours.
 
-Residuals statistics show the fit of the model, including minimum value, quartile, median and maximum value.
-The standard deviation of the residuals is 8.52, which indicates the dispersion of the model's residuals.
+2. Is there any relationship between price and cabin types (cab types)?
 
-Model explainability:
-The Multiple R-squared is 0.184, indicating that the model can explain 18.4% of the price variation.
+Yes, there is a relationship between price and cabin types. Lyft generally has higher median prices than Uber, and different cab types have distinct price ranges.
 
-The Adjusted R-squared is 0.183, which takes into account the degree of freedom of the model and also illustrates the explanatory ability of the model.
+3. Do weather factors, like temperature, wind, and sunset, affect the final price?
+No, in the corelation heatmap, variables such as weather condition like humidity and visibility are having 0 correlation with price. Therefore, it means they have lower relationship with price.
 
-The F statistic is 674 and the degrees of freedom are 2 and 5997. The p-value is also close to zero (<2e-16), indicating that the model is statistically significant overall.
+# 4. Modeling
 
-The results of this linear regression analysis show:
-There is a significant linear relationship between distance and the doubling of peak-hour passenger numbers and price.
-The positive coefficient for distance indicates that as distance increases, price increases.
+## 4.1 Modeling Data Splitting
 
-A positive coefficient for doubling the number of passengers during peak hours indicates that doubling peak hours significantly increases prices.
-
-The overall model is statistically significant, indicating that the independent variables explain the price significantly.
+We have divided the dataset into two subsets: a training dataset comprising 70% of our data and a testing dataset comprising the remaining 30%.
 
 ```{r, results='markup', echo=TRUE}
 # Convert timestamp to datetime and extract the weekday
@@ -551,6 +515,9 @@ X_train_processed <- bake(prep_rec, X_train)
 X_test_processed <- bake(prep_rec, X_test)
 ```
 
+## 4.2 Linear Model
+
+
 ```{r, results='markup', echo=TRUE}
 # Linear Regression
 linear_model <- lm(y_train ~ ., data = X_train_processed)
@@ -558,12 +525,19 @@ summary(linear_model)
 
 ```
 
+Our comprehensive analysis delved into the determinants of pricing for ride-hailing services, focusing on the significance of travel distance, time-based pricing multipliers, and temporal factors. We employed an extensive dataset, selecting price as our dependent variable, influenced by a suite of predictors: weekday, hour, cab type and company, distance, and various weather-related descriptors. The refined linear regression model demonstrated a notable predictive strength, elucidating 85.3% of the variance in prices. The surge multiplier emerged as a particularly strong predictor, underscoring its weighty impact on fare costs. Overall, the model's robust statistical indicators, including a residual standard error of 3.58 and a substantial F-statistic, confirm the reliability and explanatory power of our analytical approach in capturing the complexities of ride-hailing pricing dynamics.
+
+## 4.3 PCR Model
+
 ```{r, results='markup', echo=TRUE}
 pcr_model <- pcr(y_train ~ ., data = X_train_processed, scale = TRUE, validation = "CV")
 summary(pcr_model)
 ```
 
+Subsequent to our initial linear regression analysis, we incorporated Principal Component Regression (PCR) to address multicollinearity and enhance model precision. We deployed a linear regression model with x_train_processed data to predict y_train (price), rigorously evaluating residuals, coefficients, and fit indices to validate the model. PCR application resolved issues of high dimensionality and multicollinearity, with the reduction in RMSEP values and increased components suggesting predictive accuracy enhancements. The model's high R-squared value signifies its capability to capture pricing dynamics effectively, with PCR offering further refinement by adeptly managing data complexity and reaffirming the stability of our predictive constructs.
 
+
+## 4.4 Tree Model
 
 ```{r, results='markup', echo=TRUE}
 # Tree Analysis
@@ -576,21 +550,30 @@ summary(tree_model)
 plot(tree_model)
 text(tree_model, pretty = 0)
 ```
-# Summary 
 
-In this study, we chose a data set consisting of five vertical columns "hour", "price", "surge_multiplier", "cab_type" and "name" and 6,000 data in each vertical column. These factors can effectively help us analyze the reasons for price changes of online ride-hailing companies. Of course, there are limitations in this set of datasets. The huge data in the original dataset forces us to use python to cut the data to make this dataset suitable for our research. After completing the collection and production of the dataset, we can use EDA to efficiently find the answers we need. Moreover, if more information about weekdays, holidays or weather conditions could be collected, then these might be more helpful in predicting price.
-In our data analysis, we looked at the relationship between Uber and Lyft prices and different factors. Our results show that there is a strong correlation between distance and the surge_multiplier in the number of passengers during peak hours and price. In particular, distance and the doubling of passenger numbers during peak hours can largely explain changes in prices. This means that longer distances and doubling the number of passengers during peak times tend to lead to higher prices, which are key factors for both passengers and drivers.
+Our study delved into the complexities of pricing within ride-hailing service data through decision tree analysis, a robust method for capturing non-linear relationships. We concentrated on the influence of "cab_type" and "distance" on the "y_train" price variable, utilizing a regression tree to uncover intricate pricing strategies. The resulting tree, which posited "cab_type" as the root node and "distance" as a critical branch modifier, consisted of seven terminal nodes, underscoring the primary importance of these variables in pricing decisions.
 
-In contrast, the time factor (hours) does not have a strong explanatory power on prices. Our analysis found that the correlation between time and price is relatively weak, and even if we try to exclude the impact of time factors on price, there is no significant change. This may indicate that time is not the main factor in determining price.
+The model exhibited a mean residual deviation of 13.4, indicative of the variability in price predictions, with residuals ranging notably from -9.3 to 59.7. Despite this spread, the proximity of the median residual to -0.3 suggests a commendable model fit. The decision rules derived from the tree confirm "cab_type" as a pivotal predictor, with "distance" providing nuanced delineation of price increments related to longer journeys. The broad range of residuals, while highlighting predictive variability, does not detract from the model’s overall fitting accuracy.
 
-Furthermore, we observe a linear relationship between distance, doubling of peak-hour passenger numbers, and price, meaning that changes in price can be explained by a linear combination of these factors.
+# 5 Conclusion
 
-In our research, we also found a strong correlation between "Cab_company" and "Cab_type". This may be because Uber and Lyft's pricing strategies relate to different Cab_companies and car models. Especially "Cab_type" as a string type variable, we did not study it in depth, but we think that in future research, it may become an important factor, because different types of cars may have a significant impact on the price.
+Our comprehensive statistical analysis has elucidated several influential factors on ride-hailing prices. The type of cab (`cab_type`) emerges as a highly significant predictor, indicating that different service levels or cab models may attract different pricing. Distance traveled has also been confirmed to play a crucial role, with a clear positive correlation with price. Furthermore, the `surge_multiplier`, reflective of demand-driven pricing adjustments, significantly influences ride costs.
 
-Overall, our study provides useful insights into the factors that drive Uber and Lyft prices, highlights the importance of distance and peak-hour ridership doubling, and points to some potential research directions such as different cabs The impact of company and model on price. These results contribute to a better understanding of price-setting strategies for shared mobility services, providing more information and insights to passengers and drivers.
+Interestingly, the analysis reveals that rides associated with Uber, as differentiated by the `cab_company_Uber` variable, may be priced distinctively compared to those from Lyft, suggesting competitive pricing strategies or different service offerings between the two companies.
 
+While weather and time-related factors, including `icon` variables and `hour` or `weekday`, were considered in the model, they do not appear to substantially impact pricing, as indicated by their less significant p-values. This could point to the robustness of ride-hailing services in maintaining consistent pricing irrespective of these variables, or it might suggest that the effects of weather and time are subsumed by other more dominant factors.
 
-# Reference Page
+The influence of destination on pricing also cannot be ignored. Specific locations are associated with significant pricing differences, which could be attributed to factors like average trip lengths, typical traffic conditions, or the popularity of the destination.
+
+The performance of the linear regression model, evidenced by a high multiple R-squared value of 0.853, indicates that a significant portion of the variance in ride prices is well explained by the variables included in the model. However, the range of residuals points to the existence of outliers or exceptional pricing scenarios that the model does not fully capture, signaling an area for further research.
+
+Principal Component Regression (PCR) analysis further refines our understanding by demonstrating that incorporate a greater number of components significantly improves the model's prediction accuracy, especially beyond the inclusion of 27 components.
+The regression tree analysis corroborates the findings from the linear model, highlighting cab_type and distance as primary variables. The tree's structure provides a clear and actionable decision-making framework for predicting prices based on these variables.
+
+Overall, this study provides a robust framework for understanding the determinants of ride-hailing prices, offering valuable insights for service providers to optimize their pricing strategies and for consumers to make informed decisions. While the models presented are insightful, the complexity of ride-hailing pricing dynamics warrants further investigation into additional variables and possibly more sophisticated modeling approaches to capture the full spectrum of influences on ride prices.
+
+# Reference
 
 1.Brllrb. (2019). Uber and Lyft Dataset: Boston, MA. Kaggle. https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma/data.
+
 2.NYC Data Science Academy. (n.d.). Uber vs. Lyft: A Data Analysis of the Rideshare Market in Boston. Retrieved from https://nycdatascience.com/blog/student-works/uber-vs-lyft-a-data-analysis-of-the-rideshare-market-in-boston/.
